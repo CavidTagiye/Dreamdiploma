@@ -38,6 +38,9 @@ This project is intended to help users explore educational opportunities, learn 
 
 ### 4. **JSON**
 - `thehigher.json` is used for storing data.
+- `career.json` is used for storing data of career pages, to create html files dinamically.
+- `university.json` is used for storing data of universities, universities pages are creating dinamically with this json data.
+- you can find other json files from dublicate folder
 
 ### 5. **Font Awesome**
 - Used for icons.
