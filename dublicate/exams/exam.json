@@ -1,0 +1,432 @@
+[{
+    "name": "IELTS",
+    "description": "IELTS (International English Language Testing System) dünyada ən geniş qəbul edilən ingilis dili biliklərini ölçən imtahanlardan biridir. İmtahan əsasən iki kateqoriyada təqdim edilir: Akademik modul (university admission üçün) və Ümumi modul (miqrasiya və iş üçün). IELTS dörd əsas bacarığı qiymətləndirir: dinləmə, oxuma, yazı və danışıq. İmtahan həm kompüter əsaslı, həm də kağız əsaslı keçirilə bilər.",
+    "score_range": "0–9 band (0.5-lik intervallarla). 0–9 band. 0–4 zəif, 4.5–6 orta, 6.5–7.5 yaxşı, 8–9 çox yaxşı səviyyə sayılır. Hər bölmədən ayrıca bal və orta ümumi bal (Overall Band Score) hesablanır.",
+    "exam_sections": "Listening (Dinləmə): 4 hissə, 40 sual, təxminən 30 dəqiqə. Akademik və Ümumi modul üçün oxşardır. \nReading (Oxuma): 3 böyük mətn və 40 sual, 60 dəqiqə. Akademik modulda akademik mətnlər, Ümumi modulda gündəlik həyatla bağlı mətnlər olur. \nWriting (Yazı): 2 tapşırıq, 60 dəqiqə. Akademik modulda akademik qrafik təsviri və esse, Ümumi modulda məktub və esse yazılır. \nSpeaking (Danışıq): 11–14 dəqiqəlik fərdi müsahibə. 3 hissədən ibarətdir: tanışlıq sualları, əsas mövzu üzrə çıxış və qarşılıqlı sual-cavab.",
+    "exam_price": "Azərbaycanda təxmini 470–500 AZN arası. (Qiymət dəyişkən ola bilər və imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "Listening, Reading və Writing hissələri eyni gündə keçirilir. Speaking hissəsi isə ya eyni gün, ya da fərqli bir tarixdə ola bilər. Kompüter əsaslı versiyada nəticələr 3–5 gün ərzində, kağız əsaslı versiyada 13 günə təqdim edilir. İmtahan British Council, IDP və ya digər akkreditə olunmuş mərkəzlərdə keçirilir.",
+    "recommendations": [
+      "İmtahana ən azı 2–3 ay öncədən başlayaraq planlı şəkildə hazırlaşın və hər gün 4 bölmə üzrə balanslı məşq edin.",
+      "Listening üçün müxtəlif ingilis aksentlərini (Britaniya, Avstraliya, Kanada) dinləməyə fokuslanın.",
+      "Reading bölməsində vaxt idarəsi çox vacibdir. Tez oxuma texnikalarını (skimming və scanning) inkişaf etdirin.",
+      "Writing bölməsində struktur qaydalarına diqqət yetirin və fikir ifadə etməyi sadə, aydın cümlələrlə öyrənin.",
+      "Speaking bölməsində öz fikrinizi sərbəst ifadə etməyə çalışın, tez-tez 'yes/no' cavablarından qaçın və cavablarınızı genişləndirin."
+    ],
+    "official_link": "https://www.ielts.org/"
+  },
+  {
+    "name": "TOEFL",
+    "description": "TOEFL (Test of English as a Foreign Language) ingilis dili bacarıqlarını ölçən beynəlxalq imtahandır. Əsasən ABŞ, Kanada və digər ingilisdilli ölkələrin universitetlərinə qəbul üçün tələb olunur. TOEFL iBT (internet-based test) versiyası ən geniş istifadə ediləndir və dörd əsas bacarığı — oxuma, dinləmə, yazı və danışıq — qiymətləndirir. İmtahan əsasən akademik mühitə uyğunlaşdırılmış tapşırıqlardan ibarətdir.",
+    "score_range": "0–120 bal. 0–120 bal. 0–60 zəif, 61–85 orta, 86–100 yaxşı, 101–120 çox yaxşı hesab olunur. Hər bölmə 0–30 arası qiymətləndirilir və bütün bölmələrin cəmi ümumi balı təşkil edir.",
+    "exam_sections": "Reading (Oxuma): 2–3 akademik mətn və 20–30 sual, 35 dəqiqə. \nListening (Dinləmə): 3–6 danışıq və mühazirə parçaları, 28–39 sual, 36 dəqiqə. \nSpeaking (Danışıq): 4 tapşırıq, 16 dəqiqə. Şəxsi fikrin ifadəsi və oxuma-dinləmə tapşırıqlarına cavab. \nWriting (Yazı): 2 tapşırıq, 29 dəqiqə. Oxuma və dinləmə hissələri ilə inteqrasiya olunmuş və müstəqil esse yazmaq.",
+    "exam_price": "Azərbaycanda təxmini 420–470 AZN arası. (Qiymət dəyişkən ola bilər və qeydiyyat mərkəzindən asılıdır.)",
+    "exam_conditions": "TOEFL iBT imtahanı rəsmi ETS tərəfindən idarə olunur və akkreditə olunmuş imtahan mərkəzlərində keçirilir. İmtahan tamamilə kompüter əsaslıdır. Listening və Reading hissələrindən sonra qısa fasilə verilir. Nəticələr 6–10 gün ərzində elektron sistemə yerləşdirilir. Qeydiyyat ETS-in rəsmi saytı vasitəsilə edilir.",
+    "recommendations": [
+      "Reading hissəsində akademik mətnləri tez başa düşmək üçün mətn strukturlarını (nəticə, müqayisə, səbəb-nəticə) yaxşı analiz edin.",
+      "Listening üçün universitet mühazirələrinə və akademik səviyyəli podcastlara qulaq asaraq qeydlər aparın.",
+      "Speaking hissəsində vaxt idarəsinə diqqət edin və fikirlərinizi sürətli və aydın şəkildə qurmağa öyrəşin.",
+      "Writing tapşırıqları üçün əsas arqumentlərinizi aydın və dəstəkləyici nümunələrlə izah etməyə fokuslanın.",
+      "İmtahan simulyasiyası (full test practice) edin ki, 3 saatlıq intensiv imtahan tempinə alışasınız."
+    ],
+    "official_link": "https://www.ets.org/toefl"
+  },
+
+
+  {
+    "name": "SAT",
+    "description": "SAT (Scholastic Assessment Test) ABŞ və bir çox digər ölkələrin universitetlərinə bakalavr proqramına qəbul üçün tələb olunan standartlaşdırılmış imtahandır. SAT əsasən tələbələrin oxu, yazı və riyaziyyat üzrə akademik bacarıqlarını qiymətləndirir. İmtahan beynəlxalq tələbələr üçün ABŞ-universitetlərinə qəbul prosesində vacib meyar rolunu oynayır. 2024-cü ildən etibarən SAT imtahanı rəqəmsal (digital) formata keçib və daha qısa müddətə icra olunur.",
+    "score_range": "400–1600 bal. 400–1000 zəif, 1000–1200 orta, 1200–1400 yaxşı, 1400–1600 çox yaxşı səviyyə sayılır.",
+    "exam_sections": "Reading and Writing (Oxuma və Yazı): Təxminən 54 sual və tapşırıq, 64 dəqiqə. Qısa akademik və real dünya mətnləri əsasında suallar. \nMath (Riyaziyyat): Təxminən 44 sual, 70 dəqiqə. Kalkulyatorla və kalkulyatorsuz riyaziyyat bölmələri birləşdirilib. Cəbr, ədəd və funksiya təhlili, problem həlli və məlumat təhlili mövzularını əhatə edir.",
+    "exam_price": "Azərbaycanda təxmini 180 AZN. (Qiymət dəyişkən ola bilər və imtahan mərkəzinə görə dəyişir.)",
+    "exam_conditions": "SAT imtahanı hazırda tam rəqəmsal formada (laptop və ya tablet üzərindən) keçirilir. Tələbələr rəsmi qeydiyyatdan sonra xüsusi tətbiq vasitəsilə imtahan günündə tapşırıqları yerinə yetirirlər. İmtahan müddəti təxminən 2 saat 14 dəqiqədir. Nəticələr 1–2 həftə ərzində elan edilir. İmtahan College Board tərəfindən idarə olunur.",
+    "recommendations": [
+      "Reading and Writing bölməsində qrammatika və mətn anlayışı üzrə intensiv praktika edin; sual tiplərinə görə fərqli strategiyalar tətbiq edin.",
+      "Math bölməsi üçün formulları əzbərləyin və tez-tez kalkulyator istifadə etmədən problemlər həll etməyə çalışın.",
+      "İmtahan simulyasiyaları (rəsmi practice tests) edərək vaxtı idarə etməyə öyrəşin və konsentrasiya bacarığınızı inkişaf etdirin.",
+      "Weak areas (zəif olduğunuz sahələr) üzrə fokuslanın və fərqli resurslardan izahlı dərs videoları izləyin.",
+      "İmtahan günü üçün texniki avadanlıqlarınızı (laptop/tablet, şarj cihazı və s.) əvvəlcədən tam hazır vəziyyətə gətirin."
+    ],
+    "official_link": "https://satsuite.collegeboard.org/sat"
+  },
+
+  {
+    "name": "ACT",
+    "description": "ACT (American College Testing) ABŞ-da və bir sıra digər ölkələrdə universitetlərə bakalavr proqramına qəbul üçün istifadə olunan standartlaşdırılmış imtahandır. ACT tələbələrin məktəbdə qazandıqları bilik və bacarıqları qiymətləndirir və onların universitetdə uğur qazanmaq potensialını ölçür. İmtahan riyaziyyat, oxuma, ingilis dili, təbiət elmləri və opsional olaraq esse yazı bölməsindən ibarətdir. 2020-ci ildən etibarən ACT həm kağız əsaslı, həm də rəqəmsal formada keçirilə bilər.",
+    "score_range": "1–36 bal. 1–15 zəif, 16–23 orta, 24–29 yaxşı, 30–36 çox yaxşı səviyyə sayılır.",
+    "exam_sections": "English (İngilis dili): 75 sual, 45 dəqiqə. Qrammatika, cümlə strukturu və üslub bacarıqlarını ölçür. \nMathematics (Riyaziyyat): 60 sual, 60 dəqiqə. Əsas riyazi biliklər, funksiyalar, həndəsə və statistika mövzularını əhatə edir. \nReading (Oxuma): 40 sual, 35 dəqiqə. Fərqli mövzularda mətnləri anlama və təhlil etmə bacarığını yoxlayır. \nScience (Təbiət elmləri): 40 sual, 35 dəqiqə. Təbiət elmləri sahəsində məlumatları analiz və interpretasiya etmək bacarığını qiymətləndirir. \nOptional Writing (Opsional Yazı): 1 esse tapşırığı, 40 dəqiqə. İmtahanın bu hissəsi tələbənin arqument əsaslı yazı bacarığını ölçür.",
+    "exam_price": "Azərbaycanda təxmini 150–180 USD arası. (Qiymət dəyişkən ola bilər və esse bölməsi əlavə olunsa qiymət artır.)",
+    "exam_conditions": "ACT imtahanı qeydiyyatdan sonra rəsmi ACT test mərkəzlərində keçirilir. Imtahanın əsas bölmələri kağız əsaslı və ya rəqəmsal olaraq aparıla bilər. Esse bölməsi könüllüdür və yalnız bəzi universitetlər tərəfindən tələb olunur. İmtahanın müddəti esse olmadan 2 saat 55 dəqiqə, esse ilə birlikdə 3 saat 35 dəqiqədir. Nəticələr 2–8 həftə ərzində təqdim edilir.",
+    "recommendations": [
+      "İngilis dili bölməsində qrammatika və sintaksis qaydalarını tam mənimsəyin və zaman idarəsini yaxşı təcrübə edin.",
+      "Riyaziyyat bölməsi üçün kalkulyatorla və kalkulyatorsuz suallara fərqli yanaşmalar öyrənin və formul xatırlama bacarığınızı inkişaf etdirin.",
+      "Oxuma bölməsində tez oxuma (skimming) və əsas ideyanı müəyyən etmə strategiyalarını aktiv şəkildə tətbiq edin.",
+      "Science bölməsində məlumat analizini sürətlə yerinə yetirmək üçün diaqramlar və cədvəllərlə işləmə bacarığınızı gücləndirin.",
+      "Opsional esse üçün arqument əsaslı yazı strukturu (giriş, əsas bədən abzasları, nəticə) qurmağa öyrənin və arqumentlərinizi nümunələrlə gücləndirin."
+    ],
+    "official_link": "https://www.act.org/"
+  },
+
+
+  {
+    "name": "GRE",
+    "description": "GRE (Graduate Record Examination) magistratura və doktorantura səviyyəsində qəbul üçün dünyada ən çox tələb olunan standartlaşdırılmış imtahanlardan biridir. İmtahan əsasən ABŞ, Kanada, Avropa və bir sıra digər ölkələrin universitetləri tərəfindən tələb olunur. GRE tələbələrin riyaziyyat, tənqidi oxuma və analitik yazı bacarıqlarını ölçür. İmtahan həm kompüter əsaslı (computer-based), həm də bəzi bölgələrdə kağız əsaslı formatda keçirilir.",
+    "score_range": "260–340 bal (Verbal + Quantitative). 260–300 zəif, 301–320 orta, 321–340 yaxşı səviyyə hesab olunur. Analitik Yazı (Analytical Writing) 0–6 arasında ayrıca qiymətləndirilir.",
+    "exam_sections": "Verbal Reasoning (Şifahi Əqli İstiqamət): 2 bölmə, hərəsində 20 sual, hər bölmə üçün 30 dəqiqə. Mətn anlama, arqument təhlili və söz ehtiyatını ölçür. \nQuantitative Reasoning (Riyazi Əqli İstiqamət): 2 bölmə, hərəsində 20 sual, hər bölmə üçün 35 dəqiqə. Əsas riyazi anlayışlar, problemlərin həlli və məlumat təhlili üzrə suallar. \nAnalytical Writing (Analitik Yazı): 2 yazı tapşırığı, ümumi 60 dəqiqə. İddiaların təhlili və arqumentlərin qiymətləndirilməsi bacarıqlarını yoxlayır.",
+    "exam_price": "Azərbaycanda təxmini 410–450 AZN arası. (Qiymət dəyişkən ola bilər və qeydiyyat zamanı təsdiqlənir.)",
+    "exam_conditions": "GRE imtahanı rəsmi ETS tərəfindən təşkil olunur və Azərbaycanda akkreditə olunmuş test mərkəzlərində keçirilir. İmtahan kompüter əsaslıdır və adaptiv xüsusiyyətə malikdir (yəni ilk bölmənin performansına əsasən ikinci bölmənin çətinlik səviyyəsi dəyişə bilər). İmtahan ümumi olaraq 3 saat 45 dəqiqə davam edir. Nəticələr adətən 10–15 gün ərzində elan edilir.",
+    "recommendations": [
+      "Verbal Reasoning üçün geniş akademik və ədəbi mətnlər oxumaqla söz ehtiyatınızı artırın və mətnləri tez təhlil etməyə öyrənin.",
+      "Quantitative Reasoning üçün əsas riyazi konsepsiyaları (cəbri bərabərliklər, ədədi təhlil, həndəsə) gücləndirin və tez hesablamalar etmək bacarığı üzərində çalışın.",
+      "Analytical Writing üçün əvvəlcədən mövzu siyahısı üzərində yazı məşqləri edin və yazılarınızı arqument strukturu baxımından təhlil edin.",
+      "İmtahanın adaptiv olduğunu nəzərə alaraq hər bölmədə yüksək performans göstərmək üçün sınaq testləri ilə özünüzü sınayın.",
+      "İmtahan günü üçün vaxt idarəsini təkmilləşdirmək məqsədilə tam GRE simulyasiyaları keçirin və fiziki-psixoloji dayanıqlılıq üzərində işləyin."
+    ],
+    "official_link": "https://www.ets.org/gre"
+  },
+
+
+
+  {
+    "name": "GMAT",
+    "description": "GMAT (Graduate Management Admission Test) biznes məktəblərinə, xüsusilə MBA proqramlarına qəbul üçün tələb olunan beynəlxalq standartlaşdırılmış imtahandır. GMAT tələbələrin analitik düşünmə, məntiqi təhlil, riyazi və şifahi bacarıqlarını ölçür. İmtahan əsasən idarəetmə və biznes sahələri üzrə təhsil almaq istəyən namizədlərin akademik potensialını qiymətləndirir. 2024-cü ildən etibarən GMAT Focus Edition təqdim olunub və bu versiya daha qısa və strukturlaşdırılmış şəkildə keçirilir.",
+    "score_range": "205–805 bal (Focus Edition). 200–500 zəif, 501–650 orta, 651–805 yaxşı səviyyə hesab olunur.",
+    "exam_sections": "Quantitative Reasoning (Riyazi Əqli İstiqamət): 21 sual, 45 dəqiqə. Əsas riyaziyyat bilikləri və problem həll etmə bacarıqları. \nVerbal Reasoning (Şifahi Əqli İstiqamət): 23 sual, 45 dəqiqə. Mətn anlama, arqument təhlili və qrammatika. \nData Insights (Məlumat Analizi): 20 sual, 45 dəqiqə. Qrafiklərin, cədvəllərin və kompleks məlumatların təhlili və şərhi.",
+    "exam_price": "Azərbaycanda təxmini 450–500 AZN arası. (Qiymət dəyişkən ola bilər və qeydiyyat vaxtı təsdiqlənir.)",
+    "exam_conditions": "GMAT Focus Edition imtahanı rəsmi GMAC təşkilatı tərəfindən idarə olunur. İmtahan tam kompüter əsaslıdır və modul seçimi azaddır: namizəd istədiyi bölmələrin ardıcıllığını seçə bilər. İmtahan müddəti təxminən 2 saat 15 dəqiqədir. Nəticələr 3–5 iş günü ərzində açıqlanır. GMAT həm test mərkəzində, həm də evdən online versiyada təqdim olunur.",
+    "recommendations": [
+      "Quantitative Reasoning üçün əsas riyazi anlayışları (cəbri bərabərliklər, ədədi analiz, statistik təhlil) möhkəmləndirin və tez hesablamalar etməyi təcrübə edin.",
+      "Verbal Reasoning bölməsində arqumentləri sürətli təhlil etməyə və mətnlərdən əsas ideyanı tez çıxarmağa fokuslanın.",
+      "Data Insights bölməsində fərqli məlumat vizuallaşdırmalarını (qrafiklər, cədvəllər) oxuma və analiz etmə bacarığınızı inkişaf etdirin.",
+      "GMAT imtahanında vaxt idarəsi çox vacibdir; hər bölmə üçün ciddi vaxt limiti qoyaraq sınaq testləri edin.",
+      "İmtahana hazırlıq zamanı rəsmi GMAT Practice Exams vasitəsilə real imtahan simulyasiyası aparın və nəticələrinizi təhlil edərək zəif tərəflərinizi gücləndirin."
+    ],
+    "official_link": "https://www.mba.com/exams/gmat"
+  },
+
+
+
+  {
+    "name": "TestDaF",
+    "description": "TestDaF (Test Deutsch als Fremdsprache) — Almaniyada ali təhsil almaq istəyən əcnəbi tələbələrin alman dili biliklərini ölçmək üçün nəzərdə tutulmuş beynəlxalq standartlaşdırılmış imtahandır. İmtahan akademik səviyyədə alman dili bacarıqlarını (oxuma, dinləmə, yazı və danışıq) qiymətləndirir və nəticələr Almaniyanın demək olar ki, bütün universitetləri tərəfindən qəbul edilir. TestDaF sertifikatı Almaniyada bakalavr və magistr proqramlarına qəbul üçün geniş istifadə olunur.",
+    "score_range": "TDN 3–5 səviyyələri. TDN 3 zəif, TDN 4 orta-yaxşı, TDN 5 yüksək səviyyə sayılır.",
+    "exam_sections": "Reading Comprehension (Oxuma Anlayışı): Akademik mətnlər əsasında 3 tapşırıq, ümumi 60 dəqiqə. \nListening Comprehension (Dinləmə Anlayışı): Mühazirələr və dialoqlar əsasında 3 tapşırıq, ümumi 40 dəqiqə. \nWritten Production (Yazı Bacarığı): Verilmiş mövzu üzrə esse yazmaq, 60 dəqiqə. \nOral Production (Şifahi Bacarıq): Dialoq və çıxış simulyasiyaları üzrə 7 tapşırıq, təxminən 35 dəqiqə.",
+    "exam_price": "Azərbaycanda təxmini 190–220 AZN arası. (Qiymət dəyişkən ola bilər və imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "TestDaF imtahanı akkreditə olunmuş TestDaF mərkəzlərində keçirilir və standartlaşdırılmış qaydalara əsaslanır. İmtahan kompüter əsaslıdır (təxminən 2024-cü ildən sonra digital formata keçilib). İmtahan nəticəsində hər bölmə üzrə ayrıca bal verilir və ümumi səviyyə hesablanmır; namizədin hər bölmədən əldə etdiyi səviyyə əsas götürülür. Nəticələr adətən 6 həftə ərzində elan edilir.",
+    "recommendations": [
+      "Oxuma bölməsi üçün akademik məqalələr, elmi mətnlər və Alman mətbuatından yazılar oxuyaraq söz ehtiyatınızı artırın.",
+      "Dinləmə bölməsi üçün Alman universitet mühazirələri, radio proqramları və podcastlar dinləyin və qeydlər aparın.",
+      "Yazı bölməsi üçün arqument əsaslı esse strukturlarını (giriş, inkişaf, nəticə) öyrənin və yazı praktikasına üstünlük verin.",
+      "Danışıq bölməsi üçün mövzu üzrə qısa çıxışlar hazırlayın və cavablarınızı fikri inkişaf etdirməklə genişləndirməyə çalışın.",
+      "İmtahana tam hazırlaşmaq üçün əvvəlki illərin TestDaF nümunə sualları və rəsmi model testləri ilə intensiv məşq edin."
+    ],
+    "official_link": "https://www.testdaf.de/"
+  },
+
+  {
+    "name": "DSH",
+    "description": "DSH (Deutsche Sprachprüfung für den Hochschulzugang) — Almaniyada ali təhsil almaq istəyən əcnəbi tələbələrin alman dili biliklərini qiymətləndirmək üçün keçirilən dil imtahanıdır. İmtahan əsasən akademik kontekstdə alman dilində oxuma, dinləmə, yazı və danışıq bacarıqlarını ölçür. DSH imtahanı Almaniyanın öz universitetləri tərəfindən təşkil edilir və nəticələri yalnız imtahanı təşkil edən universitet tərəfindən tanınır. Uğurlu nəticə tələbənin universitet proqramlarına qəbul şansını artırır.",
+    "score_range": "DSH 1–3 səviyyələri. DSH 1 zəif-orta, DSH 2 yaxşı, DSH 3 çox yaxşı səviyyə sayılır.",
+    "exam_sections": "Reading Comprehension (Oxuma Anlayışı): Akademik mətn əsasında anlayış və təhlil sualları. \nListening Comprehension (Dinləmə Anlayışı): Universitet mühazirəsi və ya rəsmi çıxış əsasında dinləmə və anlama tapşırıqları. \nWriting (Yazı Bacarığı): Verilmiş mövzu üzrə akademik yazı yazmaq. \nOral Examination (Şifahi İmtahan): İmtahançılarla fərdi müsahibə formatında, akademik mövzular üzrə sual-cavab.",
+    "exam_price": "Azərbaycanda təxmini 150–200 AZN arası. (Qiymət dəyişkən ola bilər və imtahan mərkəzindən və universitetdən asılıdır.)",
+    "exam_conditions": "DSH imtahanı yalnız Almaniyadakı akkreditə olunmuş universitetlər tərəfindən keçirilir. İmtahan iki mərhələdən ibarətdir: yazılı və şifahi. Yazılı mərhələ müvəffəqiyyətlə tamamlandıqdan sonra namizəd şifahi mərhələyə buraxılır. Nəticələrdə hər bölmə üzrə səviyyə ayrıca göstərilmir; ümumi bir səviyyə (DSH-1, DSH-2, DSH-3) verilir. Bəzi universitetlər yalnız DSH-2 və ya DSH-3 qəbul edir.",
+    "recommendations": [
+      "Akademik alman dilində məqalələr və elmi yazılar oxuyaraq oxu və anlama sürətinizi artırın.",
+      "Dinləmə bölməsi üçün Alman universitetlərinin mühazirə yazılarını və elmi seminarlarını dinləyib qeydlər aparın.",
+      "Yazı bölməsi üçün arqument əsaslı və strukturlaşdırılmış esse yazı bacarıqlarını inkişaf etdirin.",
+      "Şifahi imtahan üçün akademik mövzular üzrə alman dilində çıxışlar hazırlayın və tez-tez məşq edin.",
+      "DSH üçün rəsmi nümunə testlər həll edərək həm tapşırıq formatı, həm də vaxt idarəsi bacarıqlarınızı təkmilləşdirin."
+    ],
+    "official_link": "https://www.dsh-germany.com/"
+  },
+
+
+  {
+    "name": "DELF",
+    "description": "DELF (Diplôme d'Études en Langue Française) Fransız Təhsil Nazirliyi tərəfindən verilən və dünya miqyasında tanınan rəsmi fransız dili diplomudur. İmtahan fransız dilinin dörd əsas bacarığını — oxuma, dinləmə, yazı və danışıq — qiymətləndirir. DELF fərqli səviyyələrdə (A1, A2, B1, B2) keçirilir və hər səviyyə müstəqil diplom verir. Xüsusilə Fransada təhsil, iş və immiqrasiya məqsədilə tələb olunur.",
+    "score_range": "0–100 bal. 0–49 zəif, 50–69 orta, 70–84 yaxşı, 85–100 çox yaxşı hesab olunur. Hər bölmədən minimum 5 bal toplamaq tələb olunur.",
+    "exam_sections": "Listening (Dinləmə): Qısa və uzun audio materiallara əsaslanan suallar. \nReading (Oxuma): Fərqli növ mətnləri anlamaq üçün suallar. \nWriting (Yazı): Verilmiş mövzular üzrə məktub, esse və ya məqalə yazmaq. \nSpeaking (Danışıq): Şəxsi təqdimat, dialoq və situasiya əsaslı danışıq tapşırıqları.",
+    "exam_price": "Azərbaycanda səviyyəyə görə dəyişir: A1 və A2 üçün təxmini 140–160 AZN, B1 və B2 üçün təxminən 180–220 AZN. (Qiymətlər imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "DELF imtahanı Azərbaycanda Fransız Mədəniyyət Mərkəzi və ya rəsmi akkreditə olunmuş test mərkəzləri tərəfindən keçirilir. İmtahan hər səviyyə üçün ayrıca təşkil olunur. Hər bacarıq sahəsi üzrə 25 bal olmaqla ümumilikdə 100 bal üzərindən qiymətləndirilir. Diplom ömürlük etibarlıdır və müddəti bitmir. İmtahan nəticələri adətən 4–6 həftə ərzində elan edilir.",
+    "recommendations": [
+      "Dinləmə bacarığını inkişaf etdirmək üçün fransız filmləri, xəbərləri və podcastları dinləyərək qeydlər aparın.",
+      "Oxuma bölməsi üçün fərqli növ fransız mətnlərini (məqalələr, elanlar, ədəbi parçalar) oxuyaraq söz ehtiyatınızı artırın.",
+      "Yazı bacarığını inkişaf etdirmək üçün gündəlik mövzular üzrə esse və məktublar yazmaqla məşq edin və qrammatika səhvlərinə diqqət yetirin.",
+      "Danışıq bölməsi üçün müntəzəm olaraq danışıq partnyoru ilə praktika edin və cavablarınızı arqumentlərlə zənginləşdirin.",
+      "İmtahana hazırlıq zamanı rəsmi DELF model testlərini tam şəraitdə həll edin və hər bölmənin strukturuna alışmağa çalışın."
+    ],
+    "official_link": "https://www.france-education-international.fr/en/diplome/delf-tout-public?langue=en"
+  },
+
+
+
+  {
+    "name": "DALF",
+    "description": "DALF (Diplôme Approfondi de Langue Française) Fransız Təhsil Nazirliyi tərəfindən verilən və yüksək səviyyədə fransız dili biliklərini təsdiqləyən rəsmi diplomdur. DALF əsasən C1 və C2 səviyyələrində keçirilir və bu diplomu əldə edən şəxslər akademik, peşəkar və rəsmi mühitlərdə fransız dilində sərbəst ünsiyyət qura bilirlər. DALF diplomu Fransada universitet təhsili və ya peşəkar fəaliyyət üçün yüksək səviyyədə fransız dili tələb olunduqda əsas sənəd hesab olunur.",
+    "score_range": "0–100 bal. 0–49 zəif, 50–69 orta, 70–84 yaxşı, 85–100 çox yaxşı hesab olunur. Hər bölmədən minimum 5 bal toplamaq şərtdir.",
+    "exam_sections": "Listening (Dinləmə): Akademik və ya peşəkar kontekstdə audio materialların anlaşılması. \nReading (Oxuma): Uzun və kompleks akademik mətnləri anlamaq və təhlil etmək. \nWriting (Yazı): Mürəkkəb arqumentativ və ya analitik esse yazmaq. \nSpeaking (Danışıq): Peşəkar və akademik mövzularda təqdimatlar və debatlar aparmaq.",
+    "exam_price": "Azərbaycanda C1 səviyyəsi üçün təxmini 220–250 AZN, C2 səviyyəsi üçün 240–270 AZN arası. (Qiymətlər imtahan mərkəzindən asılı olaraq dəyişə bilər.)",
+    "exam_conditions": "DALF imtahanı Azərbaycanda Fransız Mədəniyyət Mərkəzi və digər akkreditə olunmuş test mərkəzləri tərəfindən təşkil olunur. İmtahan C1 və C2 səviyyələri üçün ayrıca keçirilir. İmtahan dörd əsas bacarığın hər birini əhatə edir və hər bacarıq sahəsi 25 bal olmaqla ümumilikdə 100 bal üzərindən qiymətləndirilir. Diplom ömürlük etibarlıdır və müddəti bitmir. İmtahan nəticələri adətən 4–6 həftə ərzində elan edilir.",
+    "recommendations": [
+      "Listening üçün fransız akademik mühazirələrə, radio proqramlarına və konfranslara qulaq asaraq qeydlər aparmağa öyrəşin.",
+      "Reading bölməsi üçün elmi, hüquqi və ictimai sahələrdə kompleks fransız mətnləri oxuyaraq analiz bacarığınızı inkişaf etdirin.",
+      "Writing bölməsində arqument strukturunu (tezis, əsas hissə, nəticə) effektiv qurmağa diqqət yetirin və akademik stilə uyğun yazmağa çalışın.",
+      "Speaking bölməsi üçün aktual ictimai və akademik mövzularda müntəzəm debatlar apararaq fikir bildirmə və müdafiə etmə bacarığınızı gücləndirin.",
+      "İmtahana hazırlıq zamanı rəsmi DALF model testləri ilə tam şərtlərdə məşq edin və vaxt idarə etmə bacarığınızı təkmilləşdirin."
+    ],
+    "official_link": "https://www.france-education-international.fr/diplome/dalf?langue=fr"
+  },
+
+
+
+  {
+    "name": "DELE",
+    "description": "DELE (Diplomas de Español como Lengua Extranjera) — İspaniya Təhsil Nazirliyi tərəfindən verilən və dünya miqyasında tanınan rəsmi ispan dili sertifikatıdır. DELE imtahanı ispan dili biliklərini təsdiqləmək üçün keçirilir və müxtəlif səviyyələr (A1, A2, B1, B2, C1, C2) üzrə təqdim olunur. DELE diplomları ömürlük keçərlidir və xüsusilə İspaniyada təhsil, iş və immiqrasiya proseslərində geniş istifadə olunur.",
+    "score_range": "0–100 bal. 0–49 zəif, 50–69 orta, 70–84 yaxşı, 85–100 çox yaxşı hesab olunur. Ümumilikdə keçid üçün minimum 60 bal toplamaq lazımdır.",
+    "exam_sections": "Reading Comprehension (Oxuma Anlayışı): Fərqli növ mətnləri anlamağa yönəlmiş tapşırıqlar. \nListening Comprehension (Dinləmə Anlayışı): Qısa və uzun audio materialların anlaşılması üzrə suallar. \nWriting (Yazı Bacarığı): Məktub, məqalə və esse tipli yazı tapşırıqları. \nSpeaking (Danışıq Bacarığı): Şəxsi təqdimat, situasiya əsaslı dialoq və müzakirə tapşırıqları.",
+    "exam_price": "Azərbaycanda səviyyəyə görə dəyişir: A1 və A2 üçün təxminən 160–180 AZN, B1 və B2 üçün 190–220 AZN, C1 və C2 üçün isə 230–270 AZN arası. (Qiymətlər imtahan mərkəzindən və səviyyədən asılıdır.)",
+    "exam_conditions": "DELE imtahanı Azərbaycanda akkreditə olunmuş ispan dili mərkəzləri tərəfindən keçirilir. Hər səviyyə üçün imtahan ayrıca təşkil edilir və hər bölmə üçün ayrıca bal hesablanır. İmtahan yazılı və şifahi mərhələlərdən ibarətdir. DELE diplomları müddətsiz etibarlıdır və ispan dili biliklərinin rəsmi təsdiqi üçün istifadə olunur. İmtahan nəticələri adətən 2–3 ay ərzində elan edilir.",
+    "recommendations": [
+      "Oxuma bölməsi üçün müxtəlif janrlarda ispan mətnləri oxumaqla söz ehtiyatınızı və mətn analizi bacarığınızı inkişaf etdirin.",
+      "Dinləmə bölməsi üçün ispan radio proqramları, podcastlar və xəbər bülletenlərini müntəzəm dinləyərək qulaq asma bacarığınızı artırın.",
+      "Yazı bacarığını inkişaf etdirmək üçün gündəlik qısa esse və məktublar yazaraq qrammatika və üslub bacarıqlarınıza diqqət yetirin.",
+      "Danışıq bölməsi üçün dostlarınızla və ya ispan dili partnyoru ilə müntəzəm dialoq məşqləri edin və cavablarınızı strukturlaşdırın.",
+      "İmtahana tam hazırlaşmaq üçün DELE model testləri ilə intensiv məşq edin və imtahan formatına tam alışmağa çalışın."
+    ],
+    "official_link": "https://examenes.cervantes.es/es/dele/que-es"
+  },
+
+
+
+
+  {
+    "name": "CIPLE",
+    "description": "CIPLE (Certificado Inicial de Português Língua Estrangeira) Portuqaliya tərəfindən verilən və A2 səviyyəsində portuqal dili biliklərini rəsmi təsdiq edən beynəlxalq imtahandır. CIPLE əsasən gündəlik həyatda ünsiyyət qurmaq üçün tələb olunan əsas portuqal dili bacarıqlarını qiymətləndirir. Bu sertifikat Portuqaliyada daimi yaşayış icazəsi və bəzi sadə iş imkanları üçün tələb olunur. İmtahan A2 səviyyəsinə uyğun olaraq sadə cümlələrdən və əsas dil strukturundan istifadə bacarığını yoxlayır.",
+    "score_range": "0–100 bal. 0–54 zəif, 55–69 orta, 70–84 yaxşı, 85–100 çox yaxşı hesab olunur. Keçid üçün minimum 55 bal tələb olunur.",
+    "exam_sections": "Reading (Oxuma): Sadə mətnləri və məlumatları anlama tapşırıqları. \nListening (Dinləmə): Qısa və sadə dialoqlar, elanlar əsasında dinləmə tapşırıqları. \nWriting (Yazı): Qısa məktublar, e-maillar və gündəlik həyatla bağlı sadə yazılar. \nSpeaking (Danışıq): Şəxsi məlumatlar vermək, gündəlik situasiyalarda dialoq qurmaq.",
+    "exam_price": "Azərbaycanda təxmini 150–180 AZN arası. (Qiymət dəyişkən ola bilər və imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "CIPLE imtahanı rəsmi olaraq CAPLE (Centro de Avaliação de Português Língua Estrangeira) tərəfindən idarə olunur. İmtahan əsasən akkreditə olunmuş mərkəzlərdə keçirilir və A2 səviyyəsinə uyğun sadə dil bacarıqlarını qiymətləndirir. İmtahan müddəti təxminən 2 saat 30 dəqiqədir. İmtahan nəticələri adətən 4–6 həftə ərzində elan edilir və müvəffəqiyyətlə imtahanı keçənlərə ömürlük sertifikat verilir.",
+    "recommendations": [
+      "Sadə gündəlik mövzular üzrə portuqalca mətnlər oxuyun və əsas söz və ifadələri öyrənin.",
+      "Dinləmə bacarığını inkişaf etdirmək üçün gündəlik situasiya əsasında audio materiallar və qısa videolar dinləyin.",
+      "Qısa məktublar və e-maillar yazaraq yazı bacarığınızı gücləndirin və əsas qrammatik strukturlara diqqət yetirin.",
+      "Danışıq bölməsi üçün gündəlik həyatla bağlı dialoqlar quraraq portuqal dilində sərbəst cavab verməyə çalışın.",
+      "İmtahana hazırlaşarkən rəsmi CIPLE model testlərini həll edin və vaxt idarəsi üzərində xüsusi diqqət yetirin."
+    ],
+    "official_link": "https://caple.letras.ulisboa.pt/exame/2/ciple"
+  },
+
+
+  {
+    "name": "DIPLE",
+    "description": "DIPLE (Diploma Intermédio de Português Língua Estrangeira) — Portuqaliya tərəfindən verilən və B2 səviyyəsində portuqal dili biliklərini təsdiqləyən rəsmi diplomdur. İmtahan akademik, işgüzar və sosial mühitlərdə sərbəst portuqal dili istifadəsini ölçmək üçün nəzərdə tutulub. DIPLE diplomu Portuqaliyada bakalavr və bəzi magistr proqramlarına qəbul üçün tələb oluna bilər və həmçinin müxtəlif iş imkanları üçün də istifadə olunur.",
+    "score_range": "0–100 bal. 0–54 zəif, 55–69 orta, 70–84 yaxşı, 85–100 çox yaxşı hesab olunur. Keçid üçün minimum 55 bal tələb olunur.",
+    "exam_sections": "Reading (Oxuma): Akademik və işgüzar mətnlər əsasında anlama tapşırıqları. \nListening (Dinləmə): Geniş məzmunlu audio materiallar və müsahibələr əsasında dinləmə tapşırıqları. \nWriting (Yazı): Akademik səviyyədə esse və formal məktublar yazmaq. \nSpeaking (Danışıq): Akademik və işgüzar mövzularda çıxış və debatlar aparmaq.",
+    "exam_price": "Azərbaycanda təxmini 180–220 AZN arası. (Qiymət dəyişkən ola bilər və imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "DIPLE imtahanı rəsmi olaraq CAPLE (Centro de Avaliação de Português Língua Estrangeira) tərəfindən idarə olunur. İmtahan akkreditə olunmuş mərkəzlərdə keçirilir və B2 səviyyəsinə uyğun daha dərin dil bacarıqlarını qiymətləndirir. İmtahanın müddəti təxminən 3 saat 30 dəqiqədir. İmtahan nəticələri adətən 4–6 həftə ərzində elan edilir və sertifikat ömürlük etibarlıdır.",
+    "recommendations": [
+      "Akademik və peşəkar mətnləri mütəmadi oxuyaraq söz ehtiyatınızı genişləndirin və anlama bacarığınızı artırın.",
+      "Dinləmə bölməsi üçün müxtəlif mövzularda portuqal mühazirələrinə və debat proqramlarına qulaq asın və qeydlər aparın.",
+      "Yazı bölməsi üçün strukturlaşdırılmış esse və rəsmi məktub yazma praktikasını artırın və arqument əsaslı yazı texnikalarına fokuslanın.",
+      "Danışıq bölməsi üçün akademik və gündəlik mövzularda sərbəst debat və təqdimatlar məşq edin və cavablarınızı arqumentlərlə gücləndirin.",
+      "İmtahana hazırlıq zamanı rəsmi DIPLE model testlərini tam şərtlərdə tamamlayın və vaxt idarəsi üzərində xüsusi diqqət yetirin."
+    ],
+    "official_link": "https://caple.letras.ulisboa.pt/exame/2/ciple"
+  },
+
+
+
+  {
+    "name": "CAE",
+    "description": "CAE (Cambridge English: Advanced) — Cambridge Assessment English tərəfindən təqdim olunan və C1 səviyyəsində ingilis dili bacarıqlarını təsdiq edən beynəlxalq tanınan imtahandır. CAE diplomu akademik, işgüzar və sosial mühitlərdə sərbəst ingilis dili istifadəsini göstərir və dünyanın bir çox universitetləri, işəgötürənləri və dövlət qurumları tərəfindən qəbul edilir. İmtahan akademik yazı, kompleks mətn anlama və peşəkar ünsiyyət bacarıqlarını qiymətləndirir.",
+    "score_range": "160–210 bal. 160–179 zəif-orta (B2 səviyyəsi), 180–192 yaxşı (C1 səviyyəsi), 193–210 çox yaxşı (yüksək C1 və C2 səviyyəsi). Keçid üçün minimum 160 bal tələb olunur.",
+    "exam_sections": "Reading and Use of English (Oxuma və İngilis Dili İstifadəsi): Akademik və real həyati mətnlər əsasında anlama və dil strukturu tapşırıqları. \nWriting (Yazı): 2 yazı tapşırığı, esse, məktub, məqalə və ya hesabat yazmaq. \nListening (Dinləmə): Geniş spektrdə audio materialları (söhbətlər, mühazirələr, müsahibələr) dinləyərək anlama bacarığını yoxlamaq. \nSpeaking (Danışıq): İmtahançılarla fərdi və partnyorla birlikdə dialoqlar və təqdimatlar aparmaq.",
+    "exam_price": "Azərbaycanda təxmini 400–450 AZN arası. (Qiymət dəyişkən ola bilər və imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "CAE imtahanı akkreditə olunmuş Cambridge English test mərkəzlərində keçirilir. İmtahan həm kağız əsaslı, həm də kompüter əsaslı formatda təqdim edilir. İmtahan müddəti təxminən 4 saatdır. Hər bölmədən və ümumilikdə toplanan ballar əsasında namizədin səviyyəsi müəyyən edilir. Diplom ömürlük etibarlıdır və müddəti bitmir. İmtahan nəticələri adətən 4–6 həftə ərzində elan edilir.",
+    "recommendations": [
+      "Reading and Use of English bölməsi üçün akademik və ədəbi mətnlər oxuyaraq kompleks məna əlaqələrini anlama bacarığınızı inkişaf etdirin.",
+      "Writing bölməsi üçün müxtəlif yazı tipləri (esse, məktub, hesabat) üzrə struktur quruluşunu yaxşı mənimsəyin və arqument əsaslı yazı praktikasına üstünlük verin.",
+      "Listening bacarığını gücləndirmək üçün fərqli İngiltərə və Avstraliya aksentlərində audio materiallar dinləyin və qeydlər aparın.",
+      "Speaking bölməsi üçün partnyorla real imtahan simulyasiyaları edərək sərbəst fikir bildirmə və arqument qurma bacarığınızı artırın.",
+      "İmtahana hazırlıq zamanı rəsmi Cambridge English Practice Tests materialları ilə intensiv məşq edin və vaxt idarəsi üzərində xüsusi diqqət yetirin."
+    ],
+    "official_link": "https://www.cambridgeenglish.org/exams-and-tests/advanced/"
+  },
+
+
+  {
+    "name": "CPE",
+    "description": "CPE (Cambridge English: Proficiency) — Cambridge Assessment English tərəfindən təqdim olunan və C2 səviyyəsində ingilis dili biliklərini təsdiqləyən ən yüksək səviyyəli beynəlxalq tanınan imtahandır. CPE imtahanı, namizədin akademik və peşəkar sahələrdə tam sərbəst və yüksək səviyyəli ingilis dili istifadə bacarığını ölçür. Diplom dünyanın ən yaxşı universitetləri və işəgötürənləri tərəfindən qəbul edilir və tələb olunan ən yüksək ingilis dili sübutlarından biridir.",
+    "score_range": "180–230 bal. 180–199 zəif-orta (C1 səviyyəsi), 200–219 yaxşı (C2 səviyyəsi), 220–230 çox yaxşı (yüksək C2 səviyyəsi). Keçid üçün minimum 180 bal tələb olunur.",
+    "exam_sections": "Reading and Use of English (Oxuma və İngilis Dili İstifadəsi): Akademik və ədəbi mətnlər əsasında mətn analizi və dil strukturu sualları. \nWriting (Yazı): 2 yazı tapşırığı — arqumentativ esse, məqalə, rəy və ya hesabat yazmaq. \nListening (Dinləmə): Müxtəlif formalı audio materiallar (mühazirələr, müsahibələr, debatlar) əsasında dinləmə tapşırıqları. \nSpeaking (Danışıq): İki imtahançı və bir partnyorla interaktiv dialoq və təqdimat tapşırıqları.",
+    "exam_price": "Azərbaycanda təxmini 450–500 AZN arası. (Qiymət dəyişkən ola bilər və imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "CPE imtahanı rəsmi Cambridge English test mərkəzlərində keçirilir. İmtahan həm kağız əsaslı, həm də kompüter əsaslı formatda təqdim edilir. Ümumi imtahan müddəti təxminən 4 saat 30 dəqiqədir. Hər bölmədən və ümumi nəticədən asılı olaraq namizədin səviyyəsi müəyyən edilir. Diplom ömürlük etibarlıdır və müddəti bitmir. İmtahan nəticələri adətən 4–6 həftə ərzində elan edilir.",
+    "recommendations": [
+      "Reading and Use of English bölməsi üçün geniş akademik və peşəkar mətnlər oxuyaraq yüksək səviyyəli söz ehtiyatınızı inkişaf etdirin.",
+      "Writing bölməsi üçün kompleks arqument strukturuna malik yazılar yazmağa və müxtəlif akademik yazı tiplərinə (esse, rəy, hesabat) fokuslanın.",
+      "Listening bölməsi üçün müxtəlif aksentlərdə (Britaniya, Avstraliya, Şimali Amerika) akademik mühazirə və debatları dinləyin və qeydlər aparın.",
+      "Speaking bölməsi üçün real mövzular üzərində partnyorla interaktiv müzakirələr aparın və cavablarınızı strukturlaşdırmağa xüsusi diqqət yetirin.",
+      "İmtahana hazırlıq zamanı Cambridge-in rəsmi CPE Practice Tests materialları ilə intensiv təcrübə edin və imtahan strategiyalarını tam mənimsəyin."
+    ],
+    "official_link": "https://www.cambridgeenglish.org/exams-and-tests/proficiency/"
+  },
+
+
+
+  {
+    "name": "Duolingo",
+    "description": "Duolingo English Test — beynəlxalq səviyyədə tanınan və tam onlayn formatda keçirilən ingilis dili imtahanıdır. İmtahan əsasən oxuma, yazı, dinləmə və danışıq bacarıqlarını qiymətləndirir. Dünyada 4000-dən çox universitet və qurum tərəfindən qəbul edilir. Duolingo English Test COVID-19 pandemiyası dövründə populyarlıq qazandı və hal-hazırda çevik, əlverişli və sürətli alternativ kimi geniş istifadə olunur. İmtahan adaptiv texnologiya əsasında keçirilir və namizədin real səviyyəsinə uyğunlaşır.",
+    "score_range": "10–160 bal. 10–55 zəif, 60–85 orta, 90–115 yaxşı, 120–160 çox yaxşı səviyyə hesab olunur.",
+    "exam_sections": "Adaptive Test (Adaptiv Test): Oxuma, dinləmə, yazı və danışıq bacarıqlarını ölçən qarışıq tapşırıqlar. \nVideo Interview və Writing Sample: Tələbənin sərbəst danışıq və yazı bacarığını nümayiş etdirdiyi əlavə bölmələr.",
+    "exam_price": "Azərbaycanda qiyməti təxminən 130–140 AZN (49–59 USD civarında). (Qiymət dəyişkən ola bilər, çünki ödəniş birbaşa Duolingo platforması üzərindən edilir.)",
+    "exam_conditions": "Duolingo English Test tamamilə onlayn keçirilir və namizəd imtahanı evindən verə bilər. İmtahan üçün sabit internet bağlantısı, veb kamera və sakit mühit tələb olunur. İmtahan təxminən 1 saat davam edir. Namizəd imtahanı bitirdikdən sonra nəticələr adətən 48 saat ərzində elan edilir. İmtahan zamanı ciddi şəffaflıq və təhlükəsizlik qaydalarına riayət olunur.",
+    "recommendations": [
+      "İmtahana başlamazdan əvvəl internet bağlantınızın və texniki avadanlıqlarınızın (kamera, mikrofon) işlək vəziyyətdə olduğuna əmin olun.",
+      "Adaptiv testdə suallar çətinləşdikcə konsentrasiya səviyyənizi qorumağa çalışın və öz səviyyənizə uyğun cavab verin.",
+      "Listening və Reading bölmələri üçün gündəlik olaraq müxtəlif ingilis mənbələrindən mətn və audio materiallar üzərində işləyin.",
+      "Writing Sample və Video Interview bölməsi üçün əvvəlcədən məşq edin və öz fikirlərinizi aydın, strukturlaşdırılmış şəkildə ifadə etməyə fokuslanın.",
+      "Rəsmi Duolingo English Test practice testlərini (simulyasiya imtahanları) həll edərək formatı və sual tiplərini tam mənimsəyin."
+    ],
+    "official_link": "https://englishtest.duolingo.com/"
+  },
+
+
+
+  {
+    "name": "JLPT",
+    "description": "JLPT (Japanese Language Proficiency Test) — dünyanın ən tanınmış yapon dili bilikləri imtahanıdır. İmtahan Yaponiyada və beynəlxalq səviyyədə təşkil olunur və yapon dili bacarıqlarını qiymətləndirmək üçün nəzərdə tutulub. JLPT beş səviyyədə keçirilir: N5 (ən başlanğıc), N4 (başlanğıc-orta), N3 (orta), N2 (yüksək orta) və N1 (ən yüksək səviyyə). İmtahan oxuma, dinləmə və dil biliklərini ölçür. JLPT sertifikatı Yaponiyada təhsil, iş və immiqrasiya üçün geniş istifadə olunur.",
+    "score_range": "N5–N1 səviyyələrində 0–180 bal. Ümumiyyətlə: 0–89 zəif, 90–129 orta, 130–150 yaxşı, 151–180 çox yaxşı hesab olunur. Keçmək üçün həm ümumi bal, həm də hər bölmədən minimum bal toplamaq tələb olunur (hər səviyyəyə görə fərqlənir).",
+    "exam_sections": "Language Knowledge (Vocabulary/Grammar) and Reading (Dil Bilikləri və Oxuma): Söz ehtiyatı, qrammatika və mətn analizi. \nListening (Dinləmə): Gündəlik həyat və akademik situasiyalar əsasında audio materialların anlaşılması.",
+    "exam_price": "Azərbaycanda JLPT imtahanı rəsmi keçirilmir. Yaxın regionlarda (məsələn, Türkiyədə) qiymət səviyyəyə görə dəyişir və təxminən 80–120 AZN aralığındadır. (Qiymət test mərkəzinə və səviyyəyə görə dəyişə bilər.)",
+    "exam_conditions": "JLPT imtahanı ildə iki dəfə — iyul və dekabr aylarında keçirilir. İmtahan kağız əsaslı formatda təqdim edilir. Namizədlər oxuma, dinləmə və dil bilikləri bölmələrində testlərə cavab verir. Hər səviyyənin sual tipi və çətinlik dərəcəsi fərqlidir. İmtahan nəticələri adətən 2–3 ay ərzində elan edilir və müvəffəqiyyətlə imtahanı keçənlərə ömürlük etibarlı sertifikat verilir.",
+    "recommendations": [
+      "Gündəlik olaraq yaponca sadə və orta səviyyəli mətnlər oxumaqla söz ehtiyatınızı genişləndirin və mətn anlama sürətinizi artırın.",
+      "Dinləmə bacarığınızı inkişaf etdirmək üçün Yapon radio proqramları, anime və seriallardan aktiv istifadə edin və qeydlər aparın.",
+      "Qrammatika və leksika bölmələri üçün əsasən rəsmi JLPT qrammatika kitabları və sual nümunələri ilə intensiv praktika edin.",
+      "İmtahan üçün zaman idarə etmə bacarığınızı gücləndirmək məqsədilə tam şərtlərdə sınaq testləri edin və zəif bölmələri aşkar edib üzərində işləyin.",
+      "Yapon dili öyrənənlər üçün hazırlanmış sınaq imtahanlarına qatılaraq həm sual formatını, həm də real imtahan tempini təcrübədən keçirin."
+    ],
+    "official_link": "https://www.jlpt.jp/e/"
+  },
+
+
+
+  {
+    "name": "TOPIK",
+    "description": "TOPIK (Test of Proficiency in Korean) — Koreya hökuməti tərəfindən təşkil olunan və koreya dili biliklərini qiymətləndirən rəsmi imtahandır. İmtahan əsasən Koreyada təhsil, iş və immiqrasiya məqsədləri üçün tələb olunur. TOPIK iki səviyyədə keçirilir: TOPIK I (başlanğıc səviyyələr: 1 və 2) və TOPIK II (orta və yüksək səviyyələr: 3, 4, 5 və 6). İmtahan oxuma, dinləmə və yazı bacarıqlarını ölçür.",
+    "score_range": "0–300 bal. 0–139 zəif, 140–179 orta, 180–229 yaxşı, 230–300 çox yaxşı hesab olunur. Keçmək üçün minimum 140 bal tələb olunur və səviyyəyə görə fərqli bal bölgüsü tətbiq edilir.",
+    "exam_sections": "TOPIK I: Listening (Dinləmə) və Reading (Oxuma) bölmələri. \nTOPIK II: Listening (Dinləmə), Reading (Oxuma) və Writing (Yazı) bölmələri. \nHər bölmə fərqli çətinlik səviyyələrini ölçür və toplu nəticə əsasında səviyyə müəyyən edilir.",
+    "exam_price": "Azərbaycanda TOPIK imtahanı rəsmi keçirilməsə də, yaxın ölkələrdə (məsələn, Türkiyə) təxmini qiymət 80–100 AZN civarındadır. (Qiymət mərkəzdən və səviyyədən asılı olaraq dəyişə bilər.)",
+    "exam_conditions": "TOPIK ildə iki dəfə — aprel və oktyabr aylarında keçirilir. İmtahan kağız əsaslı formatda təqdim edilir. TOPIK I 100 dəqiqə, TOPIK II isə təxminən 180 dəqiqə davam edir. Hər bölmə üzrə toplanan ballara əsasən namizədin səviyyəsi müəyyən edilir. İmtahan nəticələri 1–2 ay ərzində elan edilir və müvəffəqiyyətlə imtahanı keçənlərə rəsmi sertifikat təqdim olunur.",
+    "recommendations": [
+      "Dinləmə bacarığını inkişaf etdirmək üçün Koreya xəbərlərini, seriallarını və podcastlarını dinləyərək qeydlər aparın.",
+      "Reading bölməsi üçün gündəlik Koreya qəzetləri, xəbərlər və akademik məqalələr oxuyaraq mətn anlama sürətinizi artırın.",
+      "Writing bölməsi üçün strukturlaşdırılmış esse və qısa mətnlər yazmağa çalışın və rəsmi TOPIK writing tapşırıqlarını nümunə götürün.",
+      "Qrammatika və söz ehtiyatını genişləndirmək üçün rəsmi TOPIK dərs materialları və sözlük siyahıları istifadə edin.",
+      "İmtahana hazırlaşmaq üçün rəsmi TOPIK Practice Tests üzərində işləyin və vaxt idarəsi bacarığınızı gücləndirin."
+    ],
+    "official_link": "https://www.topik.go.kr/"
+  },
+
+
+  {
+    "name": "HSK",
+    "description": "HSK (Hanyu Shuiping Kaoshi) — Çin dili biliklərini qiymətləndirmək üçün təşkil olunan rəsmi beynəlxalq imtahandır. İmtahan Çin Xalq Respublikasının Təhsil Nazirliyi tərəfindən idarə olunur və əsasən Çin dilində akademik təhsil, iş və immiqrasiya üçün tələb olunur. HSK hazırda 6 səviyyədə keçirilir (HSK 1 — başlanğıc, HSK 6 — yüksək səviyyə). Hər səviyyə tələbənin söz ehtiyatı və dil istifadəsi bacarığını ölçür.",
+    "score_range": "0–300 bal. 0–149 zəif, 150–199 orta, 200–249 yaxşı, 250–300 çox yaxşı hesab olunur. Keçid üçün minimum 180 bal tələb olunur.",
+    "exam_sections": "HSK 1–2: Listening (Dinləmə) və Reading (Oxuma) bölmələri. \nHSK 3–6: Listening (Dinləmə), Reading (Oxuma) və Writing (Yazı) bölmələri. \nHSK səviyyəsi artdıqca söz ehtiyatı və mətnlərin mürəkkəbliyi artır.",
+    "exam_price": "Azərbaycanda HSK rəsmi olaraq keçirilmir, lakin yaxın regionlarda (məsələn, Türkiyə, Gürcüstan) təxmini qiyməti səviyyəyə görə 70–150 AZN aralığında dəyişir. (Qiymət səviyyə və imtahan mərkəzindən asılıdır.)",
+    "exam_conditions": "HSK imtahanı ildə bir neçə dəfə keçirilir və həm kağız əsaslı, həm də kompüter əsaslı formatda təqdim olunur. İmtahan əsasən Listening, Reading və (yüksək səviyyələrdə) Writing bacarıqlarını ölçür. Namizəd topladığı bal əsasında HSK səviyyəsinə layiq görülür. Nəticələr adətən imtahandan sonra 1–2 ay ərzində elan edilir və sertifikat ömürlük etibarlıdır.",
+    "recommendations": [
+      "Söz ehtiyatını artırmaq üçün HSK səviyyə söz siyahıları üzrə gündəlik təkrarlar aparın və yeni sözləri cümlələrdə istifadə edərək yadda saxlayın.",
+      "Dinləmə bacarığını inkişaf etdirmək üçün Çin radio proqramlarını, xəbərləri və gündəlik dialoqları dinləyin və qeydlər aparın.",
+      "Oxuma bölməsi üçün sadə hekayələrdən başlayaraq mərhələli şəkildə akademik və ədəbi mətnlərə keçid edin.",
+      "Yazı bölməsi üçün tez-tez sadə esse və gündəlik hadisələr haqqında mətnlər yazaraq struktur və qrammatika bacarıqlarınızı inkişaf etdirin.",
+      "İmtahana hazırlaşmaq üçün rəsmi HSK Practice Tests materialları üzərində intensiv məşq edin və imtahan formatı ilə tam tanış olun."
+    ],
+    "official_link": "https://www.chinesetest.cn/"
+  },
+
+
+  {
+    "name": "YOS",
+    "description": "YÖS (Yabancı Uyruklu Öğrenci Sınavı) — Türkiyədə əcnəbi tələbələrin universitetlərə qəbul olunması üçün keçirilən rəsmi imtahan sistemidir. 2023-cü ildən etibarən Türkiyə hökuməti tərəfindən mərkəzləşdirilmiş TR-YÖS (Türkiye Yurt Dışından Öğrenci Kabul Sınavı) tətbiq olunmağa başlanıb. TR-YÖS imtahanı ÖSYM tərəfindən təşkil edilir və bir çox dövlət universiteti tərəfindən qəbul olunur. Bununla yanaşı, bəzi universitetlər hələ də öz müstəqil YÖS imtahanlarını təşkil etməyə davam edirlər.",
+    "score_range": "0–100 bal. 0–39 zəif, 40–59 orta, 60–79 yaxşı, 80–100 çox yaxşı hesab olunur. Universitetlərin qəbul balı fərqli ola bilər, amma adətən minimum 50 və ya 60 bal tələb edilir.",
+    "exam_sections": "Basic Learning Skills (Əsas Məntiq və Analitik Bacarıqlar): Məntiqi düşünmə və problem həlli sualları. \nMathematics (Riyaziyyat): Əsas cəbr, həndəsə, funksiyalar və analitik düşünmə mövzuları. \n(Əlavə olaraq bəzi universitetlərdə Ümumi Məlumat və Türk Dili bölmələri də ola bilər.)",
+    "exam_price": "Azərbaycanda TR-YÖS üçün onlayn müraciət edildikdə təxmini qiymət 90–130 AZN aralığında olur. (Qiymətlər dəyişə bilər və universitetlərin öz müstəqil YÖS-ləri üçün ayrıca ödəniş tələb oluna bilər.)",
+    "exam_conditions": "TR-YÖS imtahanı ÖSYM tərəfindən ildə iki dəfə (aprel və iyul aylarında) təşkil edilir və dünyanın bir çox ölkəsində keçirilir. İmtahan kağız əsaslıdır və təxminən 100 dəqiqə davam edir. Bəzi universitetlər yalnız TR-YÖS nəticəsini qəbul edir, digərləri isə öz ayrıca YÖS imtahanlarını təşkil edib onlardan nəticə istəyirlər. İmtahan nəticələri adətən 4–6 həftə ərzində açıqlanır.",
+    "recommendations": [
+      "TR-YÖS üçün əsas məntiq və riyaziyyat mövzularını dərindən öyrənin və sual tiplərinə uyğun intensiv praktika edin.",
+      "İmtahan suallarını sürətli həll etməyi öyrənmək üçün zaman idarəsi texnikalarına xüsusi diqqət yetirin.",
+      "Əgər seçdiyiniz universitet öz ayrıca YÖS imtahanı təşkil edirsə, həmin imtahanın məzmun və sual nümunələri ilə də xüsusi hazırlaşın.",
+      "Riyaziyyat bölməsində qrafik oxuma, tənliklər və funksiyalar üzrə tez-tez sınaq testləri edin və zəif nöqtələrinizi müəyyənləşdirin.",
+      "Rəsmi TR-YÖS və müxtəlif universitetlərin YÖS nümunə testləri üzərində mütəmadi sınaq imtahanları edərək imtahan texnikasını gücləndirin."
+    ],
+    "official_link": "https://www.osym.gov.tr/TR,21425/tr-yos-2024.html"
+  },
+  {
+    "name": "TOMER",
+    "description": "TÖMER (Türkçe Öğretim Merkezi) — Türkiyə universitetlərinə və ya müxtəlif iş sahələrinə müraciət edən əcnəbi vətəndaşların türk dili biliklərini təsdiqləyən rəsmi sertifikat proqramıdır. TÖMER imtahanı Ankara Universiteti TÖMER tərəfindən təşkil edilir və A1, A2, B1, B2 və C1 səviyyələrində keçirilir. Sertifikat həm təhsil, həm iş, həm də daimi yaşayış icazəsi üçün geniş şəkildə istifadə olunur. C1 səviyyəsində TÖMER sertifikatı bir çox Türkiyə universitetinə qəbul üçün türk dili tələbatını tam qarşılayır.",
+    "score_range": "0–100 bal. 0–49 zəif, 50–69 orta, 70–84 yaxşı, 85–100 çox yaxşı hesab olunur. Hər səviyyə üçün keçid balı 60 bal və üzəridir.",
+    "exam_sections": "Listening (Dinləmə): Gündəlik və akademik situasiyalar əsasında audio materialların anlaşılması. \nReading (Oxuma): Fərqli formalı mətnlərin oxunması və anlaşılması. \nWriting (Yazı): Əsasən gündəlik və akademik mövzularda yazı tapşırıqları. \nSpeaking (Danışıq): Şəxsi təqdimatlar, dialoq və akademik müzakirə bacarığının ölçülməsi.",
+    "exam_price": "Azərbaycanda TÖMER imtahanı rəsmi təşkil olunmur. Türkiyədə imtahan qiymətləri səviyyəyə görə dəyişir və təxminən 100–150 AZN (1500–2500 TRY) aralığındadır.",
+    "exam_conditions": "TÖMER imtahanı rəsmi Ankara Universiteti və ya onun akkreditə olunmuş mərkəzləri tərəfindən keçirilir. İmtahan əsasən 4 bölmədən ibarətdir və hər bölmədən ayrıca qiymətləndirilir. İmtahan nəticələri 2–4 həftə ərzində elan edilir. Uğurla keçən namizədlərə rəsmi türk dili sertifikatı verilir. Sertifikat müddətsizdir və ömürlük etibarlıdır.",
+    "recommendations": [
+      "Dinləmə bacarığını inkişaf etdirmək üçün gündəlik türkcə xəbərlər, müsahibələr və proqramları dinləyərək qeydlər aparın.",
+      "Oxuma bölməsi üçün müxtəlif səviyyələrdə türk dilində məqalələr, hekayələr və xəbərlər oxuyun və mətn anlama sürətinizi artırın.",
+      "Yazı bölməsi üçün gündəlik hadisələr, rəsmi məktublar və esse tipləri üzrə yazı təcrübəsi apararaq ifadə tərzinizi inkişaf etdirin.",
+      "Danışıq bölməsi üçün real həyati situasiyalar üzrə türkcə dialoqlar quraraq sərbəst fikir ifadəsi bacarığınızı artırın.",
+      "Rəsmi TÖMER model testləri üzərində çalışaraq imtahan formatı və vaxt idarəsi bacarıqlarınızı gücləndirin."
+    ],
+    "official_link": "https://tomer.ankara.edu.tr/"
+  }
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
+
+
+
+
+
+
+  
+  

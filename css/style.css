@@ -1,0 +1,1251 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --primary-color: #1e3a8a;
+    --secondary-color: #3b82f6;
+    --text-color: #333;
+    --light-bg: #f8fafc;
+}
+
+/* Ümumi tənzimləmələr */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Navbar Ümumi Stil */
+.navigation {
+    background-color: #1a237e;
+    color: #ffffff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.nav-brand a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.nav-brand img {
+    height: 40px;
+    margin-right: 0.5rem;
+}
+
+/* Desktop görünüşü üçün nav-links */
+.nav-links {
+    display: flex; /* Desktop görünüşündə menyu üfüqi olaraq düzülür */
+    gap: 1.5rem; /* Menyu elementləri arasında boşluq */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center; /* Menyu elementlərini dikey olaraq mərkəzləşdirir */
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a.active {
+    border-bottom: 2px solid #ffcc00; /* Aktiv link üçün alt xətt */
+    padding-bottom: 0.2rem;
+}
+
+.nav-links li a:hover {
+    color: #ffcc00; /* Hover zamanı rəng dəyişir */
+}
+
+/* CTA Button */
+.nav-cta .cta-button {
+    background-color: #ffcc00;
+    color: #1a237e;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nav-cta .cta-button:hover {
+    background-color: #ffd633;
+    color: white;
+}
+
+/* Burger menyu üçün */
+.burger-menu {
+    display: none;
+    background: none;
+    border: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.burger-menu:focus {
+    outline: none;
+}
+
+@media (max-width: 768px) {
+    .burger-menu {
+        display: block;
+    }
+
+    .nav-links {
+        display: none; /* Mobil cihazlarda menyu gizlənir */
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: #1a237e;
+        padding: 1rem 0;
+        z-index: 1000;
+    }
+
+    .nav-links.active {
+        display: flex; /* Burger menyu açıldıqda görünür */
+    }
+
+    .nav-links li {
+        text-align: center;
+        margin: 0.5rem 0;
+    }
+
+    .nav-cta {
+        display: block; /* Mobil cihazlarda görünməsini təmin edir */
+        text-align: center;
+        margin-top: 1rem;
+    }
+
+    .nav-cta .cta-button {
+        display: inline-block;
+        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        background-color: #ffcc00;
+        color: #1a237e;
+        border-radius: 5px;
+        text-decoration: none;
+    }
+}
+
+/* Hero Section */
+.hero {
+    height: 100vh;
+    background: linear-gradient(135deg, 
+        #1e3a8a 0%,
+        #3b82f6 50%,
+        #60a5fa 100%);
+    /* Remove the image background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding: 0 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Add animated gradient overlay */
+.hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(45deg,
+        rgba(66, 153, 225, 0.6) 0%,
+        rgba(49, 130, 206, 0.6) 25%,
+        rgba(44, 82, 130, 0.6) 50%,
+        rgba(49, 130, 206, 0.6) 75%,
+        rgba(66, 153, 225, 0.6) 100%);
+    animation: gradientAnimation 15s ease infinite;
+    background-size: 400% 400%;
+}
+
+.hero-content {
+    max-width: 800px;
+    position: relative;
+    z-index: 1;
+}
+
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Buttons */
+.btn {
+    display: inline-block;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+    margin: 0.5rem;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+}
+
+.btn-primary {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+/* Features Section */
+.features {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    padding: 4rem 2rem;
+    background-color: var(--light-bg);
+}
+
+.feature-card {
+    text-align: center;
+    padding: 2rem;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-5px);
+}
+
+.feature-card i {
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+    margin-bottom: 1rem;
+}
+
+.feature-card h3 {
+    margin-bottom: 1rem;
+}
+
+/* Statistics Section */
+.statistics {
+    background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%);
+    color: white;
+    padding: 4rem 2rem;
+}
+
+.stat-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.stat-item {
+    text-align: center;
+}
+
+.stat-item i {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.counter {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin: 1rem 0;
+}
+
+/* Testimonials Section */
+.testimonials {
+    padding: 4rem 2rem;
+    background-color: var(--light-bg);
+}
+
+.testimonials h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.testimonial-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.testimonial-card {
+    background: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    position: relative;
+}
+
+.quote {
+    font-size: 4rem;
+    color: var(--secondary-color);
+    position: absolute;
+    top: -20px;
+    left: 20px;
+    opacity: 0.2;
+}
+
+.student-info {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+}
+
+.student-name {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+/* News & Updates Section */
+.news-updates {
+    padding: 4rem 2rem;
+}
+
+.news-updates h2 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.news-card {
+    background: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.news-card:hover {
+    transform: translateY(-5px);
+}
+
+.news-image {
+    height: 200px;
+    background: var(--secondary-color);
+    /* Add placeholder gradient while images load */
+    background: linear-gradient(45deg, #3b82f6 0%, #60a5fa 100%);
+}
+
+.news-content {
+    padding: 1.5rem;
+}
+
+.read-more {
+    color: var(--secondary-color);
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 1rem;
+}
+
+/* Add animation for counters */
+@keyframes countUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.counter {
+    animation: countUp 1s ease-out forwards;
+}
+
+/* Footer */
+.footer {
+    background-color: #1a237e;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer-container p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.social-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+.social-links li a {
+    color: white;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+.social-links li a:hover {
+    color: #ffcc00;
+}
+
+/* Rankings Page Styles */
+.rankings-page {
+    padding-top: 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 80px 20px 40px;
+}
+
+.rankings-header {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    padding: 2rem;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.ranking-filters {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+.ranking-filters select {
+    padding: 0.5rem 1rem;
+    border: 2px solid white;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.ranking-filters select option {
+    background: var(--primary-color);
+    color: white;
+}
+
+.rankings-table-container {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    overflow: hidden;
+}
+
+.rankings-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.rankings-table th,
+.rankings-table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+.rankings-table th {
+    background: var(--light-bg);
+    font-weight: 600;
+    color: var(--primary-color);
+}
+
+.rankings-table tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+.rankings-table td:first-child {
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+/* Responsive Design for Rankings */
+@media (max-width: 768px) {
+    .ranking-filters {
+        flex-direction: column;
+    }
+
+    .rankings-table {
+        display: block;
+        overflow-x: auto;
+    }
+
+    .rankings-table th,
+    .rankings-table td {
+        min-width: 120px;
+    }
+}
+
+/* Add pagination styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+.pagination-btn {
+    padding: 0.5rem 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.pagination-btn:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+}
+
+#itemsPerPage {
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .hero-content h1 {
+        font-size: 1.8rem;
+        text-align: center;
+    }
+
+    .hero-content p {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .hero-buttons {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+
+    .hero-buttons a {
+        width: 80%;
+        text-align: center;
+    }
+
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: #1a237e;
+        padding: 1rem 0;
+        z-index: 1000;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .nav-links li {
+        text-align: center;
+        margin: 0.5rem 0;
+    }
+
+    .nav-cta {
+        display: none;
+    }
+}
+
+/* Logo */
+.logo {
+    height: 50px; /* Loqonun hündürlüyü */
+    width: auto; /* Nisbəti qorumaq üçün avtomatik en */
+}
+
+/* Countries Section */
+.countries-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.country-card {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+}
+
+.country-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.country-card h3 {
+    margin: 1rem 0;
+    color: #1a237e;
+    font-size: 1.2rem;
+}
+
+.country-card .learn-more {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: auto;
+    transition: background-color 0.3s ease;
+}
+
+.country-card .learn-more:hover {
+    background-color: #283593;
+}
+
+/* Page Header */
+.page-header {
+    text-align: center; /* Mətni mərkəzləşdirir */
+    margin-bottom: 2rem;
+    padding: 1rem;
+    background-color: #1a237e; /* Arxa fon rəngi */
+    border-radius: 8px; /* Küncləri yumrulaşdırır */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Kölgə effekti */
+    color: white;
+}
+
+.page-header h1 {
+    font-size: 2.5rem; /* Başlıq ölçüsü */
+    margin-bottom: 0.5rem;
+}
+
+.page-header p {
+    font-size: 1.2rem; /* Təsvir mətninin ölçüsü */
+    margin: 0;
+}
+
+/* Scholarships Page */
+.scholarships-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Məzmunu üfüqi olaraq mərkəzləşdirir */
+    justify-content: center; /* Məzmunu şaquli olaraq mərkəzləşdirir */
+    padding: 2rem 1rem;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+}
+
+/* Scholarship kartları üçün grid layout */
+.scholarships-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Minimum 280px, maksimum 1fr */
+    gap: 1.5rem; /* Kartlar arasında boşluq */
+    padding: 2rem;
+    max-width: 1200px; /* Konteynerin maksimum eni */
+    margin: 0 auto; /* Ortaya hizalama */
+    overflow: hidden; /* Kartların daşmasının qarşısını alır */
+}
+
+.scholarship-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.scholarship-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card-image {
+    width: 100%;
+    height: 200px; /* Şəkillər üçün sabit hündürlük */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+.card-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Şəkil konteyneri doldurur və artıq hissələr kəsilir */
+    transition: transform 0.3s ease;
+}
+
+.scholarship-card:hover .card-image img {
+    transform: scale(1.05); /* Hover zamanı kiçik böyütmə effekti */
+}
+
+.card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.card-content h3 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+}
+
+.card-content p {
+    color: #546e7a;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.learn-more {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.learn-more:hover {
+    background-color: #283593;
+}
+
+/* Mobil cihazlar üçün */
+@media (max-width: 768px) {
+    .scholarships-container {
+        grid-template-columns: 1fr; /* Kiçik ekranlarda kartlar bir sütun olacaq */
+        gap: 1rem; /* Kartlar arasında boşluq azaldılır */
+    }
+
+    .scholarship-card {
+        padding: 1rem;
+    }
+
+    .card-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .card-content p {
+        font-size: 1rem;
+    }
+
+    .learn-more {
+        font-size: 1rem;
+        padding: 0.6rem 1.2rem;
+    }
+}
+
+.scholarship-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+
+.scholarship-block {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.scholarship-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%; /* Kartların eyni hündürlükdə olması üçün */
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.scholarship-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.card-image {
+    width: 100%;
+    height: 200px; /* Şəkillər üçün sabit hündürlük */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0; /* Boş yerlər üçün fon rəngi */
+}
+
+.card-image img {
+    width: 100%; /* Şəkil konteynerin eninə uyğunlaşdırılır */
+    height: 100%; /* Şəkil konteynerin hündürlüyünə uyğunlaşdırılır */
+    object-fit: cover; /* Şəkil konteyneri doldurur və artıq hissələr kəsilir */
+    transition: transform 0.3s ease;
+}
+
+.scholarship-card:hover .card-image img {
+    transform: scale(1.05); /* Hover zamanı kiçik böyütmə effekti */
+}
+
+.card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Məzmunu yuxarı və aşağı hizalayır */
+    height: 100%; /* Kartın tam hündürlüyünü doldurur */
+}
+
+.card-content h3 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+}
+
+.card-content p {
+    flex: 1; /* Məzmunun qalan boşluğu doldurmasını təmin edir */
+    margin-bottom: 1rem; /* Aşağıda boşluq əlavə edir */
+    color: #546e7a;
+    line-height: 1.5;
+}
+
+.learn-more {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+    margin-top: auto; /* Düyməni kartın altına itələyir */
+    transition: background-color 0.3s ease;
+}
+
+.learn-more:hover {
+    background-color: #283593;
+}
+
+@media (max-width: 768px) {
+    .scholarship-block {
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1.5rem;
+    }
+
+    .scholarships-container {
+        display: flex;
+        flex-direction: column;
+        gap: 1.5rem;
+    }
+
+    .scholarship-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .scholarship-image img {
+        width: 100%;
+        max-width: 300px;
+        height: auto;
+    }
+
+    .scholarship-content h3 {
+        font-size: 1.2rem;
+    }
+
+    .scholarship-content p {
+        font-size: 0.9rem;
+    }
+
+    .scholarship-content .learn-more {
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+}
+
+/* Ən Populyar Təqaüdlər Bölməsi */
+.popular-scholarships {
+    padding: 4rem 2rem;
+    background-color: #f4f6f8;
+    text-align: center;
+}
+
+.popular-scholarships h2 {
+    font-size: 2.5rem;
+    color: #1a237e;
+    margin-bottom: 2rem;
+}
+
+.scholarships-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.scholarship-card {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.scholarship-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.scholarship-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.scholarship-content {
+    padding: 1.5rem;
+}
+
+.scholarship-content h3 {
+    font-size: 1.5rem;
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+.scholarship-content p {
+    font-size: 1rem;
+    color: #555555;
+    line-height: 1.8;
+}
+
+.scholarship-content .learn-more {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 1.5rem;
+    background-color: #1a237e;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.scholarship-content .learn-more:hover {
+    background-color: #1565c0;
+}
+
+/* Scholarships Header */
+.scholarships-header {
+    text-align: center;
+    background: linear-gradient(135deg, #1a237e, #3b82f6);
+    color: white;
+    padding: 2rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.scholarships-header .page-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.scholarships-header .page-description {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #e0e0e0;
+}
+
+/* İmtahanlar səhifəsi başlıq hissəsi */
+.exams-page .page-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #99f3ff, #77adff);
+    color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.exams-page .page-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.exams-page .page-header p {
+    color: azure;
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+/* İmtahanlar siyahısı */
+.exam-list {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+}
+
+.exam-item {
+    padding: 1.5rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.exam-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.exam-item h2 {
+    font-size: 1.8rem;
+    color: #333333;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #1e88e5;
+    padding-bottom: 0.5rem;
+}
+
+.exam-item p {
+    font-size: 1rem;
+    color: #555555;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+}
+
+.details-button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background-color: #1e88e5;
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.details-button:hover {
+    background-color: #1565c0;
+}
+ 
+/* İmtahan səhifəsi başlıq hissəsi */
+.exam-header h1 {
+    font-size: 2.8rem;
+    color: #1a237e; /* Navbar rənginə uyğun */
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.exam-header p {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #546e7a;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+}
+
+/* Bölmələr */
+.exam-sections, .exam-score-range, .exam-price, .exam-conditions, .exam-recommendations, .exam-official-link {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.exam-sections:hover, .exam-score-range:hover, .exam-price:hover, .exam-conditions:hover, .exam-recommendations:hover, .exam-official-link:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.exam-sections h2, .exam-score-range h2, .exam-price h2, .exam-conditions h2, .exam-recommendations h2, .exam-official-link h2 {
+    font-size: 1.8rem;
+    color: #1a237e; /* Navbar rənginə uyğun */
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #1e88e5;
+    padding-bottom: 0.5rem;
+}
+
+.exam-sections p, .exam-score-range p, .exam-price p, .exam-conditions p, .exam-recommendations ul, .exam-official-link p {
+    font-size: 1rem;
+    color: #333333;
+    line-height: 1.8;
+}
+
+.exam-recommendations ul {
+    padding-left: 1.5rem;
+}
+
+.exam-recommendations ul li {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    color: #333333;
+}
+
+/* Rəsmi link */
+.exam-official-link a {
+    color: #1e88e5;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.exam-official-link a:hover {
+    text-decoration: underline;
+    color: #1565c0;
+}
+
+/* Ümumi səhifə mərkəzləşdirmə */
+.exam-page {
+    padding: 2rem;
+    background-color: #f4f6f8;
+}
+
+#exam-content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Əsas Content */
+.contact-page {
+    padding: 2rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.contact-container {
+    background-color: #f8fafc;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.contact-info h2, .contact-info h3 {
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+.contact-info p {
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.contact-info ul {
+    list-style: disc;
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.contact-info ul li {
+    margin-bottom: 0.5rem;
+    line-height: 1.5;
+}
+
+.contact-info a {
+    color: #3b82f6;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}

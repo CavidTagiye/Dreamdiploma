@@ -1,0 +1,106 @@
+
+
+.cta-button {
+    background-color: #ffcc00;
+    color: #1a237e;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+    background-color: #e6b800;
+}
+
+/* Səhifə Başlığı */
+.page-header {
+    text-align: center;
+    background-color: #e3f2fd;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+}
+
+.page-header p {
+    font-size: 1.2rem;
+    color: #546e7a;
+}
+
+/* Məlumat Bölməsi */
+.country-info {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+}
+
+.country-info h2 {
+    font-size: 1.5rem;
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+}
+
+.country-info p {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+/* Universitetlər Bölməsi */
+.top-universities {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.top-universities h2 {
+    font-size: 1.5rem;
+    color: #1a237e;
+    margin-bottom: 1rem;
+}
+
+.top-universities ul {
+    list-style: none;
+    padding: 0;
+}
+
+.top-universities ul li {
+    margin-bottom: 0.5rem;
+}
+
+.top-universities ul li a {
+    text-decoration: none;
+    color: #1a237e;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.top-universities ul li a:hover {
+    color: #ffcc00;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    background-color: #1a237e;
+    color: white;
+    padding: 1rem;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}

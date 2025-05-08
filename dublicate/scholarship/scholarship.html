@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../../images/logo.png" type="image/png">
+    <title>Təqaüd Məlumatları</title>
+    <link rel="stylesheet" href="../../css/style.css"> <!-- Ümumi CSS -->
+    <link rel="stylesheet" href="../../dublicate/scholarship/scholarship.css"> <!-- Xüsusi CSS -->
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navigation">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <a href="../../index.html">
+                    <img src="../../images/logo.png" alt="DreamDiploma Logo" class="logo">
+                    DreamDiploma
+                </a>
+            </div>
+            <button class="burger-menu" id="burgerMenu">
+                ☰
+            </button>
+            <ul class="nav-links">
+                <li><a href="../../index.html">Ana Səhifə</a></li>
+                <li><a href="../../pages/universities.html">Universitetlər</a></li>
+                <li><a href="../../pages/scholarships.html" class="active">Təqaüdlər</a></li>
+                <li><a href="../../pages/rankings.html">Reytinqlər</a></li>
+                <li><a href="../../pages/career.html">Karyera</a></li>
+                <li><a href="../../pages/exams.html">İmtahanlar</a></li>
+                <li><a href="../../pages/contact.html">Haqqımızda</a></li>
+            </ul>
+            
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="scholarship-page">
+        <header class="page-header">
+            <h1 id="scholarship-title">Təqaüd Məlumatları</h1>
+            <p id="scholarship-description">Təqaüd haqqında ətraflı məlumat burada göstəriləcək.</p>
+        </header>
+
+        <section class="scholarship-details">
+            <div id="scholarship-content">
+                <!-- JSON-dan gətirilən məlumatlar burada göstəriləcək -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2025 DreamDiploma. Bütün hüquqlar qorunur.</p>
+    </footer>
+
+    <script src="scholarship.js"></script>
+    <script type="module" src="../../js/main.js"></script> <!-- JSON məlumatlarını idarə etmək üçün JavaScript -->
+</body>
+</html>

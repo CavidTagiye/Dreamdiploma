@@ -1,0 +1,246 @@
+/* Ümumi Stil */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Universitet Səhifəsi */
+.university-page {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    animation: fadeIn 1s ease-in-out;
+}
+
+/* Fade-in animasiyası */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Başlıq və Təsvir */
+.university-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.university-header h1 {
+    font-size: 3rem;
+    color: #1e88e5;
+    margin-bottom: 0.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.university-header p {
+    font-size: 1.2rem;
+    color: #546e7a;
+    line-height: 1.8;
+}
+
+/* Statistik Məlumatlar */
+.university-stats {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: space-between;
+}
+
+.university-stats .stat-item {
+    flex: 1 1 calc(33.333% - 1rem);
+    background: linear-gradient(135deg, #e3f2fd, #bbdefb);
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Statistik məlumatları mərkəzləşdir */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+.university-stats .stat-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.university-stats .stat-item::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    z-index: 0;
+    transform: scale(0);
+    transition: transform 0.3s ease;
+    border-radius: 12px;
+}
+
+.university-stats .stat-item:hover::before {
+    transform: scale(1);
+}
+
+.university-stats .stat-item h3 {
+    font-size: 1.5rem;
+    color: #1e88e5;
+    margin-bottom: 0.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.university-stats .stat-item p {
+    font-size: 1rem;
+    color: #546e7a;
+    position: relative;
+    z-index: 1;
+}
+
+/* Bölmə Başlıqları */
+.university-page h3 {
+    font-size: 2rem;
+    color: #1e88e5;
+    margin-top: 2rem;
+    border-bottom: 3px solid #1e88e5;
+    padding-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Tələbə Həyatı və Digər Bölmələr */
+.section-container {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Bölmə məzmununu mərkəzləşdir */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.section-container:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
+}
+
+.section-container ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.section-container ul li {
+    font-size: 1rem;
+    color: #546e7a;
+    margin-bottom: 0.8rem;
+    display: flex;
+    align-items: center;
+}
+
+.section-container ul li i {
+    color: #1e88e5;
+    margin-right: 0.5rem;
+}
+
+/* Əlaqə Məlumatları */
+.contact-info {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #bbdefb, #e3f2fd);
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Əlaqə məlumatlarını mərkəzləşdir */
+}
+
+.contact-info h3 {
+    font-size: 1.8rem;
+    color: #1e88e5;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #1e88e5;
+    padding-bottom: 0.5rem;
+}
+
+.contact-info p {
+    font-size: 1rem;
+    color: #546e7a;
+    margin-bottom: 0.5rem;
+}
+
+.contact-info a {
+    color: #1e88e5;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.contact-info a:hover {
+    color: #0d47a1;
+    text-decoration: underline;
+}
+
+/* Sosial Media */
+.social-media {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    background: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Sosial media linklərini mərkəzləşdir */
+}
+
+.social-media a {
+    display: inline-block;
+    margin: 0 1rem;
+    color: #1e88e5;
+    font-size: 1.5rem;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-media a:hover {
+    color: #0d47a1;
+    transform: scale(1.2);
+}
+
+/* Düymələr */
+.button {
+    display: inline-block;
+    padding: 0.8rem 1.5rem;
+    background: linear-gradient(135deg, #1e88e5, #0d47a1);
+    color: #ffffff;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.button:hover {
+    background: linear-gradient(135deg, #0d47a1, #1e88e5);
+    transform: translateY(-3px);
+}
+
+/* Mobil Cihazlar üçün */
+@media (max-width: 768px) {
+    .university-stats .stat-item {
+        flex: 1 1 100%;
+    }
+
+    .section-container {
+        padding: 1rem;
+    }
+}

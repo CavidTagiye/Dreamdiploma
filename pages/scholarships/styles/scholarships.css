@@ -1,0 +1,323 @@
+/* Scholarships Ümumi Stil */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Navbar */
+.navigation {
+    background-color: #1a237e;
+    color: #ffffff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.nav-brand a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+.nav-brand img {
+    height: 40px;
+    margin-right: 0.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #ffcc00;
+}
+
+.nav-cta .cta-button {
+    background-color: #ffcc00;
+    color: #1a237e;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.nav-cta .cta-button:hover {
+    background-color: #ffd633;
+}
+
+/* Burger menyu üçün */
+.burger-menu {
+    display: none;
+    background: none;
+    border: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.burger-menu:focus {
+    outline: none;
+}
+
+/* Səhifə Başlığı */
+.page-header {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #1a237e;
+    color: white;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.page-header p {
+    font-size: 1.2rem;
+}
+
+/* Scholarships Page */
+.scholarships-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Məzmunu üfüqi olaraq mərkəzləşdirir */
+    justify-content: center; /* Məzmunu şaquli olaraq mərkəzləşdirir */
+    padding: 2rem 1rem;
+    background-color: #f9f9f9;
+    min-height: 100vh;
+}
+
+/* Scholarships Container */
+.scholarships-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Minimum 300px, maksimum 1fr */
+    gap: 1.5rem; /* Kartlar arasında boşluq */
+    padding: 2rem;
+    max-width: 1200px; /* Konteynerin maksimum eni */
+    margin: 0 auto; /* Ortaya hizalama */
+}
+
+.scholarship-block {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+}
+
+.scholarship-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Kartların sabit hündürlüyünü qoruyur */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.scholarship-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.scholarship-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.card-image {
+    width: 100%;
+    height: 200px; /* Şəkillər üçün sabit hündürlük */
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0; /* Boş yerlər üçün fon rəngi */
+}
+
+.card-image img {
+    width: 100%; /* Şəkil konteynerin eninə uyğunlaşdırılır */
+    height: 100%; /* Şəkil konteynerin hündürlüyünə uyğunlaşdırılır */
+    object-fit: cover; /* Şəkil konteyneri doldurur və artıq hissələr kəsilir */
+    transition: transform 0.3s ease;
+}
+
+.scholarship-card:hover .card-image img {
+    transform: scale(1.05); /* Hover zamanı kiçik böyütmə effekti */
+}
+
+.card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Məzmunu yuxarı və aşağı hizalayır */
+    flex: 1;
+}
+
+.card-content h3 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+}
+
+.card-content p {
+    color: #546e7a;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
+
+.learn-more {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.learn-more:hover {
+    background-color: #283593;
+}
+
+/* Footer */
+.footer {
+    background-color: #1a237e;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}
+
+/* Mobil cihazlar üçün */
+@media (max-width: 768px) {
+    /* Scholarship Page */
+    .scholarships-page {
+        padding: 1rem;
+    }
+
+    .scholarships-container {
+        grid-template-columns: 1fr; /* Kiçik ekranlarda kartlar bir sütunda olacaq */
+        gap: 1rem; /* Boşluqlar azaldılır */
+        padding: 1rem;
+    }
+
+    .scholarship-block {
+        grid-template-columns: 1fr; /* Kartlar bir sütuna uyğunlaşdırılır */
+        gap: 1rem; /* Boşluqlar azaldılır */
+    }
+
+    .scholarship-card {
+        width: 100%; /* Kartlar tam ekran eninə uyğunlaşdırılır */
+        padding: 1rem; /* Kartların iç boşluğunu azaldır */
+    }
+
+    .card-image {
+        height: 150px; /* Şəkillərin hündürlüyü kiçildilir */
+    }
+
+    .card-content h3 {
+        font-size: 1.2rem; /* Başlıq ölçüsü bir az artırılır */
+    }
+
+    .card-content p {
+        font-size: 1rem; /* Mətn ölçüsü bir az artırılır */
+    }
+
+    .learn-more {
+        font-size: 1rem;
+        padding: 0.6rem 1.2rem; /* Düymə ölçüsü bir az artırılır */
+    }
+
+    /* Navbar */
+    .burger-menu {
+        display: block;
+    }
+
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: #1a237e;
+        padding: 1rem 0;
+        z-index: 1000;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .nav-links li {
+        text-align: center;
+        margin: 0.5rem 0; /* Menyu elementləri arasında boşluq artırılır */
+    }
+
+    .nav-links li a {
+        font-size: 1.2rem; /* Menyu elementlərinin şrift ölçüsü artırılır */
+    }
+
+    .nav-cta {
+        display: none;
+    }
+
+    /* Səhifə Başlığı */
+    .page-header h1 {
+        font-size: 2rem;
+    }
+
+    .page-header p {
+        font-size: 1rem;
+    }
+
+    /* Təqaüd Kartları */
+    .scholarship-card h3 {
+        font-size: 1.2rem;
+    }
+
+    .scholarship-card p {
+        font-size: 0.9rem;
+    }
+
+    .scholarship-card .learn-more {
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+
+    /* Footer */
+    .footer {
+        font-size: 0.8rem;
+        padding: 0.5rem 0;
+    }
+}

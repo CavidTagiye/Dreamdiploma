@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="../images/logo.png" type="image/png">
+    <title>DreamDiploma - Reytinqlər</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <nav class="navigation">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <a href="../../index.html">
+                    <img src="../images/logo.png" alt="DreamDiploma Logo" class="logo">
+                    DreamDiploma
+                </a>
+            </div>
+            <button class="burger-menu" id="burgerMenu">
+                ☰
+            </button>
+            <ul class="nav-links">
+                <li><a href="../../index.html">Ana Səhifə</a></li>
+                <li><a href="../pages/universities.html">Universitetlər</a></li>
+                <li><a href="../pages/scholarships.html">Təqaüdlər</a></li>
+                <li><a href="../pages/rankings.html" class="active">Reytinqlər</a></li>
+                <li><a href="../pages/career.html">Karyera</a></li>
+                <li><a href="../pages/exams.html">İmtahanlar</a></li>
+                <li><a href="../pages/contact.html">Haqqımızda</a></li>
+            </ul>
+            
+        </div>
+    </nav>
+
+    <main class="rankings-page">
+        <div class="rankings-header">
+            <h1>Universitet Reytinqləri</h1>
+            <div class="ranking-filters">
+                <select id="rankingSystem">
+                    <option value="qs">QS Dünya Reytinqləri</option>
+                    <option value="the-higher">The Higher Education Reytinqləri</option>
+                </select>
+                <select id="year">
+                    <!-- İllər dinamik olaraq JavaScript vasitəsilə əlavə olunacaq -->
+                </select>
+                <select id="countryFilter">
+                    <option value="">Bütün Ölkələr</option>
+                    <!-- Ölkələr dinamik olaraq JavaScript vasitəsilə əlavə olunacaq -->
+                </select>
+            </div>
+        </div>
+
+        <div class="rankings-table-container">
+            <table class="rankings-table">
+                <thead>
+                    <tr>
+                        <th>Sıra</th>
+                        <th>Universitet</th>
+                        <th>Ölkə</th>
+                        <th>Bal</th>
+                    </tr>
+                </thead>
+                <tbody id="rankingsBody">
+                    <!-- Universitetlər burada əlavə olunacaq -->
+                </tbody>
+            </table>
+            <div class="pagination">
+                <button id="prevPage" class="pagination-btn">Əvvəlki</button>
+                <span id="currentPage">Səhifə 1</span>
+                <button id="nextPage" class="pagination-btn">Növbəti</button>
+                <select id="itemsPerPage">
+                    <option value="20">20 hər səhifədə</option>
+                    <option value="50">50 hər səhifədə</option>
+                    <option value="100">100 hər səhifədə</option>
+                </select>
+            </div>
+        </div>
+    </main>
+
+
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2024 Study Abroad AZ. Bütün hüquqlar qorunur.</p>
+        </div>
+    </footer>
+    <script type="module" src="../js/rankings.js"></script>
+    <script type="module" src="../js/main.js"></script>
+
+</body>
+</html>

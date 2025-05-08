@@ -1,0 +1,916 @@
+[
+      {
+        "ad": "İnformasiya Texnologiyaları",
+        "umumi_terif": "Informasiya Texnologiyalari (IT) dünya iqtisadiyyatının və texnologiya sürəclərinin sürətli inkisafını təmin edən ən önəmli sahələrdən biridir. Bu sahə proqramlasdirma, sun'i intelekt, kibertəhlukəsizlik, data elmi, bulud texnologiyaları və şəbəkə idarəetməsi kimi fərqli istiqamətləri əhatə edir. IT sahəsi hər il daha da genişlənir, yeni ixtisaslar meydana çıxır və qlobal bazarda peşəkar IT mütəxəssislərinə artan ehtiyac hiss olunur.",
+        "ixtisaslar": [
+          {
+            "ad": "Proqramlasdirma",
+            "terif": "Proqramlasdirma, kompüterlərə, telefonlara, vəb saytlarına və süni intelekt sistemlərinə spesifik tapşırıqları yerinə yetirməyi öyrədən kod yazma prosesidir. Buraya proqram dillərində (məsələn, Python, C++, Java, JavaScript, Rust) səlist proqram yazılması, səhvlərin ayıqlanması, alqoritm qurulması və proqram sistemlərinin inkisaf etdirilməsi daxildir. Proqramlasdiricilar texnologiyanın hər sahəsində işləyə bilər, o cümlədən maliyyə texnologiyaları, tibbi proqramlar, oyun industriyasi, robototexnika və digər sahələrdə.",
+            "universitetler": ["MIT (Massachusetts Institute of Technology)", "Stanford University", "ETH Zurich", "Oxford University"]
+          },
+          {
+            "ad": "Kibertəhlukəsizlik",
+            "terif": "Kibertəhlukəsizlik informasiya sistemlərinin, şəbəkələrin, serverlərin və verilənlərin qorunması prosesidir. Bu sahə kibertüssərələrə, zəiflik təhlilərinə, şifrələnmə texnikalarına və etibar sistemlərinin yaradılmasına fokuslanır. Kibertəhlukəsizlik mütəxəssisləri hücumlara qarşı sərbəst analiz aparır, risk idarəetmə strategiyaları qurur və biznesin davamiyyətliyini qoruyur. Təşkilar və ölkələr üzrə kibertəhlukəsizlik prioritet sahəyə çevrilib.",
+            "universitetler": ["Carnegie Mellon University", "Stanford University", "University of California, Berkeley"]
+          },
+          {
+            "ad": "Data Elmi (Data Science)",
+            "terif": "Data Elmi real dünya məlumatlarını analiz edərək çətindər görünən problemlərə cavab tapmaq, biznes üçün yeni imkanlar açmaq və strategiyalar yaratmaq bacarığını əhatə edir. Data scientistlər statistik analiz, alqoritmik modellər, maşin öyrənmə metodları və proqramlasdirma vasitəsilə verilənlərdən qiymətli nəticələr çıxarır. Böyük verilənlərin (big data) özəlliklə maliyyə, səhiyyə, sün'i intelekt və marketing sahələrində istifadəsi artıb.",
+            "universitetler": ["Harvard University", "University of Oxford", "University of California, Berkeley"]
+          },
+          {
+            "ad": "Suni Intelekt və Maşin Oyrənmesi",
+            "terif": "Suni intelekt kompüterlərin insan intellektini təqlid edə bilən proseslər qurmasını, maşin öyrənməsi (machine learning) isə bu proseslərin verilənlər üzrə avtomatik təkmilləşədirilməsini ifadə edir. Buraya təbii dil emalı (NLP), kompüter görüsü, robototexnika, öz-öyrənən sistemlər və səs tanıma texnologiyaları daxildir. AI sahəsi avtomobil sürülməsindən tibb diaqnostikasına qədər çox gəniş istifadə sahəsinə malikdir.",
+            "universitetler": ["Stanford University", "MIT", "University of Cambridge"]
+          },
+          {
+            "ad": "Veb Tətbiq və Sayt Inkisafi",
+            "terif": "Veb sayt və veb tətbiqlər yaratmaq və idarə etmək üçün proqramlasdirma dillərində (HTML, CSS, JavaScript, PHP, Python) kod yazılması və veb serverlərin təşkili prosesi. Front-end inkisafçılar istifadəçi interfeyslərini dizayn edir, back-end inkisafçılar bazaları və server logikası qurur. E-ticarət saytları, sosial şəbəkələr və korporativ veb platformalar veb inkisaf sahəsinin əsas tətbiq sahələridir.",
+            "universitetler": ["University of Southern California", "University of Edinburgh", "University of Toronto"]
+          },
+          {
+            "ad": "Bulud Texnologiyaları və Sistem Inzibatçılığı",
+            "terif": "Bulud texnologiyaları (cloud computing) məlumat saxlama, emal və proqram servislərinin internet vasitəsilə təqdim edilmə prosesidir. AWS, Azure və Google Cloud kimi platformalarda resurs idarəetmə, avtoşkalasiya, ehtiyat sistemlər və DevOps məsuliyyətləri yer alır. Sistem inzibatçıları serverlərin davamiyyətliliyini, təhlüksizliyini və performansını təmin edər.",
+            "universitetler": ["University College London (UCL)", "Technical University of Munich", "University of Sydney"]
+          }
+        ]
+      },
+
+
+      {
+      "ad": "Təhsil və Pedoqogika",
+      "umumi_terif": "Təhsil və Pedaqogika insan inkişafının əsas təməllərindən biri olan öyrənmə və öyrətmə proseslərini tədqiq edir. Bu sahə şagird və tələbələrin intellektual, emosional və sosial inkişafını təmin etməyi, tədris metodlarının, kurikulumların və öyrətmə texnikalarının tədqiqini əhatə edir. Təhsil sahəsində çalışan mütəxəssislər məktəblərdə, universitetlərdə, təlim mərkəzlərində və müxtəlif qeyri-formal təhsil platformalarında işləyə bilər.",
+      "ixtisaslar": [
+        {
+          "ad": "Müəllimlik",
+          "terif": "Müəllimlik məktəbəqədər təhsildən orta və ali təhsilə qədər müxtəlif yaş qruplarına bilik və bacarıqların ötürülməsi prosesidir. Müəllimlər yalnız informasiya təqdim etmir, həmçinin şagirdlərin tənqidi düşünmə, yaradıcılıq və problemləri həll etmə qabiliyyətlərini inkişaf etdirir. Müəllimlik müxtəlif ixtisaslar üzrə tədris sahələrini (riyaziyyat, ədəbiyyat, biologiya və s.) əhatə edə bilər.",
+          "universitetler": ["University of Cambridge", "Harvard University", "University of Helsinki"]
+        },
+        {
+          "ad": "Təhsil Texnologiyaları",
+          "terif": "Təhsil texnologiyaları müasir informasiya və kommunikasiya vasitələrinin təhsildə tətbiqini öyrənən sahədir. Elektron təhsil platformalarının (e-learning), onlayn kursların və virtual təhsil mühitlərinin yaradılması və idarə olunması bu sahənin əsas istiqamətləridir. Təhsil texnologiyaları mütəxəssisləri həm texniki, həm də pedaqoji bacarıqlara malik olmalıdır.",
+          "universitetler": ["Stanford University", "University of Michigan", "University College London"]
+        },
+        {
+          "ad": "Təhsil İdarəçiliyi",
+          "terif": "Təhsil idarəçiliyi məktəb, kolleclər və universitetlər kimi təhsil müəssisələrinin effektiv idarə olunması sahəsidir. Bu sahəyə təhsil siyasətinin formalaşdırılması, insan resurslarının idarə olunması, maliyyə planlaması və strateji inkişaf proqramlarının hazırlanması daxildir. Təhsil menecerləri və direktorları bu ixtisas sahəsində fəaliyyət göstərir.",
+          "universitetler": ["University of Oxford", "Teachers College, Columbia University", "University of Melbourne"]
+        },
+        {
+          "ad": "Xüsusi Təhsil (İnklüziv Təhsil)",
+          "terif": "Xüsusi təhsil fiziki, əqli və emosional çatışmazlıqları olan şagirdlərin fərdi ehtiyaclarına uyğunlaşdırılmış tədris prosesinin təşkili sahəsidir. Bu ixtisas mütəxəssisləri inklüziv təhsil mühitləri yaradır, fərdi tədris planları hazırlayır və dəstək xidmətləri göstərir. Əsas məqsəd hər bir fərdin potensialını maksimum reallaşdırmaqdır.",
+          "universitetler": ["Vanderbilt University", "University of Kansas", "University of British Columbia"]
+        }]
+      
+      },
+
+
+
+      {
+        "ad": "Tibb və Sağlamlıq",
+        "umumi_terif": "Tibb və Sağlamlıq sahəsi insanların həyat keyfiyyətini artırmaq, xəstəliklərin qarşısını almaq, diaqnoz və müalicə imkanlarını inkişaf etdirmək məqsədi daşıyır. Bu sahə anatomiya və fiziologiya elmlərindən tutmuş psixologiya və ictimai səhiyyəyə qədər çox geniş spektri əhatə edir. Tibb və Sağlamlıq sahəsində çalışan mütəxəssislər fərdi və ictimai sağlamlığın qorunması üçün tibbi bilikləri praktiki tətbiq edərək, insan həyatının bütün mərhələlərinə təsir göstərirlər. Müasir tibb sahəsi texnologiyanın inkişafı ilə birlikdə süni intellekt, gen mühəndisliyi və telemedicina kimi sahələri də əhatə edir.",
+        "ixtisaslar": [
+          {
+            "ad": "Ümumi Tibb və Kliniki Tibbi Praktika",
+            "terif": "Ümumi tibb insan bədəninin funksiyaları, xəstəliklərin diaqnozu, profilaktikası və müalicəsi sahəsini əhatə edir. Kliniki praktikada həkimlər xəstələri müayinə edir, tibbi diaqnozlar qoyur və fərdi müalicə planları hazırlayırlar. Həkimlər terapevt, cərrah, pediatr, onkoloq və digər sahələr üzrə ixtisaslaşa bilərlər.",
+            "universitetler": [
+              "Harvard Medical School",
+              "University of Oxford Medical Sciences Division",
+              "Johns Hopkins University School of Medicine"
+            ]
+          },
+          {
+            "ad": "Tibbi Bacılıq və Qulluq",
+            "terif": "Tibbi bacılıq xəstələrin tibbi və emosional ehtiyaclarını qarşılayan əsas səhiyyə xidmətlərindən biridir. Tibb bacıları pasiyentlərin tibbi prosedurlarını həyata keçirir, müalicə planlarını izləyir və həkimlərlə sıx əməkdaşlıq edirlər. Bacılıq sahəsi klinik praktikadan başlayaraq səhiyyə idarəçiliyinə qədər müxtəlif istiqamətləri əhatə edir.",
+            "universitetler": [
+              "University of Pennsylvania School of Nursing",
+              "King's College London",
+              "University of Toronto Faculty of Nursing"
+            ]
+          },
+          {
+            "ad": "Əczaçılıq və Dərman Elmi",
+            "terif": "Əczaçılıq sahəsi dərman preparatlarının hazırlanması, tədqiqatı, istehsalı və düzgün istifadəsi ilə məşğuldur. Əczaçılar dərmanların insan bədəninə təsirlərini araşdırır, reseptlərə uyğun dərman təmin edir və pasiyentlərə dərman məsləhətləri verirlər. Bu sahə həm klinik əczaçılıq, həm sənaye istehsalı, həm də elmi-tədqiqat istiqamətlərini əhatə edir.",
+            "universitetler": [
+              "University of North Carolina at Chapel Hill (Eshelman School of Pharmacy)",
+              "Monash University",
+              "UCL School of Pharmacy"
+            ]
+          },
+          {
+            "ad": "Fizioterapiya və Reabilitasiya",
+            "terif": "Fizioterapiya insanın hərəkət qabiliyyətinin və funksional bacarıqlarının bərpasını hədəfləyir. Fizioterapevtlər idman zədələri, ortopedik pozuntular, nevroloji xəstəliklər və yaşla bağlı hərəkət məhdudiyyətlərini müalicə edir. Terapiya proqramları məşqlər, manual terapiya və texnoloji vasitələrlə dəstəklənir.",
+            "universitetler": [
+              "University of Sydney Faculty of Health Sciences",
+              "University of Toronto Department of Physical Therapy",
+              "University of Queensland"
+            ]
+          },
+          {
+            "ad": "İctimai Sağlamlıq və Epidemiologiya",
+            "terif": "İctimai sağlamlıq sahəsi cəmiyyətin ümumi sağlamlıq səviyyəsinin qorunması və yaxşılaşdırılması üçün tədbirlər planlaşdırır və həyata keçirir. Epidemioloqlar xəstəliklərin yayılma mexanizmlərini araşdırır, profilaktik tədbirlər hazırlayır və səhiyyə siyasətlərinə töhfə verirlər. Bu sahə pandemiyalara cavab tədbirləri və vaksinasiya proqramlarının əsasını təşkil edir.",
+            "universitetler": [
+              "Johns Hopkins Bloomberg School of Public Health",
+              "London School of Hygiene & Tropical Medicine",
+              "Harvard T.H. Chan School of Public Health"
+            ]
+          },
+          {
+            "ad": "Diş Həkimliyi (Stomatologiya)",
+            "terif": "Diş həkimliyi dişlərin, diş ətlərinin və ağız boşluğunun sağlamlığının qorunması, müalicəsi və estetik görünüşünün yaxşılaşdırılması ilə məşğuldur. Stomatoloqlar kariyes, diş əyrilikləri, çənə problemləri və ağız xəstəliklərinin diaqnozunu qoyur və müalicəsini həyata keçirirlər. Estetik diş həkimliyi və ortodontiya bu sahənin əsas alt ixtisaslarındandır.",
+            "universitetler": [
+              "University of Michigan School of Dentistry",
+              "King's College London Dental Institute",
+              "University of Hong Kong Faculty of Dentistry"
+            ]
+          },
+          {
+            "ad": "Psixologiya və Psixoterapiya",
+            "terif": "Psixologiya insan davranışlarını, düşüncə proseslərini və emosional vəziyyətləri öyrənən elmi sahədir. Psixoterapiya isə insanların psixoloji problemlərini aradan qaldırmaq və emosional rifahı yaxşılaşdırmaq üçün tətbiq olunan müalicə üsullarını əhatə edir. Psixoloq və terapevtlər depressiya, anksiyete, travma və davranış pozuntularını müalicə edirlər.",
+            "universitetler": [
+              "University of Cambridge Department of Psychology",
+              "Stanford University Department of Psychology",
+              "University College London (UCL)"
+            ]
+          },
+          {
+            "ad": "Qidalanma və Dietologiya",
+            "terif": "Qidalanma və dietologiya insanın sağlamlığı üçün düzgün qidalanma vərdişlərinin formalaşdırılması və xəstəliklərin qidalanma yolu ilə qarşısının alınması sahəsidir. Dietoloqlar fərdi və ya qrup əsaslı qidalanma proqramları hazırlayır, xüsusi diyetlər təyin edir və qida təhlükəsizliyi sahəsində çalışırlar.",
+            "universitetler": [
+              "University of California, Davis",
+              "University of Sydney",
+              "King's College London"
+            ]
+          },
+          {
+            "ad": "Genetika və Tibbi Tədqiqatlar",
+            "terif": "Genetika sahəsi insan orqanizminin genetik quruluşunu və irsi xəstəliklərin mexanizmlərini araşdırır. Tibbi tədqiqatlar yeni müalicə üsullarının inkişaf etdirilməsi və xəstəliklərin daha dərindən başa düşülməsi üçün aparılır. Genetik mühəndislik və personalizə olunmuş tibb bu sahənin yeni inkişaf edən istiqamətlərindəndir.",
+            "universitetler": [
+              "University of Cambridge Department of Genetics",
+              "Harvard Medical School",
+              "Stanford University School of Medicine"
+            ]
+          }
+        ]
+      }
+      ,
+
+
+
+      {
+        "ad": "Mühəndislik",
+        "umumi_terif": "Mühəndislik elmi biliklərin və yaradıcılığın real həyatda problemlərin həllinə yönəldildiyi bir sahədir. Mühəndislər yeni texnologiyalar yaradır, mövcud sistemləri təkmilləşdirir və cəmiyyətin inkişafına töhfə verən qurğular, infrastruktur və proqramlar dizayn edirlər. Mühəndislik sahəsi praktiki bilik, araşdırma bacarığı və yüksək analitik düşüncə tələb edir. Bu sahə sənaye, energetika, səhiyyə, aerokosmik və informasiya texnologiyaları da daxil olmaqla demək olar ki, bütün sahələrdə əsas rol oynayır.",
+        "ixtisaslar": [
+          {
+            "ad": "Mexanika Mühəndisliyi",
+            "terif": "Mexanika mühəndisliyi enerji və qüvvələrin qarşılıqlı təsirini öyrənən və bu bilikləri mexaniki sistemlərin dizaynı və istehsalı üçün tətbiq edən sahədir. Bu ixtisas avtomobil, aerokosmik texnologiya, bərpa olunan enerji sistemləri və robototexnika kimi sahələrdə geniş tətbiq olunur. Mexanika mühəndisləri mexanizmlərin və maşınların funksionallığını optimallaşdırmaq, yeni məhsulların inkişafına töhfə vermək üçün çalışırlar.",
+            "universitetler": [
+              "Massachusetts Institute of Technology (MIT)",
+              "Stanford University",
+              "University of Cambridge"
+            ]
+          },
+          {
+            "ad": "Elektrik və Elektronika Mühəndisliyi",
+            "terif": "Elektrik və elektronika mühəndisliyi elektrik enerjisinin istehsalı, ötürülməsi və istifadəsi, elektron cihazların və sistemlərin layihələndirilməsi sahəsində ixtisaslaşır. Bu sahə güc sistemlərindən tutmuş mikroçiplərin istehsalına qədər geniş spektri əhatə edir. Elektrik mühəndisləri həm gündəlik texnologiyaların, həm də sənaye sistemlərinin dayanıqlığını və funksionallığını təmin edirlər.",
+            "universitetler": [
+              "Stanford University",
+              "ETH Zurich",
+              "University of California, Berkeley"
+            ]
+          },
+          {
+            "ad": "Kompüter Mühəndisliyi",
+            "terif": "Kompüter mühəndisliyi kompüterlərin fiziki hissələri (hardware) və proqram təminatı (software) sahələrinin layihələndirilməsi və optimallaşdırılması ilə məşğul olur. Kompüter mühəndisləri əməliyyat sistemləri, süni intellekt tətbiqləri, şəbəkə texnologiyaları və təhlükəsizlik sistemləri üzrə ixtisaslaşırlar. Bu sahə texnologiyanın praktiki inkişafının əsas sütunlarından biridir və innovasiya sürətini artırır.",
+            "universitetler": [
+              "Carnegie Mellon University",
+              "Massachusetts Institute of Technology (MIT)",
+              "University of Oxford"
+            ]
+          },
+          {
+            "ad": "Kimya Mühəndisliyi",
+            "terif": "Kimya mühəndisliyi kimyəvi maddələrin və materialların istehsalını, emalını və tətbiqini nəzərdə tutan mühəndislik sahəsidir. Kimya mühəndisləri farmasevtika, enerji, qida sənayesi və ətraf mühitin qorunması kimi sahələrdə kimyəvi prosesləri layihələndirir və optimallaşdırırlar. Onlar laboratoriya nəticələrini böyük miqyaslı sənaye tətbiqlərinə çevirirlər.",
+            "universitetler": [
+              "University of California, Berkeley",
+              "University of Cambridge",
+              "ETH Zurich"
+            ]
+          },
+          {
+            "ad": "Mülki (İnşaat) Mühəndisliyi",
+            "terif": "Mülki mühəndislik cəmiyyətin ehtiyaclarını ödəyən infrastrukturun - binaların, yolların, körpülərin, su və enerji sistemlərinin layihələndirilməsi və tikintisini əhatə edir. Mülki mühəndislər davamlılıq, təhlükəsizlik və iqtisadi effektivlik prinsiplərinə əsaslanaraq layihələr hazırlayırlar. Bu sahə şəhər planlaması və ətraf mühitin qorunması baxımından da böyük əhəmiyyət kəsb edir.",
+            "universitetler": [
+              "Imperial College London",
+              "Massachusetts Institute of Technology (MIT)",
+              "University of Tokyo"
+            ]
+          },
+          {
+            "ad": "Aerokosmik Mühəndislik",
+            "terif": "Aerokosmik mühəndislik hava və kosmik uçuş aparatlarının - təyyarələrin, raketlərin, peyklərin və kosmik gəmilərin layihələndirilməsi, istehsalı və test edilməsi ilə məşğul olur. Bu sahədə çalışan mühəndislər aerodinamika, material elmi, yanacaq texnologiyaları və naviqasiya sistemləri üzrə yüksək ixtisaslı biliklərə malik olmalıdırlar. Aerokosmik mühəndislik həm mülki, həm də hərbi aviasiyanın inkişafı üçün vacibdir.",
+            "universitetler": [
+              "California Institute of Technology (Caltech)",
+              "University of Michigan, Ann Arbor",
+              "Stanford University"
+            ]
+          },
+          {
+            "ad": "Ətraf Mühit Mühəndisliyi",
+            "terif": "Ətraf mühit mühəndisliyi təmiz su, sağlam hava və təhlükəsiz torpaq resurslarının qorunması və bərpası üçün texnoloji və elmi həllər inkişaf etdirən sahədir. Bu mühəndislər çirkli suların təmizlənməsi, tullantıların idarə olunması, hava çirklənməsinin azaldılması və iqlim dəyişikliyinə qarşı tədbirlər sahələrində çalışırlar. Davamlılıq və ekoloji tarazlıq bu sahənin əsas prioritetlərindəndir.",
+            "universitetler": [
+              "Stanford University",
+              "ETH Zurich",
+              "University of California, Berkeley"
+            ]
+          },
+          {
+            "ad": "Materialşünaslıq və Material Mühəndisliyi",
+            "terif": "Material mühəndisliyi yeni materialların hazırlanması və mövcud materialların xüsusiyyətlərinin təkmilləşdirilməsi sahəsini əhatə edir. Bu sahə yüksək güclü ərintilər, nanomateriallar, biomateriallar və ağıllı materialların inkişaf etdirilməsi kimi istiqamətlərə fokuslanır. Material mühəndisləri sənaye, energetika, tibb və texnologiya sahələrində yeni imkanlar yaradırlar.",
+            "universitetler": [
+              "Massachusetts Institute of Technology (MIT)",
+              "University of Cambridge",
+              "Georgia Institute of Technology"
+            ]
+          },
+          {
+            "ad": "Sənaye və İstehsalat Mühəndisliyi",
+            "terif": "Sənaye mühəndisliyi məhsul istehsalının və biznes əməliyyatlarının effektiv şəkildə təşkili və idarə olunması ilə məşğuldur. İstehsal xətlərinin optimallaşdırılması, işçi axınının tənzimlənməsi, keyfiyyətə nəzarət və resursların idarə olunması bu sahənin əsas funksiyalarıdır. Sənaye mühəndisləri şirkətlərin səmərəli işləməsini və rəqabət qabiliyyətini artırır.",
+            "universitetler": [
+              "Georgia Institute of Technology",
+              "University of Michigan, Ann Arbor",
+              "Purdue University"
+            ]
+          }
+        ]
+      },
+
+
+
+      {
+        "ad": "Memarlıq və Dizayn",
+        "umumi_terif": "Memarlıq və Dizayn sahələri insanların yaşadığı, işlədiyi və istirahət etdiyi məkanların estetik, funksional və texniki cəhətdən planlaşdırılması ilə məşğuldur. Bu sahələr sənətin, mühəndisliyin və texnologiyanın birləşdiyi məkanlar yaradır. Memarlıq insanların gündəlik həyatını dəyişdirən binalar, şəhərlər və infrastrukturlar dizayn edir, dizayn isə məhsullardan tutmuş interyerlərə, vizual identitetlərə qədər yaradıcılıq və funksionallığı bir araya gətirir. Bu sahələr yaradıcılıq, texniki bilik və insani ehtiyacları anlama bacarığı tələb edir.",
+        "ixtisaslar": [
+          {
+            "ad": "Memarlıq (Architecture)",
+            "terif": "Memarlıq sahəsi binaların və digər fiziki strukturların planlaşdırılması, dizaynı və tikilməsi ilə məşğuldur. Memarlar estetik görünüş, funksionallıq, davamlılıq və insanların ehtiyacları arasında balans yaradır. Onlar ictimai binalar, yaşayış kompleksləri, parklar və şəhər planlaşdırması layihələri həyata keçirirlər.",
+            "universitetler": [
+              "Massachusetts Institute of Technology (MIT)",
+              "University College London (The Bartlett)",
+              "Delft University of Technology (TU Delft)"
+            ]
+          },
+          {
+            "ad": "Şəhər Planlaşdırılması və Urban Dizayn",
+            "terif": "Şəhər planlaşdırılması şəhərlərin və yaşayış sahələrinin strukturunun və istifadəsinin strateji planlaşdırılması sahəsidir. Urban dizayn isə bu mühitlərin insanlara uyğun estetik və funksional şəkildə formalaşdırılmasına fokuslanır. Məqsəd yaşanabilən, davamlı və əlçatan ictimai məkanlar yaratmaqdır.",
+            "universitetler": [
+              "University of California, Berkeley",
+              "Harvard University Graduate School of Design",
+              "University College London (UCL)"
+            ]
+          },
+          {
+            "ad": "İnteryer Dizaynı",
+            "terif": "İnteryer dizaynı məkanların estetik və funksional baxımdan təşkili və gözəlləşdirilməsi ilə məşğuldur. İnteryer dizaynerləri material seçimi, işıqlandırma, rənglər və mebel yerləşimi kimi elementləri balanslı şəkildə birləşdirərək rahat və funksional məkanlar yaradırlar.",
+            "universitetler": [
+              "Parsons School of Design (The New School)",
+              "Savannah College of Art and Design (SCAD)",
+              "Royal College of Art, London"
+            ]
+          },
+          {
+            "ad": "Sənaye və Məhsul Dizaynı",
+            "terif": "Sənaye dizaynı gündəlik istifadə üçün nəzərdə tutulmuş məhsulların estetik və funksional dizaynı ilə məşğuldur. Məhsul dizaynerləri texnologiya, materiallar və istehlakçı ehtiyaclarını birləşdirərək yenilikçi və istifadəsi rahat məhsullar yaradırlar. Məqsəd həm gözəllik, həm də praktikaya xidmət edən məhsullar dizayn etməkdir.",
+            "universitetler": [
+              "Rhode Island School of Design (RISD)",
+              "Royal College of Art",
+              "University of the Arts London (UAL)"
+            ]
+          },
+          {
+            "ad": "Qrafik Dizayn",
+            "terif": "Qrafik dizayn vizual kommunikasiya vasitəsilə məlumatın ötürülməsi sənətidir. Qrafik dizaynerləri posterlər, loqotiplər, veb sayt dizaynları, reklam materialları və korporativ kimliklər yaradırlar. Estetika, oxunaqlılıq və brend identifikasiyası bu sahənin əsas prioritetlərindəndir.",
+            "universitetler": [
+              "Parsons School of Design",
+              "School of Visual Arts (SVA), New York",
+              "Royal College of Art, London"
+            ]
+          },
+          {
+            "ad": "Moda Dizaynı",
+            "terif": "Moda dizaynı geyim, ayaqqabı və aksesuarların yaradılması sənətidir. Moda dizaynerləri estetik baxış, tekstil bilikləri və bazar tendensiyalarını birləşdirərək kolleksiyalar yaradırlar. Bu sahə həm də brend idarəçiliyi və vizual təqdimat bacarıqları tələb edir.",
+            "universitetler": [
+              "Central Saint Martins (UAL)",
+              "Fashion Institute of Technology (FIT), New York",
+              "Parsons School of Design"
+            ]
+          },
+          {
+            "ad": "Lanshaft (Landşaft) Memarlığı",
+            "terif": "Lanshaft memarlığı açıq məkanların (parklar, bağlar, ictimai meydanlar) estetik və funksional dizaynı ilə məşğuldur. Lanshaft memarları təbii və insan tərəfindən yaradılmış elementləri birləşdirərək həm gözəl, həm də ekoloji cəhətdən davamlı mühitlər yaradırlar.",
+            "universitetler": [
+              "Harvard University Graduate School of Design",
+              "University of California, Berkeley",
+              "ETH Zurich"
+            ]
+          },
+          {
+            "ad": "İllustrasiya və Rəqəmsal Sənət",
+            "terif": "İllustrasiya və rəqəmsal sənət sahəsi kitab qrafikası, animasiya, oyun sənəti və rəqəmsal media üçün vizual məzmunların yaradılması ilə məşğuldur. Bu sahə texniki bacarıqlar, yaradıcılıq və fərdi ifadə imkanları tələb edir. Rəssamlar rəqəmsal alətlərlə interaktiv layihələr hazırlayırlar.",
+            "universitetler": [
+              "Savannah College of Art and Design (SCAD)",
+              "School of Visual Arts (SVA), New York",
+              "California Institute of the Arts (CalArts)"
+            ]
+          },
+          {
+            "ad": "Animasiya və Multimedia Dizaynı",
+            "terif": "Animasiya və multimedia dizaynı hərəkətli qrafiklər, vizual effektlər və interaktiv media layihələrinin hazırlanması sahəsidir. Bu sahənin mütəxəssisləri filmlər, video oyunlar, reklamlar və virtual reallıq platformaları üçün animasiya və vizual məzmunlar yaradırlar.",
+            "universitetler": [
+              "California Institute of the Arts (CalArts)",
+              "Ringling College of Art and Design",
+              "Savannah College of Art and Design (SCAD)"
+            ]
+          }
+        ]
+      },
+
+      {
+        "ad": "Biznes və İdarəetmə",
+        "umumi_terif": "Biznes və İdarəetmə sahəsi təşkilatların fəaliyyətini planlaşdırmaq, idarə etmək, maliyyə resurslarını bölüşdürmək və strateji qərarlar qəbul etmək üçün nəzəri bilik və praktiki bacarıqlar inkişaf etdirən sahədir. Bu sahə bazar analizindən insan resurslarının idarə olunmasına, marketinq strategiyalarından beynəlxalq ticarət siyasətlərinə qədər çox geniş sahələri əhatə edir. Biznes və idarəetmə ixtisasları liderlik, analitik düşünmə, qərarvermə və kommunikasiya qabiliyyətlərini inkişaf etdirərək məzunları qlobal iş dünyasında uğurlu karyera imkanlarına sahib edir.",
+        "ixtisaslar": [
+          {
+            "ad": "Biznesin İdarə Olunması (Business Administration)",
+            "terif": "Biznesin idarə olunması sahəsi təşkilatların gündəlik əməliyyatlarının effektiv şəkildə planlaşdırılması, təşkili və nəzarət olunması ilə məşğuldur. Bu ixtisas sahəsində təhsil alanlar maliyyə, marketinq, insan resursları, strategiya və innovasiya kimi müxtəlif sahələrdə bilik və bacarıq əldə edirlər. Biznes administratorları korporativ strukturların idarə edilməsində və inkişaf etdirilməsində əsas rol oynayırlar.",
+            "universitetler": [
+              "Harvard Business School",
+              "University of Pennsylvania (Wharton)",
+              "London Business School"
+            ]
+          },
+          {
+            "ad": "Maliyyə və İnvestisiya İdarəçiliyi",
+            "terif": "Maliyyə və İnvestisiya İdarəçiliyi sahəsi pul axınlarının idarə olunması, investisiya qərarlarının verilməsi və maliyyə risklərinin analizi ilə məşğul olur. Bu ixtisas üzrə mütəxəssislər bankçılıq, aktiv idarəçiliyi, risk idarəetməsi və korporativ maliyyə sahələrində fəaliyyət göstərirlər. Analitik düşüncə və bazar bilikləri bu sahənin vacib bacarıqlarıdır.",
+            "universitetler": [
+              "University of Chicago Booth School of Business",
+              "New York University (Stern)",
+              "London School of Economics and Political Science (LSE)"
+            ]
+          },
+          {
+            "ad": "Marketinq və Brend İdarəçiliyi",
+            "terif": "Marketinq və Brend İdarəçiliyi məhsul və xidmətlərin istehlakçılara necə təqdim edildiyi və bazarda necə mövqe tutduğu ilə məşğuldur. Bu sahənin mütəxəssisləri bazar araşdırması aparır, reklam strategiyaları hazırlayır və brendlərin bazar dəyərini artırmaq üçün kampaniyalar təşkil edirlər. İstehlakçı davranışı anlayışı və kreativlik bu sahədə uğur üçün vacibdir.",
+            "universitetler": [
+              "University of Pennsylvania (Wharton)",
+              "Northwestern University (Kellogg)",
+              "Columbia Business School"
+            ]
+          },
+          {
+            "ad": "İnsan Resurslarının İdarə Edilməsi",
+            "terif": "İnsan resurslarının idarə edilməsi təşkilatlarda işçi qüvvəsinin cəlb olunması, motivasiyası, inkişaf etdirilməsi və saxlanılması ilə məşğuldur. HR mütəxəssisləri işə qəbul, təlim proqramları, işçi performansının qiymətləndirilməsi və təşkilati mədəniyyətin inkişafı sahələrində çalışırlar. Əmək hüququ və əmək psixologiyası bilikləri bu ixtisasda mühümdür.",
+            "universitetler": [
+              "Cornell University (ILR School)",
+              "London School of Economics (LSE)",
+              "University of Michigan, Ann Arbor"
+            ]
+          },
+          {
+            "ad": "Beynəlxalq Biznes və Qlobal İdarəetmə",
+            "terif": "Beynəlxalq Biznes sahəsi fərqli ölkələr və mədəniyyətlər arasında biznes aparmaq üçün lazım olan bilik və strategiyaları öyrədir. Qlobal idarəetmə ixtisası mütəxəssisləri beynəlxalq ticarət, sərhədlərarası strateji planlaşdırma və çoxmədəniyyətli təşkilat strukturlarının idarə olunması sahəsində hazırlayır. Dünya bazarlarının dinamikasına hakim olmaq bu sahədə əsas rol oynayır.",
+            "universitetler": [
+              "INSEAD",
+              "London Business School",
+              "University of Warwick (WBS)"
+            ]
+          },
+          {
+            "ad": "Sahibkarlıq və Startap İdarəçiliyi",
+            "terif": "Sahibkarlıq və Startap İdarəçiliyi yeni bizneslərin qurulması, inkişafı və böyüdülməsi üzrə bilik və bacarıqlar öyrədir. Bu sahə ideyadan real məhsul və ya xidmətə keçid prosesində bazar araşdırması, maliyyə planlaşdırması və biznes modellərinin qurulması bacarıqlarını inkişaf etdirir. Risk idarəetməsi və innovasiya qabiliyyəti bu sahənin əsas tələblərindəndir.",
+            "universitetler": [
+              "Stanford Graduate School of Business",
+              "Massachusetts Institute of Technology (Sloan)",
+              "Babson College"
+            ]
+          },
+          {
+            "ad": "Logistika və Təchizat Zəncirinin İdarə Edilməsi",
+            "terif": "Logistika və Təchizat Zənciri İdarəçiliyi məhsulların və xidmətlərin istehsaldan istehlakçıya qədər olan bütün mərhələlərinin planlaşdırılması və koordinasiyası ilə məşğuldur. Bu sahənin mütəxəssisləri anbar idarəçiliyi, nəqliyyat planlaması, satınalma və qlobal təchizat şəbəkələrinin optimallaşdırılması işlərini yerinə yetirirlər.",
+            "universitetler": [
+              "Massachusetts Institute of Technology (MIT Center for Transportation & Logistics)",
+              "Michigan State University",
+              "Pennsylvania State University"
+            ]
+          },
+          {
+            "ad": "Strateji İdarəetmə və Biznes Konsaltinq",
+            "terif": "Strateji idarəetmə təşkilatların uzunmüddətli hədəflərini müəyyən etmək və onlara çatmaq üçün lazım olan plan və qərarları hazırlamaq sahəsidir. Biznes konsaltinqi isə digər şirkətlərə fəaliyyətlərinin təkmilləşdirilməsi və problemlərin həlli üçün məsləhət xidmətləri göstərir. Bu sahədə analitik təhlil, problem həlli və effektiv kommunikasiya bacarıqları önəmlidir.",
+            "universitetler": [
+              "Harvard Business School",
+              "INSEAD",
+              "London Business School"
+            ]
+          },
+          {
+            "ad": "Əməkdaşlıq və Davamlı İnkişaf İdarəçiliyi",
+            "terif": "Əməkdaşlıq və davamlı inkişaf idarəçiliyi korporasiyaların sosial məsuliyyətlərini, ətraf mühitə təsirini və etik biznes praktikasını idarə etməyə fokuslanır. Bu sahə sosial məsuliyyət layihələri, yaşıl texnologiyalar və davamlı inkişaf strategiyalarının həyata keçirilməsini nəzərdə tutur. Bu sahədə ekoloji və sosial biliklər vacibdir.",
+            "universitetler": [
+              "University of Cambridge (Judge Business School)",
+              "Yale School of Management",
+              "University of Michigan (Ross School of Business)"
+            ]
+          }
+        ]
+      },
+
+
+      {
+        "ad": "Hüquq və Beynəlxalq Münasibətlər",
+        "umumi_terif": "Hüquq və Beynəlxalq Münasibətlər sahələri cəmiyyətin və dövlətlərin idarə olunması, hüquqi normaların tətbiqi və beynəlxalq sistemdə dövlətlərarası əlaqələrin tənzimlənməsi ilə məşğuldur. Hüquq sahəsi hüquqi sistemlərin təhlili, qanunların icrası və hüquqi ədalətin təmin edilməsi üzərində fokuslanır. Beynəlxalq Münasibətlər sahəsi isə qlobal siyasət, diplomatiya, beynəlxalq təşkilatlar və dövlətlər arasındakı iqtisadi və siyasi əlaqələri araşdırır. Bu sahələrdə təhsil alanlar qanunlar, insan hüquqları, beynəlxalq hüquq, diplomatiya və qlobal idarəetmə üzrə dərin biliklər əldə edirlər.",
+        "ixtisaslar": [
+          {
+            "ad": "Hüquq (Law)",
+            "terif": "Hüquq sahəsi cəmiyyətin fəaliyyətini tənzimləyən qanunların və hüquqi normaların öyrənilməsi, tətbiqi və təfsir olunması ilə məşğuldur. Hüquq fakültəsi məzunları vəkillik, hakimlik, prokurorluq və hüquq müşavirliyi kimi peşələrdə fəaliyyət göstərə bilirlər. Hüquqşünaslar cəmiyyətin ədalət və hüquq prinsiplərinə əsaslanan idarə olunmasında mühüm rol oynayırlar.",
+            "universitetler": [
+              "Harvard Law School",
+              "University of Oxford Faculty of Law",
+              "Yale Law School"
+            ]
+          },
+          {
+            "ad": "Beynəlxalq Hüquq",
+            "terif": "Beynəlxalq hüquq dövlətlər, beynəlxalq təşkilatlar və fərdi şəxslər arasında olan hüquqi münasibətləri tənzimləyən normativ sistemdir. Bu sahə beynəlxalq müqavilələr, insan hüquqları, münaqişələrin həlli və beynəlxalq məhkəmələrin fəaliyyəti kimi məsələləri əhatə edir. Beynəlxalq hüquqşünaslar BMT, Beynəlxalq Cinayət Məhkəməsi və digər beynəlxalq qurumlarda işləyə bilərlər.",
+            "universitetler": [
+              "University of Cambridge",
+              "Graduate Institute Geneva",
+              "New York University (NYU) School of Law"
+            ]
+          },
+          {
+            "ad": "Kriminal Hüquq və Cinayət Ədaləti",
+            "terif": "Kriminal hüquq cəmiyyətə qarşı törədilmiş cinayətləri araşdırır, onların qarşısının alınması, təqibi və cəzalandırılması sistemini formalaşdırır. Cinayət ədaləti isə hüquq-mühafizə orqanlarının, məhkəmələrin və cəza sistemlərinin fəaliyyətini öyrənir. Bu sahədə mütəxəssislər hüquq-mühafizə strukturlarında və məhkəmə sistemində çalışırlar.",
+            "universitetler": [
+              "University of California, Berkeley (Boalt Hall)",
+              "University of Cambridge Institute of Criminology",
+              "University of Pennsylvania Carey Law School"
+            ]
+          },
+          {
+            "ad": "İnsan Hüquqları və Humanitar Hüquq",
+            "terif": "İnsan hüquqları və humanitar hüquq fərdi azadlıqların və hüquqların qorunması, münaqişə vəziyyətlərində mülki şəxslərin müdafiəsi və beynəlxalq humanitar normaların tətbiqi ilə məşğuldur. Bu sahə insan hüquqları təşkilatlarında, beynəlxalq məhkəmələrdə və qeyri-hökumət təşkilatlarında fəaliyyət üçün əsas yaradır.",
+            "universitetler": [
+              "University of Essex",
+              "Geneva Academy of International Humanitarian Law and Human Rights",
+              "Columbia Law School"
+            ]
+          },
+          {
+            "ad": "Beynəlxalq Münasibətlər və Diplomatiya",
+            "terif": "Beynəlxalq Münasibətlər sahəsi dövlətlər, beynəlxalq təşkilatlar və qeyri-dövlət aktorları arasındakı əlaqələri, siyasi və iqtisadi prosesləri araşdırır. Diplomatiya isə dövlətlər arasında əlaqələrin qurulması və qorunması sənətidir. Bu sahənin məzunları diplomat, analitik, beynəlxalq təşkilatlarda nümayəndə kimi fəaliyyət göstərə bilirlər.",
+            "universitetler": [
+              "Sciences Po Paris",
+              "Georgetown University Walsh School of Foreign Service",
+              "London School of Economics (LSE)"
+            ]
+          },
+          {
+            "ad": "Beynəlxalq Ticarət və İqtisadi Münasibətlər",
+            "terif": "Beynəlxalq ticarət və iqtisadi münasibətlər sahəsi qlobal bazarlar, sərbəst ticarət razılaşmaları, beynəlxalq iqtisadi təşkilatların fəaliyyəti və iqtisadi siyasətlərin qarşılıqlı təsirini öyrənir. Bu sahədə mütəxəssislər beynəlxalq şirkətlərdə, ticarət təşkilatlarında və iqtisadi analitik mərkəzlərdə işləyirlər.",
+            "universitetler": [
+              "University of Geneva",
+              "University of St. Gallen",
+              "University of Warwick"
+            ]
+          },
+          {
+            "ad": "Avropa İttifaqı Hüququ və Siyasəti",
+            "terif": "Avropa İttifaqı hüququ Aİ-nin normativ çərçivəsini, institusional strukturunu və üzv dövlətlər arasındakı hüquqi əlaqələri öyrənir. Eyni zamanda Aİ-nin xarici siyasəti, iqtisadi inteqrasiyası və insan hüquqları sahəsində fəaliyyəti bu ixtisasın əsasını təşkil edir. Məzunlar Aİ təşkilatlarında və beynəlxalq hüquq firmalarında işləyə bilərlər.",
+            "universitetler": [
+              "College of Europe",
+              "Leiden University",
+              "University of Luxembourg"
+            ]
+          },
+          {
+            "ad": "Sülh və Münaqişələrin Həlli",
+            "terif": "Sülh və Münaqişələrin Həlli sahəsi münaqişələrin səbəblərinin araşdırılması, qarşısının alınması və effektiv həll mexanizmlərinin inkişaf etdirilməsi ilə məşğuldur. Diplomatik vasitəçilik, beynəlxalq media, sülh quruculuğu layihələri bu sahənin əsas istiqamətlərindəndir. Məzunlar BMT, regional təşkilatlar və humanitar missiyalarda çalışa bilərlər.",
+            "universitetler": [
+              "University of Notre Dame (Kroc Institute for International Peace Studies)",
+              "Uppsala University",
+              "University of Bradford"
+            ]
+          },
+          {
+            "ad": "Korporativ Hüquq və Şirkət İdarəçiliyi",
+            "terif": "Korporativ hüquq şirkətlərin yaradılması, idarə olunması, birləşmələr və satınalmalar, səhm bazarları və müqavilə hüququ ilə bağlı məsələləri əhatə edir. Bu sahədə çalışan hüquqşünaslar bizneslərin hüquqi tələblərinə uyğun fəaliyyət göstərməsini təmin edir və korporativ strukturun inkişafına dəstək olurlar.",
+            "universitetler": [
+              "New York University School of Law",
+              "University of Cambridge",
+              "University of California, Berkeley School of Law"
+            ]
+          }
+        ]
+      },
+      {
+        "ad": "Elmi Araşdırmalar",
+        "umumi_terif": "Elmi araşdırmalar təbiət hadisələrinin, cəmiyyətin və texnologiyanın dərinliklərini anlamaq məqsədilə aparılan sistemli, metodoloji və təhlili fəaliyyətlər toplusudur. Bu sahə nəzəri konsepsiyaların inkişafı, yeni biliklərin kəşfi və mövcud problemlərə innovativ həll yollarının tapılması üçün fundamental və tətbiqi tədqiqatları əhatə edir. Elmi araşdırmalar bəşəriyyətin irəliləməsi, tibbi və texnoloji yeniliklərin inkişafı və qlobal problemlərin həlli üçün əsas təməl rolunu oynayır. Bütün elmi fəaliyyətlər obyektivlik, sübutlara əsaslanma və dəqiqlik prinsiplərinə əsaslanır.",
+        "ixtisaslar": [
+          {
+            "ad": "Fundamental Fizika Araşdırmaları",
+            "terif": "Fundamental fizika təbiətin əsas qanunlarını öyrənir və kainatın işləmə prinsiplərini araşdırır. Bu sahədə işləyən tədqiqatçılar kvant mexanikası, relativlik nəzəriyyəsi, yüksək enerjili fizika və astrofizika kimi sahələrdə yeni kəşflər edirlər. Məqsəd maddənin, enerjinin və zamanın dərin mexanizmlərini başa düşməkdir.",
+            "universitetler": [
+              "California Institute of Technology (Caltech)",
+              "University of Cambridge Cavendish Laboratory",
+              "ETH Zurich Department of Physics"
+            ]
+          },
+          {
+            "ad": "Tibbi və Biotibbi Tədqiqatlar",
+            "terif": "Tibbi və biotibbi araşdırmalar insan sağlamlığının qorunması, xəstəliklərin diaqnozu və müalicəsi üçün yeni metodların hazırlanması üzərində qurulub. Molekulyar biologiya, immunologiya və genetika sahələrində aparılan tədqiqatlar müasir tibbin inkişafına təkan verir. Bu sahə həm fundamental laboratoriya tədqiqatlarını, həm də klinik sınaqları əhatə edir.",
+            "universitetler": [
+              "Harvard Medical School",
+              "Johns Hopkins University School of Medicine",
+              "Karolinska Institute"
+            ]
+          },
+          {
+            "ad": "Kimya və Material Elmləri Araşdırmaları",
+            "terif": "Kimya və material elmləri maddələrin strukturu, xüsusiyyətləri və reaksiyalarını araşdırır. Bu sahə yeni materialların (superkeçiricilər, nanomateriallar, biomateriallar) inkişaf etdirilməsi və kimyəvi proseslərin optimallaşdırılması üçün fundamental rol oynayır. Enerji texnologiyaları, tibbi cihazlar və sənaye məhsulları üçün yeni həllər buradan doğur.",
+            "universitetler": [
+              "University of California, Berkeley",
+              "University of Cambridge Department of Chemistry",
+              "Massachusetts Institute of Technology (MIT)"
+            ]
+          },
+          {
+            "ad": "Beyin və Sinir Elmləri (Neuroscience)",
+            "terif": "Beyin və sinir elmləri insan beyninin və sinir sisteminin strukturu və funksiyalarını araşdırır. Tədqiqatlar yaddaş, öyrənmə, duyğular və sinir xəstəliklərinin (Alzheimer, Parkinson və s.) səbəblərini anlamağa yönəlib. Bu sahə tibb, psixologiya və süni intellektlə sıx əlaqəlidir.",
+            "universitetler": [
+              "Harvard University Department of Neuroscience",
+              "University College London (UCL) Institute of Neurology",
+              "Stanford University Neurosciences Institute"
+            ]
+          },
+          {
+            "ad": "İqlim Dəyişikliyi və Ətraf Mühit Araşdırmaları",
+            "terif": "İqlim dəyişikliyi və ətraf mühit elmləri Yer kürəsinin ekoloji tarazlığını, iqlim sistemlərinin işləmə mexanizmlərini və insan fəaliyyətinin təsirlərini öyrənir. Tədqiqatçılar qlobal istiləşmə, karbon emissiyaları, su ehtiyatlarının idarə olunması və biomüxtəlifliyin qorunması kimi problemlərlə məşğul olurlar. Bu sahə davamlı inkişaf üçün kritik əhəmiyyət daşıyır.",
+            "universitetler": [
+              "University of Oxford Environmental Change Institute",
+              "ETH Zurich Department of Environmental Systems Science",
+              "University of California, Berkeley College of Natural Resources"
+            ]
+          },
+          {
+            "ad": "Süni İntellekt və Maşın Öyrənməsi Tədqiqatları",
+            "terif": "Süni intellekt və maşın öyrənməsi sahəsindəki araşdırmalar kompüterlərin verilənlər əsasında öyrənməsi, qərar verməsi və insan davranışını təqlid etməsi üçün alqoritmlərin hazırlanmasını hədəfləyir. Bu tədqiqatlar səhiyyə, maliyyə, nəqliyyat və robototexnika sahələrində inqilabi dəyişikliklərə səbəb olur. Sürətlə inkişaf edən və multidissiplinar yanaşma tələb edən sahədir.",
+            "universitetler": [
+              "Massachusetts Institute of Technology (MIT) CSAIL",
+              "Stanford University Artificial Intelligence Laboratory",
+              "University of Toronto Department of Computer Science"
+            ]
+          },
+          {
+            "ad": "Sosiologiya və Sosial Elmlər Tədqiqatları",
+            "terif": "Sosiologiya və sosial elmlər cəmiyyətin quruluşunu, insan münasibətlərini, sosial institutları və mədəni dinamikaları öyrənir. Araşdırmalar sosial dəyişikliklər, gender bərabərliyi, sosial ədalət və qlobal problemlərin həll yollarını tapmaq üçün aparılır. Bu sahə sosial siyasətlərin və ictimai inkişaf proqramlarının formalaşdırılmasına təsir edir.",
+            "universitetler": [
+              "University of Oxford Department of Sociology",
+              "London School of Economics and Political Science (LSE)",
+              "Harvard University Department of Sociology"
+            ]
+          },
+          {
+            "ad": "Riyaziyyat və Tətbiqi Riyazi Elmlər",
+            "terif": "Riyaziyyat fundamental nəzəri anlayışları, tətbiqi riyazi elmlər isə real həyatda bu anlayışların istifadə sahələrini araşdırır. Statistik modelləşdirmə, ehtimal nəzəriyyəsi, diferensial tənliklər və kriptoqrafiya kimi sahələr həm nəzəri, həm də praktiki problemlərin həllində əsas rol oynayır. Riyazi tədqiqatlar elm və texnologiyanın bütün sahələrində tətbiq edilir.",
+            "universitetler": [
+              "University of Cambridge Faculty of Mathematics",
+              "Princeton University Department of Mathematics",
+              "University of California, Berkeley Department of Mathematics"
+            ]
+          }
+        ]
+      },
+      
+      {
+        "ad": "Analitika və Data Elmi",
+        "umumi_terif": "Analitika və Data Elmi sahəsi böyük həcmdə verilənlərin toplanması, emalı, təhlili və bu verilənlərdən strateji qərarlar çıxarılması ilə məşğuldur. Bu sahə statistika, proqramlaşdırma, maşın öyrənməsi, böyük verilənlər (big data) texnologiyaları və vizuallaşdırma bacarıqlarının birləşməsini tələb edir. Analitika və data elmi müasir biznes, səhiyyə, maliyyə, texnologiya və elmi tədqiqat sahələrində əsas motor rolunu oynayır, təşkilatların rəqabət qabiliyyətini artırmaq və innovasiya yaratmaq üçün məlumat əsaslı qərar verməyi mümkün edir.",
+        "ixtisaslar": [
+          {
+            "ad": "Data Elmi (Data Science)",
+            "terif": "Data Elmi sahəsi strukturlaşdırılmış və strukturlaşdırılmamış verilənlərin toplanması, təmizlənməsi, modelləşdirilməsi və interpretasiyası ilə məşğuldur. Data scientistlər statistik metodlardan, maşın öyrənməsi alqoritmlərindən və proqramlaşdırma bacarıqlarından istifadə edərək biznes problemlərinə və elmi tədqiqat suallarına cavab tapırlar. Bu sahə Python, R, SQL və böyük verilənlər texnologiyaları biliklərini tələb edir.",
+            "universitetler": [
+              "Stanford University",
+              "University of California, Berkeley",
+              "University of Oxford"
+            ]
+          },
+          {
+            "ad": "Böyük Verilənlər Analitikası (Big Data Analytics)",
+            "terif": "Böyük Verilənlər Analitikası çox böyük, müxtəlif və sürətlə dəyişən verilənlərin real vaxtda emalı və təhlilini əhatə edir. Bu sahədə Hadoop, Spark, NoSQL bazalar və bulud platformaları kimi texnologiyalar istifadə olunur. Məqsəd böyük verilənlərdən dəyər çıxarmaq və müəssisələrin daha sürətli və dəqiq qərarlar verməsini təmin etməkdir.",
+            "universitetler": [
+              "Massachusetts Institute of Technology (MIT)",
+              "University of Edinburgh",
+              "University of Toronto"
+            ]
+          },
+          {
+            "ad": "Biznes Analitikası",
+            "terif": "Biznes analitikası təşkilatların əməliyyatları və bazar fəaliyyətləri haqqında məlumatlardan istifadə edərək performans analizi və qərarvermə üçün strategiyalar hazırlayan sahədir. Bu sahə statistik analiz, modelləşdirmə və biznes intellekti alətləri ilə biznesin rəqabət qabiliyyətini artırır. Qərarvermə, proqnozlaşdırıcı analitika və KPI izlənməsi burada əsas rol oynayır.",
+            "universitetler": [
+              "University of Pennsylvania (Wharton)",
+              "University of Warwick (WBS)",
+              "HEC Paris"
+            ]
+          },
+          {
+            "ad": "Məlumat Vizuallaşdırması və İnformasiya Dizaynı",
+            "terif": "Məlumat vizuallaşdırması verilənlərin qrafik, interaktiv və estetik formatda təqdim edilməsini əhatə edir. İnformasiya dizaynı auditoriyanın kompleks verilənləri daha asan başa düşməsi və qərar verməsi üçün vizual strukturlar yaradır. Tableau, Power BI və D3.js kimi alətlər bu sahənin əsas texnologiyalarındandır.",
+            "universitetler": [
+              "New York University (NYU)",
+              "University of Washington",
+              "University of Edinburgh"
+            ]
+          },
+          {
+            "ad": "Maşın Öyrənməsi və Süni İntellekt Analitikası",
+            "terif": "Maşın öyrənməsi və süni intellekt analitikası verilənlər üzərində avtomatik öyrənmə və optimallaşdırma proseslərini inkişaf etdirən sahədir. Alqoritmlər böyük verilənlərdə nümunələri aşkar etmək və proqnozlar vermək üçün istifadə olunur. Sənaye 4.0, maliyyə texnologiyaları və səhiyyə sistemlərində bu sahənin tətbiqi sürətlə genişlənir.",
+            "universitetler": [
+              "Carnegie Mellon University",
+              "University of Cambridge",
+              "ETH Zurich"
+            ]
+          },
+          {
+            "ad": "Statistik Analiz və Tətbiqi Statistikalar",
+            "terif": "Statistik analiz sahəsi verilənlərin toplanması, emalı, təsviri və interpretasiyası üçün statistik metodların tətbiqi ilə məşğuldur. Tətbiqi statistika sosial elmlərdən biznes analizlərinə qədər bir çox sahədə qərarvermə proseslərini dəstəkləyir. Regresiya analizləri, ehtimal nəzəriyyəsi və inferensial statistika əsas modullardandır.",
+            "universitetler": [
+              "Harvard University Department of Statistics",
+              "University of California, Berkeley Statistics",
+              "University of Oxford Department of Statistics"
+            ]
+          },
+          {
+            "ad": "İstehsalat və Əməliyyat Analitikası",
+            "terif": "İstehsalat və əməliyyat analitikası sənaye və xidmət sahələrində proses optimallaşdırılması və resurs idarə olunması üçün analitik metodlardan istifadə edir. Bu sahə xərc azaldılması, məhsuldarlığın artırılması və tədarük zəncirinin təkmilləşdirilməsi üçün məlumat əsaslı strategiyalar inkişaf etdirir.",
+            "universitetler": [
+              "Massachusetts Institute of Technology (MIT)",
+              "University of Michigan, Ann Arbor",
+              "National University of Singapore (NUS)"
+            ]
+          },
+          {
+            "ad": "Səhiyyə Analitikası və Bioinformatika",
+            "terif": "Səhiyyə analitikası tibbi verilənlərin təhlili və sağlamlıq xidmətlərinin optimallaşdırılması məqsədilə tətbiq edilir. Bioinformatika isə bioloji verilənlərin (genetik kod, protein strukturları və s.) təhlili üçün kompüter texnologiyaları və statistik üsullardan istifadə edir. Bu sahələr fərdiləşdirilmiş tibb və xəstəlik proqnozlaşdırılması sahəsində inqilabi dəyişikliklər yaradır.",
+            "universitetler": [
+              "Johns Hopkins University",
+              "University of Cambridge Department of Genetics and Bioinformatics",
+              "Stanford University School of Medicine"
+            ]
+          }
+        ]
+      },
+
+      {
+        "ad": "İncəsənət və Yaradıcılıq",
+        "umumi_terif": "İncəsənət və Yaradıcılıq sahəsi insanın daxili dünyasını, emosiyalarını, düşüncələrini və ideyalarını estetik formalar vasitəsilə ifadə etdiyi bir sahədir. Bu sahə vizual sənət, performans sənətləri, yazılı ədəbiyyat, musiqi, moda və yeni media kimi fərqli istiqamətləri əhatə edir. İncəsənət və yaradıcılıq yalnız şəxsi ifadə vasitəsi deyil, həm də cəmiyyətin inkişafında, mədəniyyətlərin qorunmasında və sosial dəyişikliklərdə əsas rol oynayır. Bu sahə yaradıcılıq bacarığı, texniki bilik, estetik zövq və fərqli perspektivlərə açıq olmağı tələb edir.",
+        "ixtisaslar": [
+          {
+            "ad": "Təsviri İncəsənət (Fine Arts)",
+            "terif": "Təsviri incəsənət sahəsi rəsm, heykəltəraşlıq, qrafika və digər vizual sənət formalarının yaradılması və təhlili ilə məşğuldur. Rəssamlar və heykəltəraşlar fərdi ifadə, estetik axtarışlar və cəmiyyətə vizual mesajlar ötürmək məqsədilə yaradıcılıqlarını inkişaf etdirirlər. Bu sahə klassik sənət anlayışlarından müasir eksperimental texnikalara qədər geniş bir spektri əhatə edir.",
+            "universitetler": [
+              "Royal College of Art, London",
+              "Rhode Island School of Design (RISD)",
+              "School of the Art Institute of Chicago (SAIC)"
+            ]
+          },
+          {
+            "ad": "Musiqi və Musiqi İcraçılığı",
+            "terif": "Musiqi sahəsi melodiyalar, ritmlər və harmoniya vasitəsilə emosional və intellektual ifadə yaradır. Musiqi icraçılığı isə instrumental və vokal texnikaların mükəmməlləşdirilməsi və auditoriya qarşısında ifa sənətidir. Bəstəkarlıq, dirijorluq və musiqi tədqiqatları da bu sahəyə daxildir.",
+            "universitetler": [
+              "Juilliard School",
+              "Royal Academy of Music",
+              "Berklee College of Music"
+            ]
+          },
+          {
+            "ad": "Teatr və Performans Sənətləri",
+            "terif": "Teatr və performans sənətləri dram əsərlərinin səhnələşdirilməsi, aktyorluq sənəti və səhnə rejissorluğu kimi istiqamətləri əhatə edir. Bu sahə həm klassik pyeslərin, həm də müasir eksperimental tamaşaların hazırlanmasını və icrasını öyrədir. Emosional ifadə, bədən dili və improvizasiya əsas bacarıqlar sırasındadır.",
+            "universitetler": [
+              "Royal Academy of Dramatic Art (RADA)",
+              "New York University Tisch School of the Arts",
+              "Yale School of Drama"
+            ]
+          },
+          {
+            "ad": "Yaradıcılıq Yazarlığı və Ədəbiyyat",
+            "terif": "Yaradıcılıq yazarlığı roman, şeir, esse və dramaturgiya kimi yazı formalarının yaradılması sənətidir. Yazıçılar öz şəxsi təcrübələrini, ideyalarını və dünyagörüşlərini sözlərlə ifadə edərək oxucularla emosional və intellektual əlaqə qururlar. Ədəbiyyat nəzəriyyəsi və tənqid də bu sahənin əsas istiqamətlərindəndir.",
+            "universitetler": [
+              "University of Iowa (Writers' Workshop)",
+              "University of East Anglia (UEA)",
+              "Columbia University School of the Arts"
+            ]
+          },
+          {
+            "ad": "Moda Dizaynı və Stilistikası",
+            "terif": "Moda dizaynı geyim və aksesuarların estetik, funksional və mədəni baxımdan yaradılması sahəsidir. Stilistika isə modanın tarixi və müasir tendensiyalarını təhlil edir və fərdi üslub anlayışının inkişafına yönəlir. Moda sənayesi kreativlik, texniki bacarıq və biznes anlayışının harmoniyasını tələb edir.",
+            "universitetler": [
+              "Central Saint Martins (UAL)",
+              "Fashion Institute of Technology (FIT), New York",
+              "Parsons School of Design"
+            ]
+          },
+          {
+            "ad": "Qrafik Dizayn və Rəqəmsal Media",
+            "terif": "Qrafik dizayn vizual ünsiyyətin yaradılması və idarə olunması üçün rəqəmsal və ənənəvi texnikalardan istifadə edir. Rəqəmsal media isə interaktiv veb saytlar, mobil tətbiqlər, video oyunlar və animasiyalar üçün vizual məzmunların hazırlanmasını əhatə edir. Bu sahədə estetik zövq və texniki proqram bacarıqları əsasdır.",
+            "universitetler": [
+              "Savannah College of Art and Design (SCAD)",
+              "School of Visual Arts (SVA), New York",
+              "Royal College of Art, London"
+            ]
+          },
+          {
+            "ad": "Film və Kino İncəsənəti",
+            "terif": "Film və kino sahəsi vizual hekayəçilik vasitəsilə emosiyaları və ideyaları auditoriyaya çatdırmaq üçün rejissorluq, ssenari yazarlığı, operatorluq və montaj kimi istiqamətləri birləşdirir. Kino sənəti həm əyləncə, həm də sosial dəyişiklik aləti kimi çıxış edir. Bu sahə texniki ustalıqla yanaşı, dərin hekayə anlatımı bacarığı da tələb edir.",
+            "universitetler": [
+              "University of Southern California (USC) School of Cinematic Arts",
+              "American Film Institute (AFI) Conservatory",
+              "New York University Tisch School of the Arts"
+            ]
+          },
+          {
+            "ad": "Animasiya və Vizual Effektlər",
+            "terif": "Animasiya və vizual effektlər 2D, 3D modellər, kompüter qrafikası və rəqəmsal texnologiyalar vasitəsilə hərəkətli təsvirlər yaradır. Bu sahənin mütəxəssisləri filmlər, video oyunlar, reklamlar və virtual reallıq layihələri üçün innovativ vizual məzmunlar hazırlayırlar. Texniki bilik və yaradıcılıq bu sahədə uğurun açarıdır.",
+            "universitetler": [
+              "California Institute of the Arts (CalArts)",
+              "Ringling College of Art and Design",
+              "Savannah College of Art and Design (SCAD)"
+            ]
+          },
+          {
+            "ad": "Fotografiya və Vizual Kommunikasiya",
+            "terif": "Fotografiya və vizual kommunikasiya hadisələrin, emosiyaların və ideyaların şəkil vasitəsilə sənədləşdirilməsi və çatdırılması sənətidir. Bu sahədə texniki bacarıqlar (işıqlandırma, kompozisiya, redaktə) və güclü vizual hekayəçilik qabiliyyəti əsas rol oynayır. Fotojurnalistika, sənədli fotoqrafiya və moda fotoqrafiyası bu sahənin əsas istiqamətlərindəndir.",
+            "universitetler": [
+              "Rochester Institute of Technology (RIT)",
+              "School of Visual Arts (SVA), New York",
+              "University of the Arts London (UAL)"
+            ]
+          }
+        ]
+      },
+
+
+
+      {
+        "ad": "Ətraf Mühit və Davamlılıq",
+        "umumi_terif": "Ətraf Mühit və Davamlılıq sahəsi təbii resursların qorunması, ekosistemlərin idarə olunması və gələcək nəsillər üçün yaşana bilən bir dünya yaradılması məqsədilə fəaliyyət göstərir. Bu sahə qlobal iqlim dəyişikliyi, təbii sərvətlərin düzgün istifadəsi, biomüxtəlifliyin qorunması və sosial ədalət prinsiplərinə əsaslanır. Ətraf Mühit və Davamlılıq sahəsində çalışan mütəxəssislər insan fəaliyyətinin təbiətə təsirini minimuma endirmək üçün elmi tədqiqatlar aparır, siyasət formalaşdırır və innovativ texnologiyalar tətbiq edirlər.",
+        "ixtisaslar": [
+          {
+            "ad": "Ətraf Mühit Elmləri",
+            "terif": "Ətraf mühit elmləri Yer kürəsinin ekosistemlərini, təbii proseslərini və insan fəaliyyətinin bu proseslərə təsirini öyrənir. Bu sahə su resursları, hava keyfiyyəti, torpaq qorunması və biomüxtəlifliyin idarə olunması kimi mövzuları əhatə edir. Ətraf mühit alimləri davamlılıq üçün elmi əsaslı strategiyalar hazırlayırlar.",
+            "universitetler": [
+              "University of California, Berkeley College of Natural Resources",
+              "University of Oxford School of Geography and the Environment",
+              "ETH Zurich Department of Environmental Systems Science"
+            ]
+          },
+          {
+            "ad": "İqlim Elmləri və İqlim Dəyişikliyi Tədqiqatları",
+            "terif": "İqlim elmləri atmosfer proseslərini, qlobal istiləşməni və iqlim dəyişikliyinin səbəblərini araşdırır. Tədqiqatçılar temperatur dəyişikləri, ekstremal hava hadisələri və karbon emissiyalarının təsirini öyrənərək iqlim siyasətlərinə elmi dəstək verirlər. Bu sahə bəşəriyyətin gələcəyi üçün həyati əhəmiyyət daşıyır.",
+            "universitetler": [
+              "University of East Anglia (Climate Research Unit)",
+              "University of Colorado Boulder",
+              "Australian National University"
+            ]
+          },
+          {
+            "ad": "Davamlı Enerji və Enerji Texnologiyaları",
+            "terif": "Davamlı enerji sahəsi bərpa olunan enerji mənbələrinin (günəş, külək, hidro və biokütlə) inkişaf etdirilməsi və tətbiqi üzərində fokuslanır. Mühəndislər və tədqiqatçılar enerjinin daha təmiz, effektiv və əlçatan yollarla əldə olunması üçün texnologiyalar hazırlayırlar. Bu sahə qlobal karbon emissiyalarının azaldılmasında əsas rol oynayır.",
+            "universitetler": [
+              "Stanford University (Precourt Institute for Energy)",
+              "Technical University of Denmark (DTU)",
+              "Imperial College London Energy Futures Lab"
+            ]
+          },
+          {
+            "ad": "Təbiətin Qorunması və Biomüxtəliflik İdarəçiliyi",
+            "terif": "Təbiətin qorunması sahəsi planetimizin təbii sərvətlərini və canlı müxtəlifliyini qorumaq üçün elmi tədqiqat və praktiki tədbirlər həyata keçirir. Qorunan ərazilərin idarə olunması, vəhşi təbiətin müdafiəsi və nəsli kəsilməkdə olan növlərin bərpası bu sahənin əsas istiqamətlərindəndir. Məqsəd insan və təbiət arasında balansı qorumaqdır.",
+            "universitetler": [
+              "University of Cambridge Department of Zoology",
+              "University of Queensland (School of Earth and Environmental Sciences)",
+              "University of British Columbia (Institute for Resources, Environment and Sustainability)"
+            ]
+          },
+          {
+            "ad": "Ətraf Mühit Siyasəti və İdarəçiliyi",
+            "terif": "Ətraf mühit siyasəti və idarəçiliyi ekoloji problemlərin aradan qaldırılması üçün siyasi və institusional strategiyaların hazırlanması və tətbiq olunması ilə məşğuldur. Mütəxəssislər beynəlxalq sazişlər, milli qanunvericilik və korporativ sosial məsuliyyət proqramları üzərində çalışırlar. Bu sahə davamlılıq hədəflərinə çatmaq üçün vacib bir körpüdür.",
+            "universitetler": [
+              "Yale School of the Environment",
+              "University of Oxford MSc in Environmental Change and Management",
+              "University of Michigan School for Environment and Sustainability"
+            ]
+          },
+          {
+            "ad": "Davamlı Şəhər İnkişafı və Urban Davamlılıq",
+            "terif": "Davamlı şəhər inkişafı sahəsi şəhərlərin ekoloji, iqtisadi və sosial cəhətdən davamlı şəkildə inkişaf etdirilməsini hədəfləyir. Urban davamlılıq şəhər infrastrukturunun yaşıl texnologiyalarla və ağıllı planlaşdırma prinsipləri ilə optimallaşdırılmasını nəzərdə tutur. Şəhər planlaşdırıcıları və davamlılıq mütəxəssisləri bu sahədə birlikdə çalışırlar.",
+            "universitetler": [
+              "University College London (UCL) Bartlett School of Planning",
+              "Delft University of Technology",
+              "Columbia University Graduate School of Architecture, Planning and Preservation"
+            ]
+          },
+          {
+            "ad": "Ətraf Mühit İqtisadiyyatı",
+            "terif": "Ətraf mühit iqtisadiyyatı təbii resursların istifadəsi və ekoloji təsirlərin iqtisadi nəticələrinin təhlili ilə məşğul olur. İqtisadçılar karbon vergiləri, ekoloji təşviqlər və davamlı inkişaf siyasətlərinin effektivliyini ölçürlər. Bu sahə ətraf mühit və iqtisadi inkişaf arasında optimal tarazlığı axtarır.",
+            "universitetler": [
+              "London School of Economics and Political Science (LSE)",
+              "University of California, Berkeley Department of Agricultural and Resource Economics",
+              "University of Cambridge Institute for Sustainability Leadership"
+            ]
+          },
+          {
+            "ad": "Davamlı Kənd Təsərrüfatı və Ərzaq Sistemləri",
+            "terif": "Davamlı kənd təsərrüfatı torpaq, su və biomüxtəliflik resurslarının qorunmasını prioritet tutaraq kənd təsərrüfatı məhsuldarlığını artırmaq məqsədini güdür. Ərzaq sistemlərinin davamlılığı isə qlobal ərzaq təhlükəsizliyinin təmin edilməsi və resurs israfının qarşısının alınması üçün yeni yanaşmalar təqdim edir. Bu sahə gələcəyin ərzaq sistemlərinin əsasını təşkil edir.",
+            "universitetler": [
+              "Wageningen University & Research",
+              "Cornell University College of Agriculture and Life Sciences",
+              "University of California, Davis"
+            ]
+          }
+        ]
+      },
+      {
+        "ad": "Turizm və Qonaqpərvərlik",
+        "umumi_terif": "Turizm və Qonaqpərvərlik sahəsi insanların səyahət, istirahət və qonaqpərvərlik xidmətlərindən istifadə etmə ehtiyaclarını qarşılamaq üçün fəaliyyət göstərir. Bu sahə qlobal iqtisadiyyatın əsas sektorlarından biri olub, hotellər, restoranlar, tur operatorları, sərgi və tədbir təşkilatçıları kimi müxtəlif sahələri əhatə edir. Peşəkarlar qonaq məmnuniyyətinin artırılması, xidmət keyfiyyətinin optimallaşdırılması və davamlı turizm strategiyalarının hazırlanması üzərində çalışırlar. Turizm və qonaqpərvərlik sahəsi həm biznes, həm də mədəniyyətlərarası ünsiyyət bacarıqlarının inkişaf etdirilməsini tələb edir.",
+        "ixtisaslar": [
+          {
+            "ad": "Turizm və Səyahət İdarəçiliyi",
+            "terif": "Turizm və Səyahət İdarəçiliyi turistik məhsulların və xidmətlərin planlaşdırılması, təşkili və marketinqi sahəsini əhatə edir. Turizm menecerləri yerli və beynəlxalq səviyyədə turizm layihələri həyata keçirir, yeni bazarlara çıxış planlayır və davamlı turizm modelləri yaradır. Bu sahə iqtisadi inkişaf, mədəni irsin qorunması və qlobal əlaqələrin gücləndirilməsi baxımından mühüm əhəmiyyət daşıyır.",
+            "universitetler": [
+              "University of Surrey",
+              "Hong Kong Polytechnic University School of Hotel and Tourism Management",
+              "Griffith University"
+            ]
+          },
+          {
+            "ad": "Qonaqpərvərlik İdarəçiliyi (Hotel Management)",
+            "terif": "Qonaqpərvərlik İdarəçiliyi hotellər, kurortlar, restoranlar və digər qonaqpərvərlik müəssisələrinin idarə olunması və xidmət keyfiyyətinin təmin olunması sahəsidir. Menecerlər müştəri məmnuniyyəti, əməliyyat idarəçiliyi, maliyyə planlaması və insan resurslarının koordinasiyası üzərində çalışırlar. Qonaqpərvərlik sənayesində müvəffəqiyyət yüksək liderlik və ünsiyyət bacarıqları tələb edir.",
+            "universitetler": [
+              "Ecole hôtelière de Lausanne (EHL)",
+              "Cornell University School of Hotel Administration",
+              "Les Roches Global Hospitality Education"
+            ]
+          },
+          {
+            "ad": "Event və Tədbir İdarəçiliyi",
+            "terif": "Event və Tədbir İdarəçiliyi korporativ tədbirlər, festivallar, konfranslar və sərgilərin planlaşdırılması və həyata keçirilməsi ilə məşğuldur. Bu sahənin mütəxəssisləri logistik planlama, sponsorluq, marketinq və iştirakçı təcrübəsinin optimallaşdırılması üzrə çalışırlar. Yaradıcı yanaşma və təfərrüatlara diqqət bu sahədə uğurun açarıdır.",
+            "universitetler": [
+              "University of Queensland",
+              "University of Central Florida Rosen College of Hospitality Management",
+              "Glion Institute of Higher Education"
+            ]
+          },
+          {
+            "ad": "Kulinariya İncəsənəti və Restoran İdarəçiliyi",
+            "terif": "Kulinariya İncəsənəti və Restoran İdarəçiliyi qastronomiyanın yaradıcı tərəfi ilə biznes idarəetmə bacarıqlarını birləşdirir. Bu sahədə təhsil alanlar yüksək səviyyəli mətbəx texnikalarını öyrənir, restoran konseptləri yaradır və xidmət keyfiyyətinin idarə olunmasına rəhbərlik edirlər. Kulinariya sənəti qlobal mədəniyyətlərin birləşməsi və innovativ yemək təqdimatı baxımından vacibdir.",
+            "universitetler": [
+              "Culinary Institute of America (CIA)",
+              "Le Cordon Bleu, Paris",
+              "Institut Paul Bocuse"
+            ]
+          },
+          {
+            "ad": "Turizm Marketinqi və Destinasiya İdarəçiliyi",
+            "terif": "Turizm Marketinqi və Destinasiya İdarəçiliyi müəyyən bir bölgənin turizm potensialını artırmaq və səyahətçiləri cəlb etmək üçün strategiyalar hazırlayır. Bu sahə brend imici yaradılması, bazar analizi və turist təcrübələrinin optimallaşdırılması sahəsində çalışır. Mütəxəssislər həm yerli, həm də beynəlxalq miqyasda turizm destinasiya inkişaf layihələrini idarə edirlər.",
+            "universitetler": [
+              "University of Surrey",
+              "Griffith University",
+              "University of Florida"
+            ]
+          },
+          {
+            "ad": "Davamlı Turizm və Ekoturizm",
+            "terif": "Davamlı Turizm və Ekoturizm turizm fəaliyyəti nəticəsində ətraf mühitə, yerli mədəniyyətlərə və cəmiyyətə təsirin minimuma endirilməsini hədəfləyir. Bu sahə ekoloji maarifləndirmə, təbiətin qorunması və sosial ədalət prinsiplərinə əsaslanır. Ekoturizm layihələri turistlərin təbiətə və yerli icmalara hörmətlə yanaşmasını təşviq edir.",
+            "universitetler": [
+              "Griffith University",
+              "Arizona State University",
+              "University of Waterloo"
+            ]
+          }
+        ]
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+
+      
+    ]
+
+
+    

@@ -1,0 +1,147 @@
+/* Karyera səhifəsi üçün xüsusi dizayn */
+.career-page .page-header {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background-color: #4381fd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.career-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+}
+
+.career-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1.5rem;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.career-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.career-card i {
+    font-size: 3rem;
+    color: #1a73e8;
+    margin-bottom: 1rem;
+}
+
+.career-card h3 {
+    font-size: 1.5rem;
+    color: #333333;
+    margin-bottom: 0.5rem;
+}
+
+.career-card p {
+    font-size: 1rem;
+    color: #666666;
+    margin-bottom: 1rem;
+}
+
+.career-card .learn-more {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #1a73e8;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.career-card .learn-more:hover {
+    background-color: #1558b0;
+}
+
+/* Ümumi təsvir bölməsi */
+.general-info {
+    text-align: center;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background: linear-gradient(135deg, #39d7f3, #0fd8fc);
+    color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.general-info h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.general-info p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
+
+/* İxtisaslar bölməsi */
+.specialties {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.specialty-item {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.specialty-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.specialty-item h2 {
+    font-size: 1.8rem;
+    color: #333333;
+    margin-bottom: 1rem;
+    border-bottom: 2px solid #4caf50;
+    padding-bottom: 0.5rem;
+}
+
+.specialty-item p {
+    font-size: 1rem;
+    color: #555555;
+    line-height: 1.8;
+    margin-bottom: 1rem;
+}
+
+.specialty-item ul {
+    padding-left: 1.5rem;
+}
+
+.specialty-item ul li {
+    margin-bottom: 0.5rem;
+    font-size: 1rem;
+    color: #333333;
+}
+
+/* Universitetlər başlığı */
+.specialty-item p strong {
+    font-weight: bold;
+    color: #4caf50;
+}
+
+/* Xətalar üçün xəbərdarlıq mesajı */
+#error-message {
+    text-align: center;
+    color: #d32f2f;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    font-weight: bold;
+}

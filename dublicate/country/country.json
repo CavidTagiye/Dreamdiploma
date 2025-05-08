@@ -1,0 +1,567 @@
+[
+    {
+        "name": "ABŞ Universitetləri",
+        "image": "../images/usa.png",
+        "description": "ABŞ təhsil sistemi tələbələrə həm akademik, həm də şəxsi inkişaf üçün geniş imkanlar təqdim edir. Burada təhsil almaq yalnız dərslərlə məhdudlaşmır – hər universitet tələbələrə real layihələrdə iştirak etmək, startuplar qurmaq və öz ideyalarını inkişaf etdirmək üçün zəngin mühit yaradır. Universitetlərdə açıq fikir mühiti, akademik azadlıq və tələbə mərkəzli yanaşma əsas prinsip kimi qəbul olunur. Əlavə olaraq, ABŞ universitetlərinin əksəriyyəti sənaye ilə sıx əməkdaşlıq içindədir – bu isə təhsil zamanı və məzun olduqdan sonra karyera imkanlarını ciddi şəkildə artırır.",
+        "exams": "TOEFL (90–100+), IELTS (6.5–7.5+), SAT (1300–1500+), ACT (28–34+), GRE (310–330+), GMAT (600–720+)",
+        "living_cost": "ABŞ-da yaşayış xərcləri yaşadığın şəhərə və həyat tərzinə görə dəyişir. Nyu-York və Los-Anceles kimi böyük şəhərlərdə bu rəqəm 2500+ USD-ə çata bilər, lakin daha sakit və tələbə yönümlü ərazilərdə (məsələn, Austin, Ann Arbor, Raleigh) bu xərclər 1200–1800 USD arası ola bilər. Bura kirayə, qida, nəqliyyat, dərsliklər və şəxsi xərclər daxildir. Universitetlərin əksəriyyəti tələbələr üçün yataqxana, yemək paketləri və kampusdaxili nəqliyyat təklif edir ki, bu da bəzi hallarda əlavə qənaət deməkdir.",
+        "education_quality": "Harvard, MIT, Stanford kimi dünyaca məşhur universitetlərlə yanaşı, ABŞ-ın yüzlərlə dövlət və özəl universiteti də yüksək keyfiyyətli təhsil təklif edir. Tədris proqramları çevik və yenilənəndir – süni intellekt, iqlim dəyişikliyi, kibertəhlükəsizlik kimi müasir sahələr üzrə proqramlar daim təkmilləşdirilir. Tələbələr çox vaxt dərs zamanı həm layihələrdə iştirak edir, həm də müəllimlərlə birbaşa interaktiv münasibət qururlar. Eyni zamanda, elmi-tədqiqat və laboratoriya imkanları, professor heyətinin təcrübəsi və kampus resursları dünya standartlarındadır.",
+        "top_fields": "ABŞ universitetlərində texnologiya (xüsusilə Computer Science və AI), mühəndislik, biznes və idarəetmə (MBA), hüquq, tibb, psixologiya və sosial elmlər çox tələb görür. Əlavə olaraq, media və film sənayesi (xüsusilə Kaliforniyada), musiqi və incəsənət (Berklee College of Music, NYU Tisch) üzrə də qabaqcıl proqramlar mövcuddur.",
+        "social_environment": "ABŞ universitetlərinin əksəriyyəti tələbə mərkəzli infrastrukturla qurulub. Hər bir kampusda tələbələr üçün yüzlərlə klub və təşkilat fəaliyyət göstərir – texnologiya klublarından tutmuş, musiqi qruplarına, debat komandalarına və könüllülük fəaliyyətlərinə qədər. Kampuslarda hər həftə müxtəlif seminarlar, tədbirlər, ‘career fair’lər və netvörking sessiyaları keçirilir. ABŞ-a gələn beynəlxalq tələbələr üçün xüsusi orientasiya proqramları, mental sağlamlıq dəstəyi və hüquqi konsultasiya xidmətləri də mövcuddur.",
+        "recommendations": [
+          "F1 vizası üçün sənədləri vaxtında hazırla və universitetdən qəbul məktubu aldıqdan dərhal sonra viza üçün müraciət et.",
+          "Əgər təqaüd qazanmaq istəyirsənsə, akademik nəticələrdən əlavə könüllülük fəaliyyəti, layihələr və esse böyük rol oynayır.",
+          "CPT (Curricular Practical Training) və OPT (Optional Practical Training) vasitəsilə universitet dövründə və sonra iş təcrübəsi qazanmaq mümkündür – bu da həm təcrübə, həm də gələcək iş vizası üçün əhəmiyyətlidir.",
+          "Böyük şəhərlərdə kampus həyatı aktivdir, amma daha sakit ərazilərdə daha güclü akademik fokus və professor dəstəyi əldə edə bilərsən.",
+          "Universitet seçərkən yalnız ad-sanına deyil, fakültənin gücünə və sənə uyğunluğuna da diqqət yetir!"
+        ],
+        "universities": [
+            { "name": "Harvard Universiteti", "link": "../universities/university.html?id=harvard" },
+            { "name": "MIT", "link": "../universities/university.html?id=mit" },
+            { "name": "Stanford Universiteti", "link": "../universities/university.html?id=stanford" },
+            { "name": "University of California, Berkeley", "link": "../universities/university.html?id=berkeley" },
+            { "name": "Columbia University", "link": "../universities/university.html?id=columbia" },
+            { "name": "Yale University", "link": "../universities/university.html?id=yale" },
+            { "name": "Princeton University", "link": "../universities/university.html?id=princeton" },
+            { "name": "University of Chicago", "link": "../universities/university.html?id=chicago" },
+            { "name": "University of Michigan", "link": "../universities/university.html?id=michigan" },
+            { "name": "New York University (NYU)", "link": "../universities/university.html?id=nyu" },
+            { "name": "California Institute of Technology (Caltech)", "link": "../universities/university.html?id=caltech" },
+            { "name": "University of Pennsylvania", "link": "../universities/university.html?id=upenn" },
+            { "name": "Duke University", "link": "../universities/university.html?id=duke" },
+            { "name": "Johns Hopkins University", "link": "../universities/university.html?id=jhu" },
+            { "name": "Northwestern University", "link": "../universities/university.html?id=northwestern" },
+            { "name": "Brown University", "link": "../universities/university.html?id=brown" },
+            { "name": "Cornell University", "link": "../universities/university.html?id=cornell" },
+            { "name": "University of California, Los Angeles (UCLA)", "link": "../universities/university.html?id=ucla" },
+            { "name": "University of Southern California (USC)", "link": "../universities/university.html?id=usc" },
+            { "name": "Georgia Institute of Technology", "link": "../universities/university.html?id=georgiatech" }
+        ]
+      }
+      ,
+      
+      {
+        "name": "Böyük Britaniya Universitetləri",
+        "image": "../images/uk.png",
+        "description": "Böyük Britaniya dünyada akademik ənənələri, elmi tədqiqat nailiyyətləri və prestijli universitetləri ilə tanınır. Burada təhsil sisteminin əsas üstünlüklərindən biri proqramların qısa müddətli və yüksək intensivlikdə olmasıdır – bakalavrlar 3, magistr proqramları isə əksər hallarda 1 il davam edir. Tələbələr həm nəzəri bilik, həm də praktik bacarıqlara fokuslanmış modullarla yetişdirilir. Bəzi universitetlərdə sənət, mühəndislik və sosial elmlər üzrə proqramlar həm akademik, həm də sənaye yönümlü olur.",
+        "exams": "IELTS (6.5–7.0+), TOEFL (88–100+), UCAS üçün Personal Statement və akademik tövsiyələr, bəzi universitetlərdə əlavə qabiliyyət və ya admission test-lər tələb oluna bilər (məs. Oxbridge üçün TSA, LNAT, BMAT və s.)",
+        "living_cost": "Yaşayış xərcləri Böyük Britaniyada regiona görə dəyişir. London və Oksford kimi şəhərlərdə bu rəqəm aylıq 1200–1800 funt sterlinq aralığında dəyişə bilər. Digər şəhərlərdə (məs. Manchester, Glasgow, Leeds) bu xərclər 800–1200 funt arasında dəyişir. Bura kirayə, yemək, nəqliyyat və şəxsi xərclər daxildir. Bir çox universitet kampus daxilində yataqxana, kitabxana və yeməkxana kimi imkanlar təqdim edir.",
+        "education_quality": "Britaniya universitetləri dünya reytinqlərində daima ön sıralarda yer alır. Cambridge, Oxford, Imperial College London və UCL kimi universitetlər müxtəlif sahələr üzrə ən yaxşı tədris və tədqiqat mərkəzlərindəndir. Tədris interaktiv mühazirələr, seminarlar, fərdi tədqiqat və layihələr əsasında aparılır. Əlavə olaraq, tələbələr akademik məsləhətçilər və karyera mərkəzləri vasitəsilə dəstəklənir.",
+        "top_fields": "Hüquq, tibb, beynəlxalq münasibətlər, iqtisadiyyat, incəsənət, memarlıq, kompüter elmləri və mühəndislik. Britaniya universitetləri xüsusilə elmi-tədqiqat və ədəbiyyat-humanitar sahələr üzrə seçilir.",
+        "social_environment": "Böyük Britaniya müxtəlif mədəniyyətləri özündə cəmləşdirən və tələbələr üçün təhlükəsiz və tolerant mühit təqdim edən ölkədir. Universitetlərdə çox sayda beynəlxalq tələbə təhsil alır və hər kəsə uyğun fəaliyyətlər təşkil olunur: debatlar, teatrlar, musiqi festivalları, idman turnirləri və sosial layihələr. Universitetlərin çoxu tələbələrə şəxsi inkişaf, könüllülük və liderlik imkanları da təqdim edir.",
+        "recommendations": [
+          "UCAS platformasında müraciət tarixlərinə ciddi şəkildə əməl et – erkən müraciət şansları artırır.",
+          "IELTS imtahanına xüsusi diqqət yetir – 6.5 minimum tələb olsa da, bəzi proqramlar üçün 7.0+ vacibdir.",
+          "Motivasiya məktubu (Personal Statement) sənin qəbul prosesində əsas faktorlardan biridir – unikal və məqsədyönlü yaz!",
+          "Britaniya universitetləri daha çox akademik keyfiyyətlərə fokuslanır, amma əlavə fəaliyyətlər və tövsiyələr də qəbul üçün vacibdir.",
+          "Əgər Oxbridge (Oxford və Cambridge) müraciət edəcəksənsə, admission test-ləri və müsahibələr üçün ayrıca hazırlıq lazımdır."
+        ],
+        "universities": [
+    { "name": "University of Oxford", "link": "../universities/university.html?id=oxford" },
+    { "name": "University of Cambridge", "link": "../universities/university.html?id=cambridge" },
+    { "name": "Imperial College London", "link": "../universities/university.html?id=imperial" },
+    { "name": "University College London (UCL)", "link": "../universities/university.html?id=udl" },
+    { "name": "London School of Economics (LSE)", "link": "../universities/university.html?id=lse" },
+    { "name": "University of Edinburgh", "link": "../universities/university.html?id=edinburgh" },
+    { "name": "University of Manchester", "link": "../universities/university.html?id=manchester" },
+    { "name": "King's College London", "link": "../universities/university.html?id=kings" },
+    { "name": "University of Bristol", "link": "../universities/university.html?id=bristol" },
+    { "name": "University of Glasgow", "link": "../universities/university.html?id=glasgow" },
+    { "name": "University of Warwick", "link": "../universities/university.html?id=warwick" },
+    { "name": "University of Birmingham", "link": "../universities/university.html?id=birmingham" },
+    { "name": "University of Leeds", "link": "../universities/university.html?id=leeds" },
+    { "name": "University of Southampton", "link": "../universities/university.html?id=southampton" },
+    { "name": "University of Nottingham", "link": "../universities/university.html?id=nottingham" },
+    { "name": "University of York", "link": "../universities/university.html?id=uyork" },
+    { "name": "University of Exeter", "link": "../universities/university.html?id=exeter" },
+    { "name": "University of Sheffield", "link": "../universities/university.html?id=sheffield" },
+    { "name": "University of St Andrews", "link": "../universities/university.html?id=standrews" },
+    { "name": "Durham University", "link": "../universities/university.html?id=durham" }
+]
+      },
+      {
+        "name": "Almaniya Universitetləri",
+        "image": "../images/germany.png",
+        "description": "Almaniya Avropada pulsuz və keyfiyyətli ali təhsil sistemi ilə tanınır. Burada həm bakalavr, həm də magistr proqramlarında bir çox ixtisas üzrə təhsil almaq mümkündür. Dövlət universitetlərinin böyük əksəriyyəti təhsil haqqı tələb etmir və yalnız simvolik semestr ödənişləri (təxminən 150–350 avro) ilə tələbələrə yüksək səviyyəli təhsil təqdim olunur. Alman təhsil sistemi tələbənin özünü inkişaf etdirməsi və elmi tədqiqatlarla məşğul olması üçün geniş imkanlar yaradır.",
+        "exams": "Almaniyada ingilis dilli proqramlara müraciət üçün IELTS imtahanında adətən minimum 6.0 tələb olunur. Lakin bir çox universitetlərdə 6.5 və ya bəzi fənlərdə 7.0 bal daha rəqabətli hesab olunur. TOEFL ilə müraciət edənlər üçün 80–95 bal aralığı kifayət edir. Əgər alman dilində təhsil almaq istəyirsinizsə, TestDaF və ya DSH imtahanlarından keçmək mütləqdir."
+,
+        "living_cost": "Almaniyada yaşayış xərcləri şəhərdən asılı olaraq dəyişir. Münhen və Frankfurt kimi iri şəhərlərdə aylıq xərclər 1000–1300 avro civarında ola bilər, lakin Dresden, Leipzig, və ya Aachen kimi tələbə şəhərlərində bu xərclər 700–950 avroya qədər enə bilər. Bura kirayə, yemək, nəqliyyat kartı və gündəlik xərclər daxildir. Tələbələr üçün aylıq nəqliyyat kartları və yeməkxana xidmətləri olduqca sərfəlidir.",
+        "education_quality": "Alman universitetləri texniki sahələrdə – xüsusilə mühəndislik, avtomatika, informatika və təbiət elmləri üzrə dünya liderlərindəndir. Təhsil keyfiyyəti elmi əsaslarla qurulub və praktiki yönümlüdür. Bir çox proqram sənaye ilə əməkdaşlıqda hazırlanır və tələbələr real laboratoriyalarda, şirkətlərdə və layihələrdə iştirak imkanı əldə edir. Almaniyada təhsil alan tələbələr beynəlxalq elmi mühitdə çalışmaq imkanı da qazanırlar.",
+        "top_fields": "Mühəndislik, kompüter elmləri, avtomobil sənayesi, fizika, iqtisadiyyat, biotexnologiya və ekologiya sahələri üzrə Alman universitetləri qabaqcıl mövqedədir. Eyni zamanda incəsənət, dizayn, memarlıq və fəlsəfə sahələri üzrə də tanınmış proqramlar mövcuddur.",
+        "social_environment": "Almaniyada tələbələr üçün həm tədris, həm də sosial həyat balanslı şəkildə təşkil olunub. Universitetlərdə tələbə ittifaqları, idman klubları, beynəlxalq tələbə təşkilatları və müxtəlif sosial tədbirlər geniş yayılıb. Alman mədəniyyəti qaydalı, məsuliyyətli və çalışqan həyat tərzini təşviq edir. Universitetlərdə çoxsaylı beynəlxalq tələbə oxuduğuna görə multikultural mühit mövcuddur və inteqrasiya prosesi olduqca asandır.",
+        "recommendations": [
+          "Almaniya üçün müraciətləri erkən planlaşdırmaq vacibdir – sənədlərin tərcüməsi, notar təsdiqi və APS təsdiqləri vaxt tələb edir.",
+          "UniAssist portalında sənədlərinizi yükləməmişdən öncə seçdiyiniz universitetin özünəməxsus tələblərini araşdırın.",
+          "Təqaüd üçün DAAD (Alman Akademik Mübadilə Xidməti) proqramlarına erkən baxın – həm magistr, həm də araşdırma proqramları üçün geniş imkanlar mövcuddur.",
+          "Əgər alman dilində proqram seçirsinizsə, ən azı B2-C1 səviyyəsində alman dili sertifikatı (TestDaF və ya DSH) təqdim etməlisiniz.",
+          "Alman universitetləri sənədlərə və formalara xüsusi önəm verir – müraciət zamanı bütün sənədlərin tamlığına və düzgünlüyünə diqqət yetirin."
+        ],
+        "universities": [
+    { "name": "Technische Universität München (TUM)", "link": "../universities/university.html?id=tum" },
+    { "name": "Ludwig-Maximilians-Universität München (LMU)", "link": "../universities/university.html?id=lmu" },
+    { "name": "RWTH Aachen University", "link": "../universities/university.html?id=rwth" },
+    { "name": "Heidelberg University", "link": "../universities/university.html?id=heidelberg" },
+    { "name": "Freie Universität Berlin", "link": "../universities/university.html?id=fuberlin" },
+    { "name": "Humboldt-Universität zu Berlin", "link": "../universities/university.html?id=humboldt" },
+    { "name": "Karlsruhe Institute of Technology (KIT)", "link": "../universities/university.html?id=kit" },
+    { "name": "University of Stuttgart", "link": "../universities/university.html?id=stuttgart" },
+    { "name": "University of Freiburg", "link": "../universities/university.html?id=freiburg" },
+    { "name": "University of Mannheim", "link": "../universities/university.html?id=mannheim" }
+]
+      },
+      {
+        "name": "Fransa Universitetləri",
+        "image": "../images/france.png",
+        "description": "Fransa Avropanın elmi, mədəni və siyasi cəhətdən ən güclü ölkələrindən biri olmaqla yanaşı, beynəlxalq tələbələr üçün yüksək keyfiyyətli və sərfəli təhsil imkanları təqdim edir. Fransa universitetləri geniş sahələri əhatə edən proqramlarla yanaşı, tələbələrə qlobal düşüncə, analitik bacarıq və tədqiqat yönümlü yanaşma qazandırır. Həm klassik universitetlər, həm də 'Grandes Écoles' adlı elit ali məktəblər sistemə daxildir və bu iki sistem birgə şəkildə fəaliyyət göstərir.",
+        "exams": "Fransada ingilis dilində olan proqramlar üçün IELTS imtahanından ən azı 6.0 bal tələb oluna bilər, lakin çoxsaylı universitetlər 6.5 və üzərini tövsiyə edir. TOEFL üzrə minimum skorlar 80-dən başlayır, lakin 90+ almaq daha üstün sayılır. Fransız dilli proqramlara müraciət üçün isə DELF B2 və ya DALF C1 kimi fransız dili səviyyə imtahanları tələb olunur."
+,
+        "living_cost": "Fransada yaşayış xərcləri şəhərə görə dəyişir. Paris kimi böyük şəhərlərdə tələbənin aylıq xərci 1200–1500 avro arası ola bilər, lakin Lille, Lyon, Toulouse kimi digər şəhərlərdə bu rəqəm 800–1000 avro arasında dəyişir. Tələbələrə universitet yataqxanaları, dövlət tərəfindən subsidiyalı yaşayış yerləri (CROUS), yeməkxanalar və nəqliyyat güzəştləri təqdim olunur. Tələbələr aylıq nəqliyyat abunəliyindən və yemək biletlərindən yararlana bilər.",
+        "education_quality": "Fransada ali təhsil yüksək standartlara cavab verir və hökumət tərəfindən dəstəklənir. Fransa universitetləri əsasən nəzəri əsaslı, elmi yanaşmaya söykənən, lakin həmçinin praktik imkanlar da təqdim edən proqramlarla tanınır. “Grandes Écoles” sistemi xüsusilə mühəndislik, biznes və siyasət elmləri üzrə liderlik edir. Fransa, həmçinin Erasmus+ və digər beynəlxalq akademik mübadilə proqramlarında çox aktiv iştirak edir.",
+        "top_fields": "Beynəlxalq münasibətlər, hüquq, mühəndislik, siyasət, incəsənət və moda dizaynı, kulinariya sənəti, biznes və idarəetmə, memarlıq və şəhərsalma, sosial elmlər və fəlsəfə. Xüsusilə moda, sənət və diplomatiya sahələrində Fransa aparıcı mərkəzlərdəndir.",
+        "social_environment": "Fransa tələbələrə zəngin mədəniyyət, tarix və sosial həyat təqdim edir. Kino, teatr, muzey və sərgilər kimi imkanlar həm Parisdə, həm də bölgə şəhərlərində tələbələr üçün əlçatandır. Universitetlərdə çoxsaylı tələbə klubları, beynəlxalq təşkilatlar, dil tandem proqramları və sosial layihələr təşkil olunur. Fransızlar rəsmi və akademik münasibətlərdə nəzakətli və strukturlaşdırılmış yanaşmanı üstün tuturlar. Bununla yanaşı, tələbələr arasında qlobal düşüncə, inklüzivlik və açıq fikir mühiti mövcuddur.",
+        "recommendations": [
+          "Campus France platforması vasitəsilə müraciət prosesini erkən planlaşdırmaq vacibdir – bəzi proqramlar üçün müsahibə mərhələsi də ola bilər.",
+          "Fransız universitetlərinin bəzilərində motivasiya məktubu (Lettre de motivation) fransız dilində tələb olunur – yazı üslubuna və dildəki dəqiqliyə fikir vermək vacibdir.",
+          "Əgər fransız dilində təhsil almaq istəyirsinizsə, minimum B2 səviyyəsində dil sertifikatı təqdim etməlisiniz.",
+          "DAEFLE, DELF və DALF kimi fransız dili imtahanlarını erkən planlaşdırmaq və nəticələrini sənədlərə əlavə etmək tövsiyə olunur.",
+          "Parisdən kənarda yerləşən universitetlər daha sakit və sərfəli yaşam təklif edir, həmçinin fərdi diqqət və dəstək baxımından üstün ola bilər."
+        ],
+        "universities": [
+    { "name": "Sorbonne Universiteti", "link": "../universities/university.html?id=sorbonne" },
+    { "name": "Sciences Po Paris", "link": "../universities/university.html?id=sciencespo" },
+    { "name": "École Polytechnique", "link": "../universities/university.html?id=polytechnique" },
+    { "name": "HEC Paris", "link": "../universities/university.html?id=hec" },
+    { "name": "Université PSL (Paris Sciences et Lettres)", "link": "../universities/university.html?id=psl" },
+    { "name": "Université Grenoble Alpes", "link": "../universities/university.html?id=grenoble" },
+    { "name": "Université de Strasbourg", "link": "../universities/university.html?id=strasbourg" },
+    { "name": "Université de Bordeaux", "link": "../universities/university.html?id=bordeaux" },
+    { "name": "Université de Lyon", "link": "../universities/university.html?id=lyon" },
+    { "name": "École Normale Supérieure", "link": "../universities/university.html?id=ens" }
+]
+      },
+      {
+        "name": "İspaniya və Portuqaliya Universitetləri",
+        "image": "../images/spain_portugal.png",
+        "description": "İspaniya və Portuqaliya – hər ikisi Cənubi Avropada yerləşən, zəngin mədəniyyətə və sərfəli yaşayış şəraitinə malik ölkələrdir. Bu ölkələrdəki universitetlər yüksək keyfiyyətli təhsil təqdim etməklə yanaşı, beynəlxalq tələbələr üçün çoxsaylı imkanlar yaradır. Təhsil haqları digər Qərbi Avropa ölkələri ilə müqayisədə daha münasibdir və Erasmus+ kimi beynəlxalq mübadilə proqramları geniş şəkildə tətbiq olunur. İspan dili dünyada ən çox danışılan dillərdən biridir, portuqal dili isə 9 ölkədə rəsmi dildir – bu da tələbələrə qlobal imkanlar qazandırır.",
+        "exams": "Hər iki ölkədə ingilis dilli proqramlara müraciət üçün IELTS imtahanında ən azı 6.0 bal tələb olunur. Lakin bəzi universitetlər 6.5 balı üstün tutur. TOEFL imtahanı ilə də müraciət etmək mümkündür – 80–90 bal arası nəticə kifayət sayılır. İspaniya üçün ispan dilli proqramlarda DELE (B2 və ya C1) imtahanı tələb oluna bilər. Portuqaliya üçün isə portuqal dilində tədris olunan proqramlara müraciət edənlərdən CIPLE və ya DIPLE kimi dil imtahanları tələb oluna bilər. Hər iki ölkədə bəzi universitetlər əlavə olaraq motivasiya məktubu, akademik tövsiyə məktubu və GPA göstəricilərinə əsasən seçim edir.",
+        "living_cost": "İspaniyada yaşayış xərcləri Madrid və Barselona kimi böyük şəhərlərdə aylıq 1000–1200 avro civarındadır, lakin bölgə şəhərlərində (Valencia, Granada, Salamanca) 700–900 avro arası dəyişə bilər. Portuqaliyada isə Lissabon və Porto şəhərlərində aylıq yaşayış xərcləri təxminən 900–1100 avro, digər şəhərlərdə isə 650–850 avro arasıdır. Hər iki ölkədə dövlət yataqxanaları, yeməkxanalar, nəqliyyat kartları və tələbələr üçün güzəştlər mövcuddur.",
+        "education_quality": "İspaniya universitetləri Avropanın ən qədim və nüfuzlu universitetlərindən bəzilərinə ev sahibliyi edir. Tədris proqramları müasir və interaktiv yanaşma ilə həyata keçirilir. Portuqaliya universitetləri isə tədqiqat sahəsində son illərdə yüksəlişdədir və texnologiya, biomühəndislik, okeanologiya kimi sahələrdə qabaqcıl nəticələr əldə etmişlər. Hər iki ölkədə beynəlxalq tələbələr üçün tədris proqramları, dəstək xidmətləri və dil kursları mövcuddur.",
+        "top_fields": "İspaniyada turizm və hotelçilik, arxitektura, dillər, tibb, biznes və incəsənət sahələri populyardır. Portuqaliyada isə mühəndislik, informasiya texnologiyaları, dəniz elmləri, ətraf mühit mühəndisliyi, psixologiya və biomühəndislik sahələri ön plandadır. Hər iki ölkə incəsənət, musiqi və humanitar elmlər üzrə də zəngin proqramlar təqdim edir.",
+        "social_environment": "Hər iki ölkə açıq, sosial və dostcanlı cəmiyyətləri ilə tanınır. Universitet kampuslarında tələbələr üçün müxtəlif tədbirlər, festivallar, idman və sosial layihələr təşkil olunur. İspaniyada daha çox rəngarəng və dinamik kampus həyatı mövcuddur, Portuqaliyada isə mədəniyyət və ənənə daha sakit və dərin şəkildə yaşanır. Hər iki ölkədə beynəlxalq tələbələrə adaptasiya proqramları və tələbə təşkilatları vasitəsilə dəstək verilir.",
+        "recommendations": [
+          "Hər iki ölkədə universitetə müraciətlər üçün sənədləri erkən toplamaq vacibdir – sənəd tərcümələri və bəzən konsulluq təsdiqi tələb oluna bilər.",
+          "İspaniyada və Portuqaliyada viza aldıqdan sonra tələbələr rəsmi şəkildə işləmək hüququna malik olurlar (həftədə təxminən 20 saat).",
+          "Motivasiya məktubunuzu seçdiyiniz proqram və universitetin xüsusiyyətlərinə uyğunlaşdırın – bəzi hallarda bu əsas qərar faktorudur.",
+          "Erasmus+ mübadilə proqramlarından hər iki ölkədə geniş istifadə olunur – universitetin partnyor şəbəkəsi ilə tanış olun.",
+          "İspaniyada ispan dilini, Portuqaliyada isə portuqal dilini öyrənmək gündəlik həyat və sosial inteqrasiya üçün ciddi üstünlükdür."
+        ],
+        "universities": [
+    { "name": "Universidad de Barcelona (İspaniya)", "link": "../universities/university.html?id=barcelona" },
+    { "name": "Universidad Autónoma de Madrid (İspaniya)", "link": "../universities/university.html?id=uam" },
+    { "name": "Universidad de Salamanca (İspaniya)", "link": "../universities/university.html?id=salamanca" },
+    { "name": "ESADE Business School (İspaniya)", "link": "../universities/university.html?id=esade" },
+    { "name": "Universidade de Lisboa (Portuqaliya)", "link": "../universities/university.html?id=lisboa" },
+    { "name": "Universidade do Porto (Portuqaliya)", "link": "../universities/university.html?id=porto" },
+    { "name": "Universidade de Coimbra (Portuqaliya)", "link": "../universities/university.html?id=coimbra" },
+    { "name": "Universidade Nova de Lisboa (Portuqaliya)", "link": "../universities/university.html?id=nova" },
+    { "name": "ISCTE - Instituto Universitário de Lisboa (Portuqaliya)", "link": "../universities/university.html?id=iscte" },
+    { "name": "Universidade do Minho (Portuqaliya)", "link": "../universities/university.html?id=minho" }
+]
+      },
+      {
+        "name": "Skandinaviya Universitetləri",
+        "image": "../images/scandinavia.png",
+        "description": "Skandinaviya ölkələri – Finlandiya, Danimarka, Norveç və İsveç – Avropada yüksək həyat keyfiyyəti, təhsil sistemində innovasiya və bərabərlik dəyərləri ilə seçilirlər. Bu ölkələrdə təhsil sistemləri tələbə mərkəzli yanaşmanı, akademik azadlığı və tədqiqat yönümlü öyrənməni ön planda tutur. İngilis dilli bakalavr və magistr proqramlarının sayı son illərdə əhəmiyyətli dərəcədə artıb. Hər dörd ölkədə də tələbələrə müxtəlif təqaüd proqramları və təhsil sonrası karyera imkanları təqdim olunur.",
+        "exams": "Finlandiya, Danimarka, Norveç və İsveçdə ingilis dilli proqramlara müraciət üçün IELTS imtahanından adətən 6.5 bal almağınız tövsiyə olunur, lakin bəzi universitetlərdə 6.0 ilə də qəbul mümkündür. TOEFL imtahanı ilə müraciət edənlər üçün 80–92 bal aralığı yetərlidir. Bəzi proqramlar üçün əlavə giriş müsahibələri, qabiliyyət testləri və ya portfoliolar tələb oluna bilər. Norveçdə bəzi dövlət universitetləri ingilis dili biliklərini birbaşa bakalavr diplomundakı dil kursları ilə də təsdiqləməyə icazə verir.",
+        "living_cost": "Skandinaviya ölkələri Avropada yaşayış baxımından ən bahalı bölgələrdən biridir. İsveçdə və Danimarkada tələbənin aylıq yaşayış xərcləri 900–1400 avro arasında dəyişə bilər. Norveçdə bu göstərici 1000–1500 avro, Finlandiyada isə 700–1100 avro aralığındadır. Universitet yataqxanaları, tələbə mənzilləri (student housing) və tələbə endirimləri (nəqliyyat, yeməkxana və mədəniyyət tədbirləri üçün) geniş yayılmışdır. Norveçdə dövlət universitetlərində təhsil haqqı adətən yoxdur, lakin 2023-cü ildən etibarən bəzi proqramlarda beynəlxalq tələbələr üçün rüsumlar tətbiq edilməyə başlanmışdır.",
+        "education_quality": "Skandinaviya təhsil sistemi yaradıcılıq, tənqidi düşüncə və sərbəst layihə əsaslı öyrənməni təşviq edir. İsveç və Danimarka universitetləri Avropada innovasiya sahəsində liderdir. Finlandiya isə məktəb və universitet təhsili modellərində dünya miqyasında ən yüksək göstəricilərə malikdir. Norveçdə elmi tədqiqat və sahə təcrübəsi əsas prioritetlərdəndir. Bütün ölkələrdə təhsil sistemi bərabərlik və əlçatanlıq prinsiplərinə əsaslanır, tələbələrə akademik mentorluq və karyera dəstəyi təqdim edilir.",
+        "top_fields": "İsveçdə texnologiya, mühəndislik, biznes və sosial elmlər; Finlandiyada təhsil, informasiya texnologiyaları, biomühəndislik və dizayn; Norveçdə enerji texnologiyaları, okeanologiya, biomühəndislik və ekoloji elmlər; Danimarkada isə biotexnologiya, qida sənayesi, həyat elmləri və şəhərsalma üzrə proqramlar xüsusilə güclüdür.",
+        "social_environment": "Skandinaviya ölkələrində tələbə həyatı azad, təhlükəsiz və fəaldır. Universitetlərdə tələbə ittifaqları çox güclüdür və sosial fəaliyyətlər (festival, idman, könüllülük layihələri) geniş yayılmışdır. Tələbələr həm kampusda, həm də cəmiyyətdə aktiv rol alırlar. İsveçdə və Danimarkada tələbə şəhərləri çox canlıdır; Norveçdə təbiətə və outdoor idman növlərinə maraq yüksəkdir; Finlandiyada isə tələbələr üçün rahat və dəstəkləyici sosial mühit yaradılır. İngilis dili gündəlik həyatın ayrılmaz hissəsidir, lakin yerli dilləri öyrənmək adaptasiya və gələcək karyera üçün böyük üstünlükdür.",
+        "recommendations": [
+          "Hər ölkədə universitetə müraciət tarixi və şərtləri bir qədər fərqlənə bilər – Finlandiyada və İsveçdə müraciətlər daha erkən başlayır (adətən yanvar–fevral aylarında).",
+          "Təqaüd proqramları çox rəqabətlidir – universitetlərin öz daxili təqaüdlərini və Nordic Council, Erasmus+ kimi beynəlxalq proqramları araşdırın.",
+          "Motivasiya məktubu və tövsiyə məktubları qəbul prosesində mühüm rol oynayır – özünüzü fərqləndirən konkret layihə və təcrübələrə fokuslanın.",
+          "Bəzi proqramlar sahəyə spesifik qabiliyyət testləri (məsələn, dizayn, memarlıq, mühəndislik) və müsahibələr tələb edə bilər – əvvəlcədən hazırlaşın.",
+          "İqlimə uyğunlaşmaq üçün praktiki hazırlıq görün – xüsusilə Norveç və Finlandiyada qış dövrləri uzun və soyuq olur."
+        ],
+        "universities": [
+    { "name": "University of Helsinki (Finlandiya)", "link": "../universities/university.html?id=helsinki" },
+    { "name": "Aalto University (Finlandiya)", "link": "../universities/university.html?id=aalto" },
+    { "name": "University of Copenhagen (Danimarka)", "link": "../universities/university.html?id=copenhagen" },
+    { "name": "Technical University of Denmark (DTU) (Danimarka)", "link": "../universities/university.html?id=dtu" },
+    { "name": "University of Oslo (Norveç)", "link": "../universities/university.html?id=oslo" },
+    { "name": "Norwegian University of Science and Technology (NTNU) (Norveç)", "link": "../universities/university.html?id=ntnu" },
+    { "name": "Lund University (İsveç)", "link": "../universities/university.html?id=lund" },
+    { "name": "KTH Royal Institute of Technology (İsveç)", "link": "../universities/university.html?id=kth" },
+    { "name": "Uppsala University (İsveç)", "link": "../universities/university.html?id=uppsala" },
+    { "name": "Chalmers University of Technology (İsveç)", "link": "../universities/university.html?id=chalmers" }
+]
+      },
+      {
+        "name": "Baltikyanı Universitetlər",
+        "image": "../images/baltic_states.png",
+        "description": "Baltikyanı ölkələr – Estoniya, Latviya və Litva – son illərdə yüksək təhsil keyfiyyəti, beynəlxalq proqramlar və rəqəmsal inkişaf sahəsində Avropada öz sözünü deyən mərkəzlərə çevriliblər. Bu ölkələr Avropa İttifaqının üzvləridir və Bolonya təhsil sisteminə uyğundurlar. İngilis dilli bakalavr və magistr proqramlarının sayı sürətlə artır. Hər üç ölkə tələbələrə həm keyfiyyətli akademik təhsil, həm də innovasiya və texnologiya sahələrində geniş imkanlar təqdim edir.",
+        "exams": "Baltikyanı ölkələrdə ingilis dilində olan proqramlara qəbul üçün IELTS imtahanında minimum 6.0 bal tələb olunur, lakin 6.5 bal almağınız daha üstün hesab edilir. TOEFL imtahanı nəticəsi də geniş qəbul olunur və adətən 80–90 bal aralığı kifayət sayılır. Bəzi ixtisaslar (xüsusilə tibb, hüquq və mühəndislik) əlavə giriş imtahanı və ya müsahibə tələb edə bilər. Universitetlər GPA nəticələrinə və motivasiya məktubunun keyfiyyətinə də ciddi önəm verirlər.",
+        "living_cost": "Estoniya, Latviya və Litvada yaşayış xərcləri digər Qərbi Avropa ölkələri ilə müqayisədə daha sərfəlidir. Tallin, Riga və Vilnius kimi paytaxt şəhərlərində aylıq yaşayış xərcləri 600–900 avro arası dəyişir. Bura kirayə, qida, ictimai nəqliyyat və şəxsi xərclər daxildir. Dövlət yataqxanaları və tələbə endirimləri (nəqliyyat, kitabxana və ictimai tədbirlər üçün) geniş yayılmışdır.",
+        "education_quality": "Estoniya innovativ texnologiya və rəqəmsal idarəetmə sahəsində Avropada liderdir; Tartu Universiteti dünya reytinqlərində yüksəlməkdədir. Latviya isə tibb, biznes və mühəndislik sahələrində sürətlə inkişaf edən proqramlara malikdir. Litvada isə sosial elmlər, beynəlxalq münasibətlər və texniki ixtisaslar üzrə möhkəm akademik baza qurulub. Hər üç ölkə beynəlxalq tələbələr üçün rahat adaptasiya proqramları və mentorluq xidmətləri təklif edir.",
+        "top_fields": "Estoniyada kompüter elmləri, informasiya texnologiyaları, mühəndislik və biznes idarəçiliyi; Latviyada tibb, hüquq, logistika və aviasiya idarəçiliyi; Litvada isə sosial elmlər, beynəlxalq münasibətlər, iqtisadiyyat və biomühəndislik üzrə proqramlar xüsusilə populyardır.",
+        "social_environment": "Baltikyanı ölkələrdə tələbə həyatı təhlükəsiz, mədəniyyətlə zəngin və sosial baxımdan aktivdir. Estoniyada texnoloji startup mədəniyyəti, Latviya və Litvada isə musiqi, incəsənət və teatr tədbirləri tələbələr üçün əsas sosial fəaliyyətlərdir. İngilis dili gündəlik həyatın bir çox sahələrində geniş istifadə olunur, lakin yerli dilləri (estoncə, latışca, litvaca) öyrənmək inteqrasiya və yerli cəmiyyətlə əlaqə qurmaq üçün üstünlük sayılır.",
+        "recommendations": [
+          "Müraciət etməzdən öncə seçdiyiniz proqramın qəbul şərtlərini diqqətlə yoxlayın – bəzi universitetlər fərqli sənəd tələbləri və müsahibə mərhələləri tətbiq edir.",
+          "DAAD Baltik ölkələri üçün təqaüd proqramlarını, Erasmus+ və yerli dövlət təqaüdlərini araşdırın.",
+          "Estoniyada və Litvada texnologiya və biznes sahələri üzrə əlavə startup və innovasiya proqramlarında iştirak etmə imkanı var.",
+          "Latviyada tibb və aviasiya proqramları üzrə təhsil alacaqsınızsa, əlavə sertifikatlaşdırma və praktiki təcrübə tələb oluna bilər.",
+          "Hər üç ölkədə soyuq iqlimə və uzun qış dövrlərinə adaptasiya üçün praktiki hazırlıq vacibdir – bu, gündəlik rahatlığınıza ciddi təsir edir."
+        ],
+        "universities": [
+    { "name": "University of Tartu (Estoniya)", "link": "../universities/university.html?id=tartu" },
+    { "name": "Tallinn University of Technology (TalTech) (Estoniya)", "link": "../universities/university.html?id=taltech" },
+    { "name": "University of Latvia (Latviya)", "link": "../universities/university.html?id=latvia" },
+    { "name": "Riga Technical University (Latviya)", "link": "../universities/university.html?id=riga" },
+    { "name": "Riga Stradins University (Latviya)", "link": "../universities/university.html?id=rsu" },
+    { "name": "Vilnius University (Litva)", "link": "../universities/university.html?id=vilnius" },
+    { "name": "Vilnius Gediminas Technical University (VILNIUS TECH) (Litva)", "link": "../universities/university.html?id=vilniustech" },
+    { "name": "Kaunas University of Technology (Litva)", "link": "../universities/university.html?id=kaunas" },
+    { "name": "Vytautas Magnus University (Litva)", "link": "../universities/university.html?id=vytautas" }
+]
+      },
+      {
+        "name": "İtaliya Universitetləri",
+        "image": "../images/italy.png",
+        "description": "İtaliya Avropada ən qədim universitet sisteminə sahib olan ölkələrdən biridir. İtaliya universitetləri yüksək akademik nüfuza malik olmaqla yanaşı, zəngin mədəniyyət, incəsənət və tarixi irs mühiti ilə tələbələrə unikal təhsil təcrübəsi təqdim edir. Dövlət universitetləri münasib təhsil haqları, müxtəlif sahələrdə güclü akademik proqramlar və beynəlxalq mübadilə imkanları ilə tanınır. Son illərdə İtaliya ingilis dilli bakalavr və magistr proqramlarının sayını da xeyli artırıb.",
+        "exams": "İtaliyada ingilis dilində proqramlara qəbul üçün IELTS imtahanında adətən 6.0 bal minimum tələb olunur, lakin bəzi proqramlar 6.5 bal istəyir. TOEFL nəticəsi təqdim edənlər üçün 80–90 bal arası kifayət sayılır. Əgər proqram İtalyan dilindədirsə, CILS və ya CELI sertifikatlarından B2 və ya daha yüksək səviyyə tələb oluna bilər. Bəzi ixtisaslar (xüsusilə tibb, dizayn və memarlıq) üçün universitetlər daxili qəbul imtahanları və ya qabiliyyət testləri tətbiq edir.",
+        "living_cost": "İtaliyada yaşayış xərcləri şəhərdən şəhərə dəyişir. Milan və Roma kimi böyük şəhərlərdə tələbənin aylıq yaşayış xərcləri 1000–1400 avro arasında ola bilər, lakin Bolonya, Padua, Piza kimi şəhərlərdə bu rəqəm 700–1000 avro arasında dəyişir. İctimai nəqliyyat, universitet yataqxanaları və tələbə kartı ilə bir çox sahədə endirimlər əldə etmək mümkündür.",
+        "education_quality": "İtaliya universitetləri incəsənət, dizayn, memarlıq və humanitar elmlər üzrə dünya liderləri arasında yer alır. Bologna Universiteti dünyanın ən qədim universitetidir və Bolonya prosesi adlanan Avropa Ali Təhsil Sahəsinin əsas qurucu sənədinə ev sahibliyi etmişdir. Texniki və tibb sahələrində də Politecnico di Milano, Politecnico di Torino kimi universitetlər qabaqcıl mövqedədir. İtaliya universitetlərində həm nəzəri, həm də praktik tədris balanslı şəkildə təqdim olunur.",
+        "top_fields": "Memarlıq, incəsənət və dizayn, mühəndislik, hüquq, iqtisadiyyat, beynəlxalq münasibətlər, tibb və mədəniyyət idarəçiliyi sahələri üzrə proqramlar İtaliyada xüsusilə populyardır. Əlavə olaraq qida texnologiyası, moda sənayesi və tarix sahələrində də geniş təhsil imkanları var.",
+        "social_environment": "İtaliya tələbələr üçün həm akademik, həm də sosial baxımdan çox zəngin mühit təqdim edir. Mədəniyyət festivalları, sənət sərgiləri, musiqi tədbirləri və kulinariya tədbirləri tələbə həyatının ayrılmaz hissəsidir. Şəhərlər tarixi abidələrlə, rəngarəng küçələrlə və aktiv ictimai həyatla doludur. Beynəlxalq tələbələr üçün universitetlər xüsusi dəstək proqramları, dil kursları və mentorluq xidmətləri təqdim edir. İngilis dili bəzi şəhərlərdə geniş istifadə olunsa da, gündəlik həyatda italyanca bilmək çox faydalıdır.",
+        "recommendations": [
+          "İtaliyada universitetə müraciət üçün 'Uni-Italia' mərkəzləri və ya birbaşa universitetlər vasitəsilə erkən müraciət etməyə çalışın.",
+          "Təqaüd imkanlarını araşdırın – 'Invest Your Talent in Italy', 'Erasmus Mundus' və universitet daxili təqaüdlər geniş seçim imkanı təqdim edir.",
+          "İtaliya universitetlərində bəzi proqramlar üçün motivasiya məktubu və tövsiyə məktubları çox ciddi qiymətləndirilir – fərqlənmək üçün xüsusi layihələr və fərdi bacarıqlara fokuslanın.",
+          "Memarlıq, incəsənət və dizayn proqramlarına müraciət edirsinizsə, portfolionuzun keyfiyyətinə xüsusi diqqət yetirin.",
+          "İqlim və həyat tərzi şəhərə görə fərqlənir – şimal bölgələrdə daha sərin və nizamlı həyat tərzi, cənub bölgələrdə isə daha rahat və sosial mühit hökm sürür."
+        ],
+        "universities": [
+    { "name": "University of Bologna", "link": "../universities/university.html?id=bologna" },
+    { "name": "Sapienza University of Rome", "link": "../universities/university.html?id=sapienza" },
+    { "name": "Politecnico di Milano", "link": "../universities/university.html?id=politecnicomilano" },
+    { "name": "University of Padua", "link": "../universities/university.html?id=padua" },
+    { "name": "Politecnico di Torino", "link": "../universities/university.html?id=politecnicotorino" },
+    { "name": "University of Pisa", "link": "../universities/university.html?id=pisa" },
+    { "name": "University of Florence", "link": "../universities/university.html?id=florence" },
+    { "name": "University of Turin", "link": "../universities/university.html?id=turin" }
+]
+      },
+      {
+        "name": "Hollandiya Universitetləri",
+        "image": "../images/netherlands.png",
+        "description": "Hollandiya Avropanın ən güclü təhsil sistemlərindən birinə malikdir və ingilis dilində təhsil sahəsində liderlərdəndir. Burada 2100-dən çox proqram tamamilə ingilis dilində tədris olunur. Hollandiya universitetləri problem əsaslı öyrənmə (Problem-Based Learning - PBL) metodikası ilə məşhurdur və tələbələrə analitik düşünmə, praktiki bacarıqlar və müstəqil araşdırma qabiliyyəti qazandırır. Akademik azadlıq, tələbə mərkəzli yanaşma və qlobal perspektiv Holland təhsil sisteminin əsas xüsusiyyətlərindəndir.",
+        "exams": "Hollandiyada ingilis dilli proqramlara müraciət üçün IELTS imtahanında adətən minimum 6.0 bal tələb olunur, lakin çox sayda proqram 6.5 və üzərini tövsiyə edir. TOEFL imtahanı üçün 80–90 bal arası nəticə kifayət edir. Bəzi bakalavr proqramları üçün əlavə giriş testləri və ya müsahibələr tələb oluna bilər (xüsusilə tibb, hüquq və psixologiya sahələrində). Universitetlər motivasiya məktublarına, akademik tövsiyələrə və GPA səviyyəsinə böyük diqqət yetirirlər.",
+        "living_cost": "Hollandiyada yaşayış xərcləri bölgəyə görə dəyişir. Amsterdam, Rotterdam və Utrecht kimi böyük şəhərlərdə tələbənin aylıq xərcləri 1000–1400 avro arası ola bilər. Digər şəhərlərdə (məsələn, Eindhoven, Groningen) bu rəqəm 800–1100 avro arasında dəyişir. Bura kirayə, qida, nəqliyyat və şəxsi xərclər daxildir. Tələbələr üçün yaşayış xərclərini azaltmaq üçün dövlət yataqxanaları, tələbə evləri və nəqliyyatda güzəştli kartlar mövcuddur.",
+        "education_quality": "Hollandiya universitetləri tədris keyfiyyəti və tədqiqat sahəsində Avropada və dünyada yüksək yerlərdədir. Delft University of Technology, University of Amsterdam, Leiden University və Erasmus University Rotterdam kimi universitetlər mühəndislik, hüquq, tibb, iqtisadiyyat və sosial elmlər sahələrində dünya reytinqlərində yüksək mövqedədirlər. Problem əsaslı öyrənmə yanaşması və komandada işləmə bacarığının inkişaf etdirilməsi Holland təhsilinin əsas üstünlüklərindəndir.",
+        "top_fields": "Mühəndislik, informasiya texnologiyaları, iqtisadiyyat, beynəlxalq münasibətlər, hüquq, tibb, davamlı inkişaf (sustainability), su mühəndisliyi və şəhər planlaşdırması sahələri üzrə Hollandiyada proqramlar xüsusilə güclüdür. Əlavə olaraq dizayn və incəsənət sahələrində də çoxsaylı beynəlxalq səviyyəli proqramlar mövcuddur.",
+        "social_environment": "Hollandiya multikultural, tolerant və açıq cəmiyyətə malikdir. Universitetlərdə tələbə ittifaqları və beynəlxalq tələbə təşkilatları (ESN Netherlands kimi) çox aktivdir. Velosiped sürmək, açıq hava festivalları və interaktiv tədris üsulları Hollandiyada tələbə həyatının ayrılmaz hissəsidir. İngilis dili gündəlik həyatda geniş istifadə olunur, lakin Holland dilini öyrənmək sosial adaptasiya və gələcək iş imkanları üçün böyük üstünlükdür.",
+        "recommendations": [
+          "Hollandiyada universitetlərə müraciət adətən Studielink platforması vasitəsilə edilir – qeydiyyat tarixlərinə diqqət edin, çünki bəzi proqramlarda erkən seçim olur.",
+          "Təqaüdlər üçün Holland Government Scholarship, Erasmus+ və universitetlərin öz daxili təqaüd proqramlarını araşdırın.",
+          "Motivasiya məktubu və akademik tövsiyələr qəbul prosesində böyük rol oynayır – şəxsi bacarıqlarınıza və proqramla necə uyğunlaşdığınıza fokuslanın.",
+          "Problem əsaslı öyrənmə (PBL) metodikası tələb edir ki, tələbə müstəqil, aktiv və qrup işinə açıq olsun – bu yanaşmaya hazır olmaq önəmlidir.",
+          "Hollandiyada tələbələr üçün iş imkanları mövcuddur – tələbə vizası ilə həftədə 16 saat işləmək icazəsi var (yay tətilində tam zamanlı işləmək mümkündür)."
+        ],
+        "universities": [
+    { "name": "Delft University of Technology (TU Delft)", "link": "../universities/university.html?id=tudelft" },
+    { "name": "University of Amsterdam (UvA)", "link": "../universities/university.html?id=amsterdam" },
+    { "name": "Leiden University", "link": "../universities/university.html?id=leiden" },
+    { "name": "Erasmus University Rotterdam", "link": "../universities/university.html?id=erasmus" },
+    { "name": "Utrecht University", "link": "../universities/university.html?id=utrecht" },
+    { "name": "Eindhoven University of Technology (TU/e)", "link": "../universities/university.html?id=eindhoven" },
+    { "name": "Vrije Universiteit Amsterdam (VU Amsterdam)", "link": "../universities/university.html?id=vuamsterdam" },
+    { "name": "University of Groningen", "link": "../universities/university.html?id=groningen" },
+    { "name": "Maastricht University", "link": "../universities/university.html?id=maastricht" },
+    { "name": "Radboud University", "link": "../universities/university.html?id=radboud" }
+]
+      },
+      {
+        "name": "Şərqi Avropa Universitetləri",
+        "image": "../images/eastern_europe.png",
+        "description": "Macarıstan, Çexiya, Slovakiya və Polşa — Şərqi Avropanın yüksələn təhsil mərkəzləri hesab olunurlar. Hər dörd ölkə yüksək təhsil keyfiyyəti, münasib təhsil haqları və beynəlxalq tələbələr üçün əlverişli həyat şəraiti təqdim edir. Universitetlər Bolonya sisteminə uyğun fəaliyyət göstərir və Erasmus+ proqramında geniş iştirak edirlər. Həm bakalavr, həm də magistr səviyyəsində çox sayda ingilis dilli proqram mövcuddur.",
+        "exams": "Bu ölkələrdə ingilis dilli proqramlara qəbul üçün adətən IELTS imtahanında minimum 6.0 bal tələb olunur, lakin 6.5 bal və üzəri almaq üstünlük qazandırır. TOEFL imtahanı ilə də müraciət etmək mümkündür – 80–90 bal aralığı kifayət sayılır. Bəzi sahələr üzrə (xüsusilə tibb, hüquq, mühəndislik) əlavə qabiliyyət testləri və ya giriş imtahanları tələb oluna bilər. Macarıstan və Slovakiya universitetləri bəzən sadəcə sənədlər (GPA, motivasiya məktubu) əsasında seçim edir, amma Çexiya və Polşa bəzi sahələr üçün fərdi müsahibə və ya qəbul testi də keçirir.",
+        "living_cost": "Şərqi Avropa ölkələri arasında yaşayış xərcləri qərb ölkələri ilə müqayisədə daha münasibdir. Budapeşt, Varşava və Praqa kimi böyük şəhərlərdə tələbənin aylıq yaşayış xərci 700–1000 avro arasında dəyişir. Bratislava və Krakov kimi şəhərlərdə bu rəqəm 600–900 avro civarındadır. Hər dörd ölkədə tələbələrə yataqxanalar, tələbə kartı ilə ictimai nəqliyyatda endirimlər və ucuz yeməkxana imkanları təqdim edilir.",
+        "education_quality": "Macarıstan əsasən tibb, mühəndislik və sosial elmlər üzrə güclüdür (xüsusilə Semmelweis University, ELTE və Budapest University of Technology). Çexiya texnologiya, iqtisadiyyat və hüquq sahələrində inkişaf etmişdir (məsələn, Charles University, Czech Technical University). Slovakiya iqtisadiyyat, texnologiya və tibb üzrə stabil təhsil mərkəzidir. Polşa isə son illərdə tibb, hüquq, iqtisadiyyat və mühəndislik sahələrində Avropa miqyasında ciddi nüfuz qazanıb (University of Warsaw, Jagiellonian University).",
+        "top_fields": "Macarıstan: Tibb, mühəndislik, sosial elmlər. Çexiya: Hüquq, texnologiya, biznes idarəçiliyi. Slovakiya: İqtisadiyyat, tibb, informasiya texnologiyaları. Polşa: Beynəlxalq münasibətlər, tibb, hüquq, mühəndislik və biznes idarəçiliyi.",
+        "social_environment": "Şərqi Avropa ölkələrində tələbə həyatı canlı və rəngarəngdir. Macarıstanın Budapeşt şəhəri tələbə həyatının mərkəzlərindən biridir – musiqi festivalları, mədəni tədbirlər və idman yarışları geniş yayılmışdır. Çexiyada tələbə şəhərləri (xüsusilə Praqa və Brno) aktiv sosial mühit və açıq mədəniyyətlə seçilir. Slovakiyada tələbə həyatı daha sakit olsa da, sosial layihələr, təqaüd proqramları və könüllülük fəaliyyətləri geniş yayılıb. Polşa isə tələbə festivalları, beynəlxalq tələbə klubları və Erasmus+ mübadilələri ilə məşhurdur. İngilis dili təhsil və akademik həyat üçün geniş istifadə olunsa da, gündəlik həyatda yerli dilləri bilmək (macarca, çexcə, slovakca, polyakca) sosial inteqrasiyanı asanlaşdırır.",
+        "recommendations": [
+          "Müraciət etməzdən öncə seçdiyiniz universitetin sənəd tələblərini diqqətlə araşdırın – bəzi proqramlar giriş imtahanı və ya müsahibə tələb edə bilər.",
+          "Stipendium Hungaricum (Macarıstan), Polish National Agency Scholarships (Polşa), Czech Government Scholarships (Çexiya) kimi dövlət təqaüd proqramlarına müraciət imkanı var.",
+          "İngilis dili biliklərinizi təsdiqləmək üçün IELTS və ya TOEFL nəticəsini erkən əldə etməyə çalışın.",
+          "Şərqi Avropa ölkələrində tələbə vizası prosedurları bəzən zamana görə dəyişə bilər – sənədləri vaxtında toplamaq vacibdir.",
+          "Yaşayış üçün böyük şəhərlər daha canlıdır, amma kiçik şəhərlərdə daha az xərc və daha sıx akademik dəstək imkanı ola bilər."
+        ],
+        "universities": [
+    { "name": "Eötvös Loránd University (ELTE) (Macarıstan)", "link": "../universities/university.html?id=elte" },
+    { "name": "Semmelweis University (Macarıstan)", "link": "../universities/university.html?id=semmelweis" },
+    { "name": "Budapest University of Technology and Economics (BME) (Macarıstan)", "link": "../universities/university.html?id=bme" },
+    { "name": "University of Szeged (SZTE) (Macarıstan)", "link": "../universities/university.html?id=szeged" },
+    { "name": "University of Debrecen (Macarıstan)", "link": "../universities/university.html?id=debrecen" },
+    { "name": "Charles University (Çexiya)", "link": "../universities/university.html?id=charles" },
+    { "name": "Czech Technical University in Prague (Çexiya)", "link": "../universities/university.html?id=ctu" },
+    { "name": "University of Economics in Prague (VSE) (Çexiya)", "link": "../universities/university.html?id=vse" },
+    { "name": "Comenius University in Bratislava (Slovakiya)", "link": "../universities/university.html?id=comenius" },
+    { "name": "Slovak University of Technology in Bratislava (Slovakiya)", "link": "../universities/university.html?id=sutb" },
+    { "name": "University of Warsaw (Polşa)", "link": "../universities/university.html?id=warsaw" },
+    { "name": "Jagiellonian University (Polşa)", "link": "../universities/university.html?id=jagiellonian" },
+    { "name": "Warsaw University of Technology (Polşa)", "link": "../universities/university.html?id=wut" }
+]
+      },
+      {
+        "name": "Yaponiya Universitetləri",
+        "image": "../images/japan.png",
+        "description": "Yaponiya dünyada texnologiya, elm və innovasiya sahəsində lider ölkələrdən biridir. Yapon universitetləri həm nəzəri bilik, həm də praktiki araşdırmalar sahəsində yüksək keyfiyyətli təhsil təqdim edir. Yaponiya mədəniyyətin, fənlərin və texnologiyanın birləşdiyi bir təhsil mühiti yaradır. Həm dövlət, həm də özəl universitetlər beynəlxalq tələbələr üçün ingilis dilli proqramlar təklif edir və son illərdə ingilis dilli bakalavr və magistr proqramlarının sayı əhəmiyyətli dərəcədə artıb.",
+        "exams": "Yaponiyada ingilis dilində tədris olunan proqramlar üçün adətən IELTS imtahanından 6.0 və ya 6.5 bal almaq tövsiyə edilir. TOEFL üçün 80–90 bal aralığı kifayət edir. Bəzi universitetlərdə (xüsusilə dövlət universitetlərində) əlavə yazılı testlər və ya onlayn müsahibə mərhələsi keçirilə bilər. Əgər proqram yapon dilindədirsə, JLPT (Japanese Language Proficiency Test) imtahanından ən azı N2 səviyyəsində nəticə tələb oluna bilər. Tibb və mühəndislik sahələrində bəzən əlavə qabiliyyət testləri istənilir.",
+        "living_cost": "Tokio və Osaka kimi böyük şəhərlərdə tələbənin aylıq yaşayış xərci 1000–1500 dollar arasında dəyişir. Kiçik şəhərlərdə isə bu rəqəm 700–1000 dollar aralığındadır. Yaponiyada tələbə yataqxanaları, kirayə evlər və kampusdaxili yeməkxanalar geniş yayılıb. Tələbələr üçün nəqliyyatda və ictimai xidmətlərdə endirimlər mövcuddur. Yaponiyanın yüksək həyat standartları və təhlükəsizlik səviyyəsi tələbə həyatı üçün çox əlverişlidir.",
+        "education_quality": "Yapon universitetləri tədqiqat və texnologiya sahəsində dünya liderlərindən biridir. University of Tokyo, Kyoto University və Osaka University kimi ali məktəblər elm, mühəndislik, biologiya və informasiya texnologiyaları üzrə ən yüksək səviyyəli təhsil və araşdırmalar təklif edir. Tədris əsasən ciddi akademik disiplinlə yanaşı praktiki layihələr, laboratoriya işləri və araşdırmalarla müşayiət olunur.",
+        "top_fields": "Mühəndislik, informasiya texnologiyaları, avtomobil sənayesi, biotexnologiya, iqtisadiyyat, beynəlxalq əlaqələr, tibb, enerji sistemləri və süni intellekt sahələri üzrə Yaponiyada təhsil çox yüksək səviyyədədir.",
+        "social_environment": "Yaponiyada tələbə həyatı qaydalı və təhlükəsizdir. Universitet kampuslarında tələbə klubları (idman, musiqi, texnologiya və sosial layihələr sahəsində) çox aktivdir. Yaponiya ənənəvi mədəniyyət və müasir texnologiyanın mükəmməl sintez olunduğu bir mühit təqdim edir. Tələbələr part-time işləmə hüququna sahibdirlər (həftədə 28 saata qədər) və bu, həm sosial inteqrasiya, həm də maddi dəstək baxımından mühüm rol oynayır. İngilis dili kampus mühitində geniş istifadə olunsa da, gündəlik həyatda əsasən yapon dili üstünlük təşkil edir – buna görə yerli dili öyrənmək böyük üstünlük yaradır.",
+        "recommendations": [
+          "MEXT (Monbukagakusho) dövlət təqaüd proqramına müraciət edin – bu proqram təhsil, yaşayış və səyahət xərclərini tam qarşılayır.",
+          "Təqaüd proqramları üçün universitetlərin öz daxili imkanlarını (məsələn, JASSO Scholarships) da araşdırın.",
+          "Yaponiyaya müraciət edərkən sənəd tərcümələrinin rəsmi və notarial təsdiqli olmasına diqqət edin.",
+          "Yapon universitetləri çox vaxt ciddi akademik intizam tələb edir – buna görə dərs yükü və layihə tələblərinə hazır olmaq vacibdir.",
+          "Əgər gündəlik həyatda daha rahat olmaq istəyirsinizsə, sadə yapon dilini (xüsusən gündəlik ifadələri) öyrənmək tövsiyə olunur."
+        ],
+        "universities": [
+    { "name": "University of Tokyo", "link": "../universities/university.html?id=tokyo" },
+    { "name": "Kyoto University", "link": "../universities/university.html?id=kyoto" },
+    { "name": "Osaka University", "link": "../universities/university.html?id=osaka" },
+    { "name": "Tokyo Institute of Technology", "link": "../universities/university.html?id=titech" },
+    { "name": "Tohoku University", "link": "../universities/university.html?id=tohoku" },
+    { "name": "Nagoya University", "link": "../universities/university.html?id=nagoya" },
+    { "name": "Kyushu University", "link": "../universities/university.html?id=kyushu" }
+]
+      },
+      {
+        "name": "Çin Universitetləri",
+        "image": "../images/china.png",
+        "description": "Çin son illərdə dünya təhsil bazarında böyük bir güc mərkəzinə çevrilib. Tədqiqat yönümlü universitetləri, dövlət dəstəyi ilə inkişaf etdirilən proqramları və beynəlxalq tələbələr üçün təqdim edilən çoxsaylı imkanları ilə tanınır. Çinin təhsil sistemi həm yüksək akademik keyfiyyəti, həm də müxtəlif sahələrdə geniş seçim imkanı təqdim edir. Pekin, Şanxay, Şençjen və digər böyük şəhərlərdə dünyanın ən yaxşı universitetləri yerləşir və ingilis dilində təhsil proqramlarının sayı getdikcə artır.",
+        "exams": "Çində ingilis dilli proqramlara müraciət üçün IELTS imtahanında adətən minimum 6.0 bal tələb olunur, lakin 6.5 bal almağınız üstünlük qazandırır. TOEFL nəticəsi təqdim edənlər üçün 80–90 bal aralığı kifayət edir. Çin dilli proqramlara müraciət edənlər üçün HSK (Chinese Proficiency Test) imtahanından B2 səviyyəsinə uyğun (adətən HSK 4 və ya HSK 5) nəticə tələb olunur. Tibb, mühəndislik və hüquq kimi sahələrdə əlavə qəbul imtahanları və ya müsahibə mərhələsi ola bilər.",
+        "living_cost": "Çində yaşayış xərcləri şəhərdən şəhərə fərqlənir. Pekin və Şanxay kimi iri şəhərlərdə tələbənin aylıq yaşayış xərci 700–1100 dollar arasında dəyişə bilər. Digər şəhərlərdə (məsələn, Wuhan, Nanjing, Xian) bu xərclər 400–800 dollar civarında olur. Universitet yataqxanaları geniş yayılmışdır və tələbələrə sərfəli qiymətlərlə yaşayış təqdim edilir. Kampus yeməkxanaları və nəqliyyat da olduqca ucuzdur.",
+        "education_quality": "Çin universitetləri tədqiqat sahəsində böyük sıçrayış ediblər və hazırda dünya reytinqlərində yüksək yerlərdədirlər. Tsinghua University və Peking University mühəndislik, texnologiya və ictimai elmlər sahəsində liderdir. Fudan University, Zhejiang University və Shanghai Jiao Tong University kimi ali məktəblər biznes, informatika, tibb və biologiya sahələrində dünya səviyyəsində tanınır. Universitetlərdə akademik intizam çox ciddi qorunur və tələbələrdən yüksək performans tələb olunur.",
+        "top_fields": "Mühəndislik, informasiya texnologiyaları, biznes idarəçiliyi, beynəlxalq münasibətlər, tibb, enerji mühəndisliyi, süni intellekt və qlobal ticarət sahələri üzrə Çin universitetləri çox güclüdür. Həmçinin Çin dili və Şərq Asiya araşdırmaları sahələri üzrə də xüsusi proqramlar mövcuddur.",
+        "social_environment": "Çində tələbə həyatı çox dinamik və mədəniyyətlə zəngindir. Universitet kampuslarında tələbə təşkilatları, idman klubları və mədəni tədbirlər geniş yayılıb. Çində beynəlxalq tələbələr üçün xüsusi dəstək xidmətləri (dil kursları, oriyentasiya proqramları) mövcuddur. İngilis dili kampuslarda kifayət qədər geniş istifadə olunsa da, gündəlik həyatda Çin dili bilmək çox faydalıdır. Çin cəmiyyəti qonaqpərvərdir, lakin bəzi yerlərdə dil və mədəniyyət fərqləri adaptasiya dövrünü bir qədər uzada bilər.",
+        "recommendations": [
+          "Çində təhsil üçün əsas dövlət təqaüd proqramı 'Chinese Government Scholarship (CSC)' proqramıdır – buna erkən müraciət edin.",
+          "Bəzi universitetlər öz daxili təqaüdlərini və endirimlərini təqdim edir – müraciət edərkən bu imkanları araşdırın.",
+          "Təhsil dövründə əlavə olaraq HSK (Çin dili bilik səviyyəsi) sertifikatı əldə etmək gələcək iş imkanları üçün böyük üstünlük verə bilər.",
+          "Çində universitet seçərkən şəhərin həyat səviyyəsini və xərclərini də nəzərə alın – bəzi iri şəhərlərdə yaşam daha bahalıdır.",
+          "Çin universitetlərində dərs rejimi ciddi və intensivdir – layihələr, imtahanlar və tədqiqat işləri vaxtında və keyfiyyətli yerinə yetirilməlidir."
+        ],
+        "universities": [
+    { "name": "Tsinghua University", "link": "../universities/university.html?id=tsinghua" },
+    { "name": "Peking University", "link": "../universities/university.html?id=peking" },
+    { "name": "Fudan University", "link": "../universities/university.html?id=fudan" },
+    { "name": "Shanghai Jiao Tong University", "link": "../universities/university.html?id=sjtu" },
+    { "name": "Zhejiang University", "link": "../universities/university.html?id=zhejiang" },
+    { "name": "University of Science and Technology of China (USTC)", "link": "../universities/university.html?id=ustc" },
+    { "name": "Nanjing University", "link": "../universities/university.html?id=nanjing" }
+]
+      },
+      {
+        "name": "Cənubi Koreya Universitetləri",
+        "image": "../images/south_korea.png",
+        "description": "Cənubi Koreya Asiyanın və dünyanın ən inkişaf etmiş təhsil sistemlərindən birinə sahibdir. Güclü texnoloji infrastrukturu, akademik səviyyəsi və innovasiya yönümlü yanaşması ilə Cənubi Koreya universitetləri beynəlxalq tələbələr üçün cazibədar mərkəzə çevrilib. Tələbələr burada həm yüksək səviyyəli akademik biliklər, həm də güclü peşə bacarıqları əldə edirlər. Seul, Daejeon və Busan kimi şəhərlər tədqiqat və texnologiya mərkəzləridir.",
+        "exams": "Cənubi Koreyada ingilis dilli proqramlara müraciət üçün adətən IELTS imtahanından minimum 6.0 bal tələb olunur, lakin 6.5 və ya daha yüksək bal üstünlük sayılır. TOEFL üçün 80–90 bal arası nəticə kifayət edir. Koreya dilli proqramlara müraciət üçün isə TOPIK (Test of Proficiency in Korean) imtahanından minimum TOPIK Level 3 və ya Level 4 tələb oluna bilər. Bəzi universitetlər qəbul prosesində müsahibə mərhələsi və akademik portfolio da istəyir.",
+        "living_cost": "Seul və Busan kimi iri şəhərlərdə tələbənin aylıq yaşayış xərcləri 800–1200 dollar arasında dəyişə bilər. Kiçik şəhərlərdə isə bu rəqəm 600–900 dollar aralığında olur. Universitet yataqxanaları geniş yayılmışdır və münasib qiymətlidir. Kampus yeməkxanaları, tələbə nəqliyyatı kartları və tələbələrə xüsusi endirim proqramları mövcuddur.",
+        "education_quality": "Cənubi Koreya universitetləri texnologiya, mühəndislik, biznes idarəçiliyi və tibb sahələrində dünya liderlərindəndir. Seoul National University (SNU), KAIST və POSTECH kimi universitetlər elm və texnologiya sahəsində ən yüksək reytinqlərə malikdir. Təhsil sistemində yüksək intizam, praktiki layihələr və tədqiqat yönümlü yanaşma əsas yer tutur. Universitetlər beynəlxalq əməkdaşlıq və startap dəstəyi sahəsində də çox aktivdirlər.",
+        "top_fields": "Mühəndislik, informasiya texnologiyaları, süni intellekt, biotexnologiya, biznes idarəçiliyi, qlobal ticarət, beynəlxalq münasibətlər və tibb sahələri üzrə Cənubi Koreya çox güclüdür. Əlavə olaraq mədəniyyət sənayesi (K-pop, film, dizayn) və media sahələri üzrə də geniş təhsil imkanları mövcuddur.",
+        "social_environment": "Cənubi Koreya çox dinamik, müasir və texnologiya yönümlü bir sosial mühit təqdim edir. Universitet kampuslarında tələbə klubları, idman yarışları, sosial layihələr və karyera mərkəzləri aktiv fəaliyyət göstərir. İngilis dili kampus mühitində yetərincə istifadə olunur, lakin gündəlik həyatda koreya dilini bilmək böyük üstünlük yaradır. Cənubi Koreya mədəniyyəti qonaqpərvər, eyni zamanda qaydalı və intizamlıdır – buna adaptasiya tələbə həyatında önəmli rol oynayır.",
+        "recommendations": [
+          "Global Korea Scholarship (GKS) və universitet daxili təqaüdlərə erkən müraciət edin – çox rəqabətlidir.",
+          "TOPIK imtahanından əlavə sertifikatlar və dil bacarıqları təqdim etmək qəbul şansınızı artırır.",
+          "Koreya universitetlərində dərs yükü və akademik tələblər yüksəkdir – layihə, tədqiqat və imtahanlara ciddi hazırlaşmaq lazımdır.",
+          "Universitetə müraciət zamanı motivasiya məktubunuzu konkret plan və məqsədlərlə əsaslandırın.",
+          "Seulda yaşam baha ola bilər, ona görə də kiçik şəhərlərdə yerləşən universitetlərə də diqqət edin – həm daha ucuzdur, həm də fərdi akademik dəstək daha güclü ola bilər."
+        ],
+        "universities": [
+    { "name": "Seoul National University (SNU)", "link": "../universities/university.html?id=snu" },
+    { "name": "Korea Advanced Institute of Science and Technology (KAIST)", "link": "../universities/university.html?id=kaist" },
+    { "name": "Pohang University of Science and Technology (POSTECH)", "link": "../universities/university.html?id=postech" },
+    { "name": "Korea University", "link": "../universities/university.html?id=korea_university" },
+    { "name": "Yonsei University", "link": "../universities/university.html?id=yonsei" },
+    { "name": "Hanyang University", "link": "../universities/university.html?id=hanyang" },
+    { "name": "Sungkyunkwan University (SKKU)", "link": "../universities/university.html?id=skku" },
+    { "name": "Ewha Womans University", "link": "../universities/university.html?id=ewha" }
+]
+      },
+      {
+        "name": "Sinqapur Universitetləri",
+        "image": "../images/singapore.png",
+        "description": "Sinqapur Asiyanın və dünyanın ən güclü təhsil mərkəzlərindən biridir. Sürətli iqtisadi inkişafı ilə yanaşı, təhsil sisteminə verdiyi xüsusi diqqət sayəsində Sinqapur universitetləri qlobal reytinqlərdə ön sıralarda yer alır. İngilis dili ölkənin rəsmi dillərindən biridir və bütün universitetlərdə tədris dili kimi istifadə olunur. Sinqapur innovasiya, tədqiqat və texnologiya yönümlü təhsil mühiti təqdim edir və tələbələrə həm akademik, həm də peşəkar inkişaf üçün zəngin imkanlar yaradır.",
+        "exams": "Sinqapur universitetlərinə müraciət üçün IELTS imtahanından minimum 6.5 bal tələb olunur, bəzi qabaqcıl proqramlar isə 7.0 və üzəri bal istəyir. TOEFL üçün isə 90–100 aralığında bal kifayət edir. Bəzi bakalavr proqramlarında SAT və ya ACT imtahanı nəticəsi də tələb oluna bilər. Magistr proqramlarında bəzən GRE və ya GMAT nəticələri əlavə olaraq istənilə bilər. Xüsusilə NUS, NTU və SMU kimi universitetlər yüksək akademik göstəricilərə ciddi diqqət yetirirlər.",
+        "living_cost": "Sinqapur dünyanın ən bahalı şəhərlərindən biridir, lakin tələbələr üçün müxtəlif yaşayış variantları mövcuddur. Aylıq yaşayış xərcləri adətən 800–1500 dollar (USD) arasında dəyişir. Universitet yataqxanaları, kampus içi yeməkxanalar və ictimai nəqliyyatda tələbə endirimləri tələbələr üçün sərfəli alternativlər təqdim edir. Eyni zamanda Sinqapurun təhlükəsiz və yüksək həyat keyfiyyətli mühiti tələbə həyatı üçün çox əlverişlidir.",
+        "education_quality": "Sinqapur universitetləri akademik gücləri, tədqiqat imkanları və qlobal şəbəkələri ilə məşhurdur. National University of Singapore (NUS) və Nanyang Technological University (NTU) dünyada ilk 20 universitet arasında yer alır. Singapore Management University (SMU) biznes və sosial elmlər sahəsində liderdir. Sinqapur universitetləri tədqiqat yönümlü və tətbiq əsaslı öyrənməni balanslı şəkildə təqdim edir, tələbələrə layihələr, startaplar və real dünya problemləri üzərində işləmə imkanı verir.",
+        "top_fields": "Biznes idarəçiliyi, mühəndislik, informasiya texnologiyaları, süni intellekt, biotexnologiya, maliyyə, hüquq, beynəlxalq münasibətlər və tibb sahələri üzrə Sinqapur universitetləri qlobal liderlər sırasındadır.",
+        "social_environment": "Sinqapur multikultural və açıq bir cəmiyyətə malikdir. Universitet kampuslarında müxtəlif mədəniyyətləri bir araya gətirən tələbə klubları, idman komandaları, sosial və mədəni tədbirlər çox fəaldır. İngilis dili gündəlik həyatda geniş istifadə olunur, bu da beynəlxalq tələbələr üçün inteqrasiyanı asanlaşdırır. Sinqapur yüksək təhlükəsizlik səviyyəsi, təmiz mühit və mükəmməl ictimai nəqliyyat sistemi ilə tələbələr üçün ideal bir yaşayış mühiti təqdim edir.",
+        "recommendations": [
+          "Sinqapur universitetlərinə müraciət çox rəqabətlidir – GPA, IELTS/TOEFL balları və əlavə fəaliyyətlərə (könüllülük, layihələr) xüsusi diqqət yetirin.",
+          "Təqaüd imkanlarını araşdırın – Sinqapur Hökumət Təqaüdü (SINGA) və universitetlərin daxili təqaüd proqramları geniş seçim imkanı verir.",
+          "SAT və ya ACT imtahanı bəzi bakalavr proqramlarında tələb oluna bilər – müraciət etməzdən öncə bunu yoxlayın.",
+          "Seçdiyiniz proqramın 'interview' mərhələsi ola bilər – buna hazırlıqlı olun.",
+          "Yaşayış və gündəlik xərcləri planlaşdırarkən kampusdaxili yataqxanalar və qrup kirayə variantlarını nəzərə alın."
+        ],
+        "universities": [
+    { "name": "National University of Singapore (NUS)", "link": "../universities/university.html?id=nuos" },
+    { "name": "Nanyang Technological University (NTU)", "link": "../universities/university.html?id=ntu" },
+    { "name": "Singapore Management University (SMU)", "link": "../universities/university.html?id=singapore_management_university" },
+    { "name": "Singapore University of Technology and Design (SUTD)", "link": "../universities/university.html?id=sutd" }
+]
+      },
+      {
+        "name": "Avstraliya Universitetləri",
+        "image": "../images/australia.png",
+        "description": "Avstraliya dünyada təhsil keyfiyyətinə görə ən yüksək səviyyədə olan ölkələrdən biridir. İngilis dilində təhsil sistemi, güclü elmi-tədqiqat infrastrukturu və tələbələr üçün əlverişli sosial mühit Avstraliyanı beynəlxalq tələbələr üçün ən populyar istiqamətlərdən birinə çevirir. Avstraliya universitetləri geniş akademik seçim, praktiki yanaşma və qlobal ticarət, elm və texnologiya mərkəzləri ilə sıx əlaqələr təqdim edir. Sydney, Melbourne, Brisbane, Perth kimi şəhərlər dünyanın ən yaşanmalı şəhərləri siyahısında mütəmadi olaraq yüksək yerlərdədir.",
+        "exams": "Avstraliya universitetlərinə qəbul üçün adətən IELTS imtahanında minimum 6.5 bal tələb olunur, bəzi proqramlar üçün 7.0 və üzəri bal tövsiyə edilir. TOEFL imtahanı üçün 79–100 bal aralığı qəbul edilir. Bəzi bakalavr proqramları üçün əlavə olaraq SAT və ya ACT nəticələri tələb oluna bilər. Magistr proqramlarında isə bəzi sahələrdə GRE və ya GMAT imtahanları istənilə bilər (xüsusilə biznes və mühəndislik sahələrində). Tibb və hüquq kimi sahələrdə əlavə müsahibə və ya qabiliyyət testləri də tətbiq edilə bilər.",
+        "living_cost": "Avstraliyada tələbələrin aylıq yaşayış xərcləri şəhərdən asılı olaraq 1200–2000 avro (təxminən 1800–3000 AUD) aralığında dəyişir. Sydney və Melbourne daha baha şəhərlərdir, lakin Brisbane, Adelaide və Perth kimi şəhərlərdə xərclər nisbətən daha münasibdir. Universitet yataqxanaları, paylaşılan mənzillər və tələbə hostelləri geniş yayılmışdır. Tələbələr nəqliyyatda, ictimai xidmətlərdə və gündəlik alış-verişdə xüsusi tələbə endirimlərindən istifadə edə bilərlər.",
+        "education_quality": "Avstraliya universitetləri akademik araşdırma, praktiki bilik və beynəlxalq əməkdaşlıq sahəsində yüksək nüfuza malikdir. University of Melbourne, Australian National University (ANU), University of Sydney və University of Queensland dünya reytinqlərində yüksək yerlərdədir. Tədris prosesi tələbə-mərkəzli yanaşmaya əsaslanır və layihələr, laboratoriya işləri, tədqiqat layihələri ilə zənginləşdirilmişdir. Avstraliya universitetləri məzunlarına geniş qlobal karyera imkanları da təqdim edir.",
+        "top_fields": "Tibb, mühəndislik, biznes və idarəetmə, informasiya texnologiyaları, ətraf mühit elmləri, hüquq, beynəlxalq münasibətlər, turizm və otel idarəçiliyi sahələri üzrə Avstraliya universitetləri dünya miqyasında lider mövqedədir. Eyni zamanda ekologiya, dəniz elmləri və təhsil sahələri üzrə də yüksək keyfiyyətli proqramlar mövcuddur.",
+        "social_environment": "Avstraliya tələbələr üçün təhlükəsiz, tolerant və çoxmədəniyyətli bir cəmiyyət təqdim edir. Universitet kampuslarında tələbə klubları, idman komandaları, sosial fəaliyyətlər və tədqiqat qrupları çox fəaldır. İngilis dili rəsmi dil olduğu üçün gündəlik həyatda dil problemi yaşanmır. Tələbə vizası olanlar dərs zamanı həftədə 24 saat, tətil dövründə isə tam zamanlı işləyə bilərlər. Açıq hava tədbirləri, sahil mədəniyyəti və idman Avstraliyada tələbə həyatının ayrılmaz hissəsidir.",
+        "recommendations": [
+          "Avstraliyada universitetlərə müraciət adətən birbaşa universitetlərə edilir – erkən müraciət (ən azı 6-9 ay əvvəl) tövsiyə olunur.",
+          "Təqaüdlər üçün Australia Awards Scholarships, Destination Australia Scholarships və universitet daxili təqaüd imkanlarını araşdırın.",
+          "Student Visa (subclass 500) almaq üçün qəbul məktubu (CoE), maliyyə sənədləri və sağlamlıq sığortası (OSHC) tələb olunur.",
+          "IELTS nəticəsini erkən əldə edin, çünki viza prosesində də rəsmi dil sübutu vacibdir.",
+          "Yaşayış üçün paylaşılan mənzil və ya universitet yataqxanası seçmək həm daha sərfəli, həm də sosial inteqrasiya baxımından faydalı ola bilər."
+        ],
+        "universities": [
+    { "name": "University of Melbourne", "link": "../universities/university.html?id=melbourne" },
+    { "name": "Australian National University (ANU)", "link": "../universities/university.html?id=anu" },
+    { "name": "University of Sydney", "link": "../universities/university.html?id=sydney" },
+    { "name": "University of Queensland (UQ)", "link": "../universities/university.html?id=uq" },
+    { "name": "University of New South Wales (UNSW Sydney)", "link": "../universities/university.html?id=unsw" },
+    { "name": "Monash University", "link": "../universities/university.html?id=monash" },
+    { "name": "University of Western Australia (UWA)", "link": "../universities/university.html?id=uwa" }
+]
+      },
+      {
+        "name": "Kanada Universitetləri",
+        "image": "../images/canada.png",
+        "description": "Kanada dünya üzrə təhsil keyfiyyətinə görə ən yüksək sıralarda yer alır və beynəlxalq tələbələr üçün açıq, təhlükəsiz və inklüziv bir mühit təqdim edir. Kanada universitetləri akademik mükəmməllik, tədqiqat imkanları və innovasiya sahəsində güclüdür. İngilis və Fransız dillərində təhsil proqramları mövcuddur. Toronto, Vancouver, Montreal və Calgary kimi şəhərlər tələbələr üçün yaşamaq və təhsil almaq baxımından ideal mərkəzlərdir.",
+        "exams": "Kanada universitetlərinə müraciət üçün IELTS imtahanında adətən minimum 6.5 bal tələb olunur, bəzi proqramlar üçün isə 7.0 və ya daha yüksək bal tövsiyə edilir. TOEFL üçün 86–100 bal aralığı standartdır. Bəzi bakalavr proqramları üçün SAT və ya ACT nəticələri istənilə bilər. Magistr proqramlarında isə GRE və ya GMAT nəticələri (xüsusilə mühəndislik, biznes və iqtisadiyyat sahələrində) tələb oluna bilər. Fransız dilli proqramlara müraciət edərkən DELF və ya DALF nəticələri də təqdim edilə bilər.",
+        "living_cost": "Kanadada yaşayış xərcləri şəhərdən asılı olaraq dəyişir. Toronto və Vancouver kimi iri şəhərlərdə tələbənin aylıq yaşayış xərcləri 1200–1800 Kanada dolları (CAD) arasında dəyişə bilər. Montreal, Calgary və Edmonton kimi şəhərlərdə bu xərclər 900–1400 CAD civarındadır. Universitet yataqxanaları, tələbə evləri və paylaşılmış mənzillər yaşayış üçün geniş seçim imkanları yaradır. Tələbə kartları ilə ictimai nəqliyyatda və bir sıra xidmətlərdə endirimlər mövcuddur.",
+        "education_quality": "Kanada universitetləri tədqiqat və elmi nailiyyətlər sahəsində dünya miqyasında tanınır. University of Toronto, McGill University, University of British Columbia (UBC) və University of Alberta kimi universitetlər dünyanın ən yaxşı ali məktəbləri arasındadır. Kanada universitetləri tələbə mərkəzli yanaşmanı, interaktiv dərsləri və tədqiqat layihələrini təşviq edir. Təhsil proqramları qlobal əmək bazarının tələblərinə cavab verir və məzunlar üçün yüksək məşğulluq səviyyəsi təmin edir.",
+        "top_fields": "Mühəndislik, kompüter elmləri, tibb, biznes idarəçiliyi, təbiət elmləri, hüquq, ətraf mühit elmləri, süni intellekt və psixologiya sahələri üzrə Kanada universitetləri qlobal liderdir. Eyni zamanda biotexnologiya, kənd təsərrüfatı və enerji sahələrində də güclü proqramlar mövcuddur.",
+        "social_environment": "Kanada çoxmədəniyyətli və açıq bir cəmiyyət təqdim edir. Universitet kampuslarında tələbə klubları, könüllülük proqramları, idman və sosial fəaliyyətlər geniş yayılmışdır. İngilis dili əsas tədris və gündəlik ünsiyyət dili olsa da, Quebec əyalətində və bəzi proqramlarda fransız dili də geniş istifadə olunur. Kanada tələbələrə dərs zamanı həftədə 20 saat işləmək imkanı verir və təhsili bitirdikdən sonra Post-Graduation Work Permit (PGWP) proqramı çərçivəsində iş tapmaq şansı təqdim edir.",
+        "recommendations": [
+          "Kanada universitetlərinə müraciət etmək üçün tələb olunan sənədləri (IELTS, transkriptlər, tövsiyə məktubları) erkən hazırlayın.",
+          "Təqaüdlər üçün Canada Graduate Scholarships, Vanier Canada Graduate Scholarships və universitet daxili təqaüdləri araşdırın.",
+          "Student Visa (Study Permit) üçün qəbul məktubu (LOA) və maliyyə sənədləri toplamaq vacibdir.",
+          "Kanadada yaşamaq üçün universitet yataqxanası və ya paylaşılan mənzil variantlarını erkən planlaşdırın.",
+          "Quebec bölgəsində təhsil alacaqsınızsa, əlavə olaraq CAQ (Quebec Acceptance Certificate) sənədi əldə etməlisiniz."
+        ],
+        "universities": [
+    { "name": "University of Toronto", "link": "../universities/university.html?id=toronto" },
+    { "name": "McGill University", "link": "../universities/university.html?id=mcgill" },
+    { "name": "University of British Columbia (UBC)", "link": "../universities/university.html?id=ubc" },
+    { "name": "University of Alberta", "link": "../universities/university.html?id=alberta" },
+    { "name": "University of Montreal", "link": "../universities/university.html?id=montreal" },
+    { "name": "McMaster University", "link": "../universities/university.html?id=mcmaster" },
+    { "name": "University of Waterloo", "link": "../universities/university.html?id=waterloo" }
+]
+      },
+      {
+        "name": "Belçika Universitetləri",
+        "image": "../images/belgium.png",
+        "description": "Belçika Avropanın akademik mərkəzlərindən biri hesab olunur və beynəlxalq tələbələr üçün çoxsaylı imkanlar təqdim edir. Belçika həm fransız, həm flamand, həm də alman dilində danışılan ölkədir, lakin bir çox universitetlər ingilis dilində bakalavr və magistr proqramları da təklif edirlər. Güclü tədqiqat imkanları, mədəni müxtəliflik və Avropa İttifaqının ürəyində yerləşməsi Belçikanı təhsil üçün ideal məkan edir.",
+        "exams": "Belçika universitetlərinə qəbul üçün ingilis dilində proqramlara müraciət edənlər adətən IELTS imtahanından minimum 6.0–6.5 bal tələb olunmalıdır. TOEFL üçün 80–90 bal aralığı kifayət edir. Fransız və ya flamand dilində proqramlara müraciət edərkən müvafiq dil səviyyəsini (DELF, DALF və ya yerli dil sertifikatları) təqdim etmək lazımdır. Bəzi universitetlərdə motivasiya məktubu, akademik transkript və tövsiyə məktubları xüsusi rol oynayır. Bəzi ixtisaslar üçün isə əlavə giriş imtahanları və müsahibə mərhələsi keçirilə bilər.",
+        "living_cost": "Belçikada tələbənin aylıq yaşayış xərcləri 800–1200 avro aralığında dəyişir. Brüssel, Leuven və Gent kimi şəhərlərdə yaşayış bir qədər baha ola bilər, lakin digər şəhərlərdə və bölgələrdə bu xərclər daha münasibdir. Universitet yataqxanaları, tələbə evləri və paylaşılan mənzillər tələbələr üçün geniş imkanlar təqdim edir. Nəqliyyatda və ictimai xidmətlərdə tələbə endirimləri geniş tətbiq olunur.",
+        "education_quality": "Belçika universitetləri elmi tədqiqat və akademik təhsil sahəsində dünya səviyyəsində tanınır. Katholieke Universiteit Leuven (KU Leuven), Ghent University və Université Catholique de Louvain (UCLouvain) Avropanın ən yaxşı universitetləri arasındadır. Təhsil proqramları tələbə mərkəzli yanaşma, analitik düşüncə və tədqiqat bacarıqlarının inkişafına yönəlib. Belçika universitetləri tez-tez Erasmus+ və digər beynəlxalq mübadilə proqramlarında iştirak edirlər.",
+        "top_fields": "Hüquq, iqtisadiyyat və biznes idarəçiliyi, siyasət elmləri, tibb, mühəndislik, informasiya texnologiyaları və beynəlxalq münasibətlər sahələri üzrə Belçika universitetləri güclüdür. Əlavə olaraq Avropa İttifaqı əlaqələri, beynəlxalq hüquq və insan hüquqları sahələri üzrə də yüksək səviyyəli proqramlar təqdim edilir.",
+        "social_environment": "Belçika çoxmədəniyyətli və açıq bir cəmiyyətə sahibdir. Universitet kampuslarında sosial klublar, mədəni tədbirlər və beynəlxalq tələbə təşkilatları aktiv fəaliyyət göstərir. Brüsseldə Avropa İttifaqının mərkəzi ofisləri yerləşdiyindən, tələbələr üçün praktik təcrübə və karyera inkişafı baxımından da böyük imkanlar mövcuddur. İngilis dili akademik mühitdə geniş istifadə olunsa da, gündəlik həyatda fransız və flamand dilləri üstünlük təşkil edir — bu dillərdə əsas ifadələri öyrənmək sosial inteqrasiya üçün faydalı ola bilər.",
+        "recommendations": [
+          "Belçika universitetlərinə müraciət zamanı motivasiya məktubunuzu və akademik tövsiyələrinizi yüksək səviyyədə hazırlayın.",
+          "Erasmus Mundus və Belçika Dövlət Təqaüdləri (VLIR-UOS Scholarships, Belgian Development Cooperation Scholarships) proqramlarını araşdırın.",
+          "Hansı bölgədə təhsil alacağınıza diqqət edin — Flamand bölgəsində və Fransız bölgəsində təhsil sistemi və gündəlik həyat bir qədər fərqlənir.",
+          "Brüssel kimi iri şəhərlərdə yaşam baha ola bilər, daha sərfəli həyat üçün Leuven, Gent və Louvain-la-Neuve kimi şəhərləri də nəzərdən keçirin.",
+          "Viza və yaşayış icazəsi prosedurlarına erkən başlayın — bəzən prosess uzun çəkə bilir."
+        ],
+        "universities": [
+    { "name": "Katholieke Universiteit Leuven (KU Leuven)", "link": "../universities/university.html?id=kuleuven" },
+    { "name": "Ghent University", "link": "../universities/university.html?id=ghent" },
+    { "name": "Université Catholique de Louvain (UCLouvain)", "link": "../universities/university.html?id=uclouvain" },
+    { "name": "Université Libre de Bruxelles (ULB)", "link": "../universities/university.html?id=ulb" },
+    { "name": "University of Antwerp", "link": "../universities/university.html?id=antwerp" },
+    { "name": "Vrije Universiteit Brussel (VUB)", "link": "../universities/university.html?id=vub" }
+]
+      },
+      {
+        "name": "Türkiyə Universitetləri",
+        "image": "../images/turkey.png",
+        "description": "Türkiyə coğrafi mövqeyi, zəngin tarixi və mədəniyyəti ilə həm Avropa, həm də Asiya arasında körpü rolunu oynayır. Son illərdə Türkiyə təhsil sistemi beynəlxalq tələbələr üçün cazibə mərkəzinə çevrilib. Dövlət və özəl universitetlər yüksək təhsil keyfiyyəti, müxtəlif proqramlar və əlverişli təhsil haqları ilə seçilir. İstanbul, Ankara, İzmir kimi böyük şəhərlərlə yanaşı, Anadolu bölgəsindəki universitetlər də beynəlxalq səviyyədə təhsil imkanları təqdim edir.",
+        "exams": "Türkiyə universitetlərinə ingilis dilli proqramlar üçün müraciət edənlər adətən IELTS (minimum 6.0–6.5 bal) və ya TOEFL (60–80 bal) nəticələrini təqdim etməlidirlər. Türk dilində proqramlar üçün isə TÖMER (Türk dili səviyyə sertifikatı) tələb olunur – adətən B2 səviyyəsi yetərlidir. Dövlət universitetlərinə bakalavr proqramı üçün müraciət edən beynəlxalq tələbələrdən bəzi hallarda YÖS (Yabancı Uyruklu Öğrenci Sınavı) nəticəsi istənilir. Magistr və doktorantura proqramlarında əlavə olaraq motivasiya məktubu və akademik tövsiyə məktubları vacib rol oynayır.",
+        "living_cost": "Türkiyədə yaşayış xərcləri digər Avropa ölkələri ilə müqayisədə xeyli münasibdir. İstanbul və Ankara kimi iri şəhərlərdə tələbənin aylıq yaşayış xərcləri 400–700 dollar arasında dəyişir. Digər şəhərlərdə (məsələn, Eskişehir, Konya, Trabzon) bu rəqəm 300–500 dollar civarındadır. Universitet yataqxanaları və paylaşılan mənzillər geniş yayılıb. Nəqliyyat, yemək və digər xidmətlərdə tələbələr üçün xüsusi endirim imkanları mövcuddur.",
+        "education_quality": "Türkiyə universitetləri son illərdə beynəlxalq sıralamalarda yüksəlməkdədir. Boğaziçi Universiteti, Orta Doğu Teknik Üniversitesi (ODTÜ), İstanbul Teknik Üniversitesi (İTÜ), Koç Universiteti və Sabancı Universiteti kimi ali məktəblər mühəndislik, iqtisadiyyat, sosial elmlər və tibb sahələrində yüksək akademik səviyyəyə malikdir. Universitetlər həm nəzəri, həm də praktiki yönümlü təhsil yanaşmasını birləşdirirlər və tədqiqat sahəsinə böyük önəm verilir.",
+        "top_fields": "Mühəndislik, kompüter elmləri, biznes idarəçiliyi, beynəlxalq münasibətlər, iqtisadiyyat, tibb, hüquq və sosial elmlər sahələri üzrə Türkiyə universitetləri güclüdür. Əlavə olaraq turizm və otelçilik, aerokosmik mühəndislik, kənd təsərrüfatı və enerji sahələrində də inkişaf etmiş proqramlar mövcuddur.",
+        "social_environment": "Türkiyə çox zəngin mədəniyyətə, aktiv sosial həyata və qonaqpərvər cəmiyyətə sahibdir. Universitet kampuslarında tələbə klubları, idman fəaliyyətləri, mədəni tədbirlər və könüllülük layihələri geniş yayılıb. Böyük şəhərlərdə və tələbə şəhərlərində ingilis dili geniş istifadə olunsa da, gündəlik həyatda türk dilini bilmək tələbə həyatını asanlaşdırır və sosial inteqrasiyanı gücləndirir. Türkiyə həmçinin mətbəxi, tarix abidələri və təbii gözəllikləri ilə tələbələr üçün çox cəlbedici ölkədir.",
+        "recommendations": [
+          "Türkiyə bursları (Türkiye Scholarships) və universitet daxili təqaüd proqramlarına erkən müraciət edin.",
+          "Əgər türk dilində proqram seçirsinizsə, TÖMER sertifikatı almağı planlaşdırın.",
+          "İstanbul və Ankara kimi böyük şəhərlərdə həyat baha ola bilər, ona görə bölgə universitetlərini də araşdırın.",
+          "Dövlət universitetlərində təhsil haqları özəl universitetlərə nisbətən daha münasibdir – lakin özəl universitetlərdə geniş təqaüd imkanları mövcuddur.",
+          "Viza və oturum icazəsi proseslərinə vaxtında başlayın – Türkiyəyə gəlmədən əvvəl qəbul məktubu və maliyyə sənədləriniz hazır olmalıdır."
+        ],
+        "universities": [
+    { "name": "Boğaziçi University", "link": "../universities/university.html?id=bogazici" },
+    { "name": "Middle East Technical University (ODTÜ)", "link": "../universities/university.html?id=odtu" },
+    { "name": "Istanbul Technical University (İTÜ)", "link": "../universities/university.html?id=istanbul_teknik_universitesi" },
+    { "name": "Koç University", "link": "../universities/university.html?id=koc" },
+    { "name": "Sabancı University", "link": "../universities/university.html?id=sabanci" },
+    { "name": "Hacettepe University", "link": "../universities/university.html?id=hacettepe" },
+    { "name": "Ankara University", "link": "../universities/university.html?id=ankara" }
+]
+      },
+      {
+        "name": "Digər Universitetlər",
+        "image": "../images/mixed_countries.png",
+        "description": "Bu beş ölkə (İsveçrə, Avstriya, Rusiya, Yeni Zellandiya, İrlandiya) müxtəlif qitələrdə yerləşmələrinə baxmayaraq, hər biri öz sahəsində dünya səviyyəsində tanınan təhsil imkanları təqdim edir. İsveçrə elmi tədqiqat və texnologiya sahəsində, Yeni Zelandiya humanitar elmlər və ətraf mühit sahəsində, Avstriya musiqi, incəsənət və mühəndislik üzrə, İrlandiya informasiya texnologiyaları və biznes sahəsində, Rusiya isə əsasən texniki və fundamental elmlər sahəsində güclü təhsil mərkəzləri ilə tanınır.",
+        "exams": "Bu ölkələrə müraciət üçün ümumiyyətlə IELTS imtahanından 6.0–6.5 bal tələb olunur. TOEFL üçün 80–100 bal aralığı kifayət edir. Yeni Zelandiya və Avstriyada bəzi bakalavr proqramlarında SAT və ya ACT nəticəsi istənilə bilər. İsveçrə və Avstriyada fransız və alman dilli proqramlar üçün DELF, DALF və ya Goethe Zertifikat tələb oluna bilər. Rusiyada rus dilində proqramlara qəbul üçün TORFL (Test of Russian as a Foreign Language) imtahanı tələb oluna bilər.",
+        "living_cost": "İsveçrədə yaşayış xərcləri yüksəkdir – aylıq 1600–2500 avro. Yeni Zelandiyada bu xərclər 1000–1600 dollar (NZD) civarındadır. Avstriyada tələbələr üçün aylıq 800–1200 avro kifayət edir. İrlandiyada Dublində yaşayış daha bahalıdır (aylıq 1000–1600 avro), digər şəhərlərdə isə 800–1200 avro. Rusiyada isə Moskva və Sankt-Peterburq şəhərlərində aylıq 500–800 dollar, digər şəhərlərdə isə 300–600 dollar kifayət edir.",
+        "education_quality": "İsveçrə universitetləri (ETH Zurich, EPFL) texnologiya və mühəndislik sahəsində dünya liderlərindəndir. Yeni Zelandiya universitetləri (University of Auckland, University of Otago) ətraf mühit elmləri, biologiya və sosial elmlərdə güclüdür. Avstriya (University of Vienna, TU Wien) incəsənət, hüquq və texnologiya sahələrində yüksək səviyyədədir. İrlandiya universitetləri (Trinity College Dublin, University College Dublin) texnologiya, biznes və təbabət sahələrində nüfuzludur. Rusiya universitetləri (Moscow State University, St. Petersburg State University) əsasən riyaziyyat, fizika, mühəndislik və proqramlaşdırma sahələrində güclüdür.",
+        "top_fields": "İsveçrə: Mühəndislik, texnologiya, biznes, biologiya. Yeni Zelandiya: Ətraf mühit elmləri, humanitar elmlər, təhsil, turizm. Avstriya: Musiqi, incəsənət, hüquq, mühəndislik. İrlandiya: IT, proqramlaşdırma, biznes idarəçiliyi, tibb. Rusiya: Riyaziyyat, fizika, kompüter elmləri, mühəndislik və aerokosmik sahələr.",
+        "social_environment": "İsveçrə təhlükəsiz, dəqiq və çoxmədəniyyətli cəmiyyət təqdim edir. Yeni Zelandiya açıq təbiəti və dostcanlı insanları ilə seçilir. Avstriya mədəniyyət, musiqi və tarix baxımından zəngin mühit yaradır. İrlandiya qonaqpərvər və dinamik tələbə həyatına sahibdir. Rusiya isə zəngin mədəni irs, böyük şəhər həyatı və iqtisadi baxımdan əlverişli yaşayış xərcləri təqdim edir. İngilis dili Yeni Zelandiya və İrlandiyada rəsmi dildir, İsveçrədə, Avstriyada və Rusiyada isə ingilis dilli proqramlar mövcud olsa da, gündəlik həyatda yerli dillər üstünlük təşkil edir.",
+        "recommendations": [
+          "İsveçrə və Avstriyada universitetlərə erkən müraciət edin – qəbul proseduru uzun çəkə bilər.",
+          "Yeni Zelandiya və İrlandiyada tələbə vizası üçün qəbul məktubu və maliyyə sənədləri çox vacibdir.",
+          "Rusiyada rus dilində proqram seçirsinizsə, dil hazırlığı kurslarında iştirak etmək tövsiyə olunur.",
+          "İsveçrədə təqaüdlər üçün Swiss Government Excellence Scholarships proqramını, İrlandiyada isə Government of Ireland Scholarships proqramını araşdırın.",
+          "Yaşayış xərclərini planlaşdırın – xüsusən İsveçrə və Dublində həyat bahalıdır, büdcə planlamasına erkən başlayın."
+        ],
+        "universities": [
+          { "name": "ETH Zurich (İsveçrə)", "link": "https://ethz.ch/en.html" },
+          { "name": "École Polytechnique Fédérale de Lausanne (EPFL) (İsveçrə)", "link": "https://www.epfl.ch/en/" },
+          { "name": "University of Auckland (Yeni Zelandiya)", "link": "https://www.auckland.ac.nz/en.html" },
+          { "name": "University of Otago (Yeni Zelandiya)", "link": "https://www.otago.ac.nz/" },
+          { "name": "University of Vienna (Avstriya)", "link": "https://www.univie.ac.at/en/" },
+          { "name": "Vienna University of Technology (TU Wien) (Avstriya)", "link": "https://www.tuwien.at/en/" },
+          { "name": "Trinity College Dublin (İrlandiya)", "link": "https://www.tcd.ie/" },
+          { "name": "University College Dublin (UCD) (İrlandiya)", "link": "University College Dublin (UCD)" }
+        ]
+      }
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      
+      
+]

@@ -1,0 +1,308 @@
+/* Ümumi Stil */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Navbar */
+.navigation {
+    background-color: #1a237e;
+    color: #ffffff;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.nav-brand a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+.nav-brand img {
+    height: 40px;
+    margin-right: 0.5rem;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links li a:hover {
+    color: #ffcc00;
+}
+
+.nav-cta .cta-button {
+    background-color: #ffcc00;
+    color: #1a237e;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.nav-cta .cta-button:hover {
+    background-color: #ffd633;
+}
+
+/* Burger menyu üçün */
+.burger-menu {
+    display: none;
+    background: none;
+    border: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.burger-menu:focus {
+    outline: none;
+}
+
+/* Mobil cihazlar üçün */
+@media (max-width: 768px) {
+    .burger-menu {
+        display: block;
+    }
+
+    .nav-links {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        background-color: #1a237e;
+        padding: 1rem 0;
+        z-index: 1000;
+    }
+
+    .nav-links.active {
+        display: flex;
+    }
+
+    .nav-links li {
+        text-align: center;
+        margin: 0.5rem 0;
+    }
+
+    .nav-cta {
+        display: none;
+    }
+
+    /* Səhifə Başlığı */
+    .page-header h1 {
+        font-size: 2rem;
+    }
+
+    .page-header p {
+        font-size: 1rem;
+    }
+
+    /* Universitet Kartları */
+    .universities-container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    .university-card {
+        padding: 1rem;
+    }
+
+    .university-card h3 {
+        font-size: 1.2rem;
+    }
+
+    .university-card p {
+        font-size: 0.9rem;
+    }
+
+    .university-card .learn-more {
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+
+    /* Ölkə Kartları */
+    .countries-container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    .country-card h3 {
+        font-size: 1rem;
+    }
+
+    .country-card .learn-more {
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+
+    /* Footer */
+    .footer {
+        font-size: 0.8rem;
+        padding: 0.5rem 0;
+    }
+}
+
+/* Səhifə Başlığı */
+.page-header {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #1a237e;
+    color: white;
+}
+
+.page-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.page-header p {
+    font-size: 1.2rem;
+}
+
+/* Universitet Kartları */
+.universities-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.university-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.university-card .card-image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.university-card .card-content {
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex: 1;
+}
+
+.university-card h3 {
+    color: #1a237e;
+    margin-bottom: 0.5rem;
+}
+
+.university-card p {
+    color: #546e7a;
+    margin-bottom: 1rem;
+}
+
+.university-card .learn-more {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    text-align: center;
+    transition: background-color 0.3s ease;
+}
+
+.university-card .learn-more:hover {
+    background-color: #283593;
+}
+
+/* Ölkə Kartları */
+.countries-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.country-card {
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1rem;
+}
+
+.country-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.country-card h3 {
+    margin: 1rem 0;
+    color: #1a237e;
+    font-size: 1.2rem;
+}
+
+.country-card .learn-more {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    background-color: #1a237e;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    margin-top: auto;
+    transition: background-color 0.3s ease;
+}
+
+.country-card .learn-more:hover {
+    background-color: #283593;
+}
+
+/* Footer */
+.footer {
+    background-color: #1a237e;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+    font-size: 0.9rem;
+}

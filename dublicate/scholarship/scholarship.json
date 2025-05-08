@@ -1,0 +1,993 @@
+[
+    
+    {
+        "name": "Erasmus Mundus",
+        "type": "Beynəlxalq magistr təqaüdü",
+        "description": "Erasmus Mundus Joint Masters (EMJM) Avropa Komissiyası tərəfindən maliyyələşdirilən, dünyanın müxtəlif ölkələrindən olan universitetlərin birgə təşkil etdiyi yüksək səviyyəli magistr proqramlarıdır. Bu proqramlar tələbələrə müxtəlif ölkələrdə təhsil almaq imkanı verir və tam təqaüdlə təmin olunur.",
+        "duration": "1-2 il (60, 90 və ya 120 ECTS kreditləri)",
+        "degree": "Birgə və ya çoxsaylı magistr diplomları (ən azı iki universitet tərəfindən verilir)",
+        "eligibility": {
+          "citizenship": "Bütün ölkələrin vətəndaşları müraciət edə bilər (bəzən proqramdan asılı olaraq fərqlənə bilər)",
+          "return_requirement": "Xüsusi bir geri dönüş tələbi yoxdur, amma bəzi proqramlar regional tələblər qoya bilər",
+          "education": "Bakalavr dərəcəsi və ya ekvivalent təhsil səviyyəsi",
+          "work_experience": "Əksər hallarda iş təcrübəsi tələb olunmur, lakin bəzi proqramlar üstünlük verə bilər",
+          "university_offers": "Müvafiq Erasmus Mundus konsorsiumuna birbaşa müraciət etməli və qəbul olunmalıdır",
+          "language": "İngilis dili biliyi (TOEFL, IELTS və ya proqramın tələb etdiyi digər sübutlar)"
+        },
+        "benefits": {
+          "tuition": "Təhsil haqqının tam ödənilməsi",
+          "monthly_stipend": "Aylıq 1,400 EUR (maksimum 24 ay boyunca)",
+          "travel": "İllik səyahət xərcləri və reyestr haqqı üçün əlavə maliyyələşmə",
+          "visa": "Viza və icazə xərcləri üçün maliyyə dəstəyi",
+          "arrival_allowance": "Gəliş üçün birdəfəlik ödəniş (bəzi proqramlarda mövcuddur)",
+          "departure_allowance": "Proqram sonunda bəzi hallarda ayrılıq üçün yardım mümkündür",
+          "tb_test": "Xüsusi olaraq tələb olunmur",
+          "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+        },
+        "application": {
+          "period": "Adətən oktyabr - yanvar ayları arasında",
+          "process": "Seçilmiş Erasmus Mundus magistr proqramı konsorsiumlarına birbaşa müraciət edilir",
+          "documents": [
+            "Motivasiya məktubu",
+            "CV",
+            "Tövsiyə məktubları",
+            "Diplom və transkriptlər",
+            "Dil biliyini təsdiq edən sənəd (TOEFL, IELTS və ya bənzəri)"
+          ]
+        },
+        "selection_criteria": {
+          "leadership": "Liderlik qabiliyyəti və gələcək təsir potensialı (proqramdan asılı olaraq nəzərə alınır)",
+          "networking": "Akademik və peşəkar əlaqələri inkişaf etdirmək istəyi",
+          "academic_fit": "Seçilmiş magistr proqramına uyğun akademik və karyera planları",
+          "commitment": "Proqramı uğurla tamamlamaq və gələcəkdə müsbət dəyişiklik yaratmaq öhdəliyi"
+        },
+        "restrictions": {
+          "previous_study": "Əvvəllər Erasmus Mundus təqaüdü almış şəxslər yenidən müraciət edə bilməzlər",
+          "employment": "Xüsusi bir iş məhdudiyyəti yoxdur, lakin bəzi ölkələrdə viza qaydalarına görə işləmək məhdudlaşdırıla bilər"
+        },
+        "official_link": "https://erasmus-plus.ec.europa.eu/opportunities/opportunities-for-individuals/students/erasmus-mundus-joint-masters"
+      }
+      ,
+  {
+    "name": "Chevening Təqaüdləri",
+    "type": "Beynəlxalq magistr təqaüdü",
+    "description": "Chevening, Birləşmiş Krallığın Xarici, Birlik və İnkişaf İdarəsi (FCDO) və tərəfdaş təşkilatlar tərəfindən maliyyələşdirilən, gələcək liderləri dəstəkləmək məqsədi daşıyan nüfuzlu beynəlxalq təqaüd proqramıdır. Bu proqram, bir illik magistr təhsili üçün tam maliyyələşdirmə təmin edir və iştirakçılara akademik, peşəkar və mədəni imkanlar təqdim edir.",
+    "duration": "1 il (tam zamanlı magistr proqramı)",
+    "degree": "İstənilən sahədə bir illik magistr dərəcəsi",
+    "eligibility": {
+      "citizenship": "Chevening-ə uyğun ölkə və ya ərazinin vətəndaşı olmaq",
+      "return_requirement": "Təqaüd bitdikdən sonra ən azı iki il ərzində vətənə qayıtmaq öhdəliyi",
+      "education": "İngiltərədə magistr proqramına qəbul üçün uyğun bakalavr dərəcəsi",
+      "work_experience": "Ən azı iki il (təxminən 2,800 saat) iş təcrübəsi",
+      "university_offers": "Üç fərqli və uyğun UK universitet proqramına müraciət və ən azı birindən şərtsiz qəbul məktubu əldə etmək",
+      "language": "Chevening artıq İngilis dili sertifikatı tələb etmir, lakin seçilən universitetlər dil tələbləri qoymuş ola bilər"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Aylıq yaşayış xərcləri üçün təqaüd",
+      "travel": "Gediş-gəliş üçün iqtisadi sinif aviabiletləri",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə qədər £75 qədər dəstək",
+      "networking": "Eksklüziv tədbirlər, seminarlar və peşəkar şəbəkə imkanları"
+    },
+    "application": {
+      "period": "Adətən avqustun əvvəlindən noyabrın əvvəlinə qədər",
+      "process": "Online müraciət forması doldurulur, uyğunluq yoxlaması keçirilir, seçilmiş namizədlər müsahibəyə dəvət olunur",
+      "documents": [
+        "Etibarlı pasport və ya şəxsiyyət vəsiqəsi",
+        "Bakalavr diplomu və transkriptlər",
+        "İki tövsiyə məktubu",
+        "Üç fərqli UK magistr proqramına müraciət və ən azı birindən şərtsiz qəbul məktubu",
+        "CV və motivasiya məktubu"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Birləşmiş Krallıq hökuməti tərəfindən maliyyələşdirilən təqaüdlə UK-də təhsil almış şəxslər müraciət edə bilməz",
+      "employment": "UK hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməz"
+    },
+    "official_link": "https://www.chevening.org/"
+  },
+  {
+    "name": "Fulbright Proqramı",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Fulbright Təqaüd Proqramı, ABŞ Dövlət Departamentinin Təhsil və Mədəniyyət Məsələləri Bürosu tərəfindən maliyyələşdirilən və 1946-cı ildə senator J. William Fulbright tərəfindən təsis edilmişdir. Proqramın məqsədi ABŞ və digər ölkələr arasında qarşılıqlı anlaşmanı və mədəni əlaqələri gücləndirməkdir. Fulbright proqramı, tələbələrə, alimlərə, müəllimlərə və peşəkar mütəxəssislərə təhsil almaq, tədqiqat aparmaq və dərs demək üçün imkanlar təqdim edir.",
+    "duration": "6 ay - 2 il (proqram növündən asılı olaraq)",
+    "degree": "Magistr və ya doktorantura səviyyəsində təhsil və ya tədqiqat proqramları",
+    "eligibility": {
+      "citizenship": "ABŞ vətəndaşları və ya digər ölkələrin vətəndaşları (proqram növünə görə dəyişir)",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq ən azı iki il yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Bakalavr dərəcəsi və ya ekvivalent təhsil səviyyəsi",
+      "work_experience": "Bəzi proqramlar üçün iş təcrübəsi tələb oluna bilər",
+      "university_offers": "Müvafiq universitetdən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "İngilis dili biliyi (TOEFL, IELTS və ya digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam və ya qismən ödənilməsi",
+      "monthly_stipend": "Aylıq yaşayış xərcləri üçün təqaüd",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "J-1 viza dəstəyi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Proqramdan və ölkədən asılı olaraq dəyişir",
+      "process": "Online müraciət forması doldurulur, uyğunluq yoxlaması keçirilir, seçilmiş namizədlər müsahibəyə dəvət olunur",
+      "documents": [
+        "Motivasiya məktubu",
+        "CV",
+        "Tövsiyə məktubları",
+        "Diplom və transkriptlər",
+        "Dil biliyini təsdiq edən sənəd"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Fulbright təqaüdü almış şəxslər yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "ABŞ hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://foreign.fulbrightonline.org/"
+  },
+  {
+    "name": "DAAD Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "DAAD (Deutscher Akademischer Austauschdienst) Almaniyanın beynəlxalq akademik əməkdaşlığı təşviq edən ən böyük təşkilatıdır. 1925-ci ildə təsis edilmişdir və əsas məqsədi Almaniya ilə digər ölkələr arasında tələbə və alim mübadiləsini dəstəkləməkdir. DAAD müxtəlif təqaüd proqramları vasitəsilə tələbələrə, tədqiqatçılara və müəllimlərə Almaniyada təhsil almaq, tədqiqat aparmaq və dərs demək imkanları təqdim edir.",
+    "duration": "Proqramdan asılı olaraq 6 aydan 4 ilə qədər",
+    "degree": "Magistr və ya doktorantura səviyyəsində təhsil və ya tədqiqat proqramları",
+    "eligibility": {
+      "citizenship": "DAAD təqaüdləri üçün müraciət edən şəxslər adətən Almaniya vətəndaşı olmamalıdırlar",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq müəyyən müddət yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Bakalavr dərəcəsi və ya ekvivalent təhsil səviyyəsi",
+      "work_experience": "Bəzi proqramlar üçün iş təcrübəsi tələb oluna bilər",
+      "university_offers": "Müvafiq Alman universitetindən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "İngilis və ya Alman dili biliyi (TOEFL, IELTS, DSH və ya TestDaF sertifikatları)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam və ya qismən ödənilməsi",
+      "monthly_stipend": "Aylıq təqaüd (məsələn, magistrantlar üçün 934 avro, doktorantlar üçün 1,300 avro)",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Proqramdan və ölkədən asılı olaraq dəyişir",
+      "process": "Online müraciət forması doldurulur, uyğunluq yoxlaması keçirilir, seçilmiş namizədlər müsahibəyə dəvət olunur",
+      "documents": [
+        "Motivasiya məktubu",
+        "CV",
+        "Tövsiyə məktubları",
+        "Diplom və transkriptlər",
+        "Dil biliyini təsdiq edən sənəd"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər DAAD təqaüdü almış şəxslər yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Alman hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://www.daad.de/en/studying-in-germany/scholarships/"
+  },
+  {
+    "name": "Commonwealth Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Commonwealth Təqaüd Proqramı, Birləşmiş Krallığın Xarici, Birlik və İnkişaf İdarəsi (FCDO) tərəfindən maliyyələşdirilən və Commonwealth Scholarship Commission (CSC) tərəfindən idarə olunan bir proqramdır. Bu proqram, inkişaf etməkdə olan Commonwealth ölkələrindən olan tələbələrə Birləşmiş Krallıqda magistr və doktorantura səviyyəsində təhsil almaq imkanı təqdim edir. Məqsəd, iştirakçıların öz ölkələrinin davamlı inkişafına töhfə vermələrini təmin etməkdir.",
+    "duration": "1-3 il (proqram növündən asılı olaraq)",
+    "degree": "Magistr və ya doktorantura dərəcəsi",
+    "eligibility": {
+      "citizenship": "Commonwealth ölkələrinin vətəndaşları və ya daimi sakinləri",
+      "return_requirement": "Təqaüd bitdikdən sonra vətənə qayıdaraq ən azı iki il yaşamaq öhdəliyi",
+      "education": "Magistr proqramları üçün bakalavr dərəcəsi (ən azı 2:1 səviyyəsində), doktorantura proqramları üçün uyğun magistr dərəcəsi",
+      "work_experience": "Bəzi proqramlar üçün iş təcrübəsi tələb oluna bilər",
+      "university_offers": "Müvafiq Birləşmiş Krallıq universitetindən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "İngilis dili biliyi (TOEFL, IELTS və ya proqramın tələb etdiyi digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Aylıq yaşayış xərcləri üçün təqaüd (məsələn, London üçün £1,652, digər bölgələr üçün £1,347)",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən sentyabr - noyabr ayları arasında",
+      "process": "Online müraciət forması doldurulur, uyğunluq yoxlaması keçirilir, seçilmiş namizədlər müsahibəyə dəvət olunur",
+      "documents": [
+        "Motivasiya məktubu",
+        "CV",
+        "Tövsiyə məktubları",
+        "Diplom və transkriptlər",
+        "Dil biliyini təsdiq edən sənəd"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Commonwealth təqaüdü almış şəxslər yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Birləşmiş Krallıq hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://cscuk.fcdo.gov.uk/"
+  },
+  {
+    "name": "İsveçrə Hökumət Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Swiss Government Excellence Scholarships, İsveçrə Konfederasiyası tərəfindən hər il təqdim olunan və beynəlxalq tələbələrə, tədqiqatçılara və sənətçilərə İsveçrədə təhsil almaq və tədqiqat aparmaq imkanı verən təqaüd proqramıdır. Proqramın məqsədi İsveçrə ilə digər ölkələr arasında akademik və mədəni əlaqələri gücləndirməkdir.",
+    "duration": "12 aydan 36 aya qədər (proqram növündən asılı olaraq)",
+    "degree": "Magistr, doktorantura və postdoktorantura səviyyəsində təhsil və ya tədqiqat proqramları",
+    "eligibility": {
+      "citizenship": "İsveçrə ilə diplomatik əlaqələri olan ölkələrin vətəndaşları",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq müəyyən müddət yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Ən azı magistr dərəcəsi (sənət təqaüdləri üçün bakalavr dərəcəsi)",
+      "work_experience": "Bəzi proqramlar üçün iş təcrübəsi tələb oluna bilər",
+      "university_offers": "İsveçrədəki tanınmış universitetlərdən birindən qəbul məktubu və ya tədqiqat dəstəyi",
+      "language": "İngilis, Alman, Fransız və ya İtalyan dili biliyi (proqramın tələblərinə uyğun olaraq)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam və ya qismən ödənilməsi",
+      "monthly_stipend": "Aylıq CHF 1,920 təqaüd",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən sentyabr - dekabr ayları arasında (ölkəyə görə dəyişir)",
+      "process": "Online müraciət forması doldurulur, uyğunluq yoxlaması keçirilir, seçilmiş namizədlər müsahibəyə dəvət olunur",
+      "documents": [
+        "Motivasiya məktubu",
+        "CV",
+        "Tövsiyə məktubları",
+        "Diplom və transkriptlər",
+        "Dil biliyini təsdiq edən sənəd",
+        "Tədqiqat təklifi və ya sənət layihəsi planı",
+        "İsveçrədəki akademik rəhbərdən dəstək məktubu"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Swiss Government Excellence Scholarship almış şəxslər yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "İsveçrə hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html"
+  },
+  {
+    "name": "CSC Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Çin Hökuməti Təqaüd Proqramı (CSC), Çin Təhsil Nazirliyinin nəzdində fəaliyyət göstərən Çin Təqaüd Şurası tərəfindən idarə olunur. Bu proqram, beynəlxalq tələbələrə Çin universitetlərində bakalavr, magistr və doktorantura səviyyələrində təhsil almaq imkanı təqdim edir. Məqsəd, Çin və digər ölkələr arasında təhsil, mədəniyyət və elmi sahələrdə əməkdaşlığı gücləndirməkdir.",
+    "duration": "Bakalavr: 4-5 il, Magistr: 2-3 il, Doktorantura: 3-4 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Çin vətəndaşı olmayan beynəlxalq tələbələr",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq müəyyən müddət yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur, lakin bəzi proqramlar üçün üstünlük verilə bilər",
+      "university_offers": "Müvafiq Çin universitetindən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "İngilis dili (TOEFL, IELTS) və ya Çin dili (HSK) biliyi tələb oluna bilər"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Bakalavr: 2,500 RMB, Magistr: 3,000 RMB, Doktorantura: 3,500 RMB",
+      "travel": "Gediş-gəliş üçün aviabiletlər (bəzi proqramlar üçün)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən dekabrın ortalarından aprelin sonuna qədər",
+      "process": "1. CSC onlayn müraciət formasını doldurmaq; 2. Seçilmiş universitetə müraciət etmək və tələb olunan sənədləri təqdim etmək; 3. Müsahibə və ya əlavə seçim mərhələlərində iştirak etmək",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "800 sözlük təhsil və ya tədqiqat planı",
+        "İki tövsiyə məktubu",
+        "Səhiyyə müayinəsi forması (Foreigner Physical Examination Form)",
+        "Dil biliyini təsdiq edən sənəd",
+        "Cinayət məsuliyyətinin olmaması haqqında arayış"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Çin Hökuməti Təqaüdü almış şəxslər yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Çin hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://htp.edu.az/az/content/6"
+  },
+  {
+    "name": "MEXT Təqaüdü",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "MEXT (Monbukagakusho) Təqaüd Proqramı, Yaponiya Təhsil, Mədəniyyət, İdman, Elm və Texnologiya Nazirliyi tərəfindən idarə olunan və beynəlxalq tələbələrə Yaponiyada müxtəlif təhsil səviyyələrində təhsil almaq imkanı təqdim edən bir proqramdır. Məqsəd, beynəlxalq anlayışı və dostluğu təşviq etmək, eləcə də Yaponiyanın beynəlxalqlaşmasına töhfə verməkdir.",
+    "duration": "Bakalavr: 5 il (tibb, stomatologiya, baytarlıq: 6 il), Magistr: 2 il, Doktorantura: 3 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Yapon vətəndaşı olmayan şəxslər",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq müəyyən müddət yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur, lakin bəzi proqramlar üçün üstünlük verilə bilər",
+      "university_offers": "Müvafiq Yapon universitetindən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "Yapon və ya İngilis dili biliyi (TOEFL, IELTS və ya proqramın tələb etdiyi digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Bakalavr: 117,000 yen, Magistr: 144,000 yen, Doktorantura: 145,000 yen",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən aprel - may ayları arasında",
+      "process": "1. Yaponiyanın yerli səfirliyinə və ya konsulluğuna müraciət; 2. Yazılı imtahan və müsahibə; 3. Seçim nəticələrinin elan edilməsi; 4. MEXT tərəfindən son təsdiq və universitet yerləşdirilməsi",
+      "documents": [
+        "MEXT müraciət forması",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Təhsil və ya tədqiqat planı",
+        "İki tövsiyə məktubu",
+        "Səhiyyə müayinəsi forması",
+        "Dil biliyini təsdiq edən sənəd"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər MEXT təqaüdü almış şəxslər yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Yapon hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://www.studyinjapan.go.jp/en/planning/scholarships/mext-scholarships/"
+  },
+  {
+    "name": "Stipendium Hungaricum Təqaüdü",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Stipendium Hungaricum Təqaüd Proqramı, Macarıstan Hökuməti tərəfindən 2013-cü ildə beynəlxalq tələbələr üçün yaradılmışdır. Proqramın məqsədi Macarıstan ali təhsil müəssisələrinin beynəlmiləlləşməsini təşviq etmək və dünyanın müxtəlif ölkələrindən istedadlı tələbələri cəlb etməkdir. Təqaüd, bakalavr, magistr, doktorantura və birillik macar dili hazırlıq proqramlarını əhatə edir.",
+    "duration": "Bakalavr: 3-4 il, Magistr: 1.5-2 il, Doktorantura: 4 il, Macar dili hazırlıq: 1 il",
+    "degree": "Bakalavr, Magistr, Doktorantura və Macar dili hazırlıq proqramları",
+    "eligibility": {
+      "citizenship": "Macarıstan vətəndaşı olmayan və göndərən tərəfdaş ölkələrin vətəndaşları",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq müəyyən müddət yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur, lakin bəzi proqramlar üçün üstünlük verilə bilər",
+      "university_offers": "Müvafiq Macarıstan universitetindən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "İngilis və ya Macar dili biliyi (TOEFL, IELTS və ya proqramın tələb etdiyi digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": 
+        "bachelor_master: Hər ay 43,700 HUF (təxminən 110 EUR), doctoral: İlk 2 il üçün hər ay 140,000 HUF (təxminən 350 EUR), sonrakı 2 il üçün hər ay 180,000 HUF (təxminən 450 EUR), Pulsuz yataqxana yeri və ya hər ay 40,000 HUF (təxminən 100 EUR) yaşayış xərcləri üçün yardım, İllik 65,000 HUF (təxminən 160 EUR) dəyərində tibbi sığorta",
+      "travel": "Gediş-gəliş üçün aviabiletlər (bəzi proqramlar üçün)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən noyabr - yanvar ayları arasında",
+      "process": "1. Online müraciət forması doldurulur; 2. Göndərən tərəfdaş vasitəsilə nominasiya; 3. Seçilmiş Macarıstan universiteti tərəfindən qəbul prosesi",
+      "documents": [
+        "Müraciət forması",
+        "Diplom və transkriptlər",
+        "Motivasiya məktubu",
+        "Tövsiyə məktubları",
+        "Dil biliyini təsdiq edən sənəd",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Stipendium Hungaricum təqaüdü almış şəxslər eyni təhsil səviyyəsində yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Macarıstan hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://stipendiumhungaricum.hu/"
+  },
+  {
+    "name": "İtaliya Hökumət Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "İtaliya Hökuməti Təqaüd Proqramı (MAECI), İtaliyanın Xarici İşlər və Beynəlxalq Əməkdaşlıq Nazirliyi tərəfindən idarə olunan və beynəlxalq tələbələrə İtaliyanın akkreditə olunmuş ali təhsil müəssisələrində bakalavr, magistr və doktorantura səviyyələrində təhsil almaq imkanı təqdim edən bir proqramdır. Məqsəd, beynəlxalq tələbələrə İtaliyada təhsil almaq imkanı təqdim etməklə yanaşı, İtaliya ilə digər ölkələr arasında mədəni və elmi əməkdaşlığı gücləndirməkdir.",
+    "duration": "Bakalavr: 3 il, Magistr: 2 il, Doktorantura: 3 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "İtaliya vətəndaşı olmayan beynəlxalq tələbələr",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq müəyyən müddət yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur, lakin bəzi proqramlar üçün üstünlük verilə bilər",
+      "university_offers": "Müvafiq İtaliya universitetindən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "İngilis və ya İtalyan dili biliyi (TOEFL, IELTS və ya proqramın tələb etdiyi digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam və ya qismən ödənilməsi",
+      "monthly_stipend": "Aylıq 900 avro təqaüd",
+      "travel": "Gediş-gəliş üçün aviabiletlər (bəzi proqramlar üçün)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən fevral - may ayları arasında",
+      "process": "1. 'Study in Italy' platformasında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər MAECI təqaüdü almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "İtaliya hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://studyinitaly.esteri.it/"
+  },
+  {
+    "name": "Litva Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Litva Hökuməti Təqaüd Proqramı, Litva Təhsil və Elm Nazirliyi tərəfindən idarə olunan və beynəlxalq tələbələrə Litvanın akkreditə olunmuş ali təhsil müəssisələrində magistratura və qısamüddətli (1-2 semestr) təhsil almaq imkanı təqdim edən bir proqramdır. Məqsəd, beynəlxalq tələbələrə Litvada təhsil almaq imkanı təqdim etməklə yanaşı, Litva ilə digər ölkələr arasında mədəni və elmi əməkdaşlığı gücləndirməkdir.",
+    "duration": "Qısamüddətli təhsil: 1-2 semestr; Magistratura: 1.5-2 il",
+    "degree": "Qısamüddətli təhsil və Magistr dərəcələri",
+    "eligibility": {
+      "citizenship": "Litva vətəndaşı olmayan beynəlxalq tələbələr",
+      "return_requirement": "Proqramdan sonra vətənə qayıdaraq müəyyən müddət yaşamaq öhdəliyi (bəzi proqramlar üçün)",
+      "education": "Magistratura üçün bakalavr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur, lakin bəzi proqramlar üçün üstünlük verilə bilər",
+      "university_offers": "Müvafiq Litva universitetindən qəbul məktubu (bəzi proqramlar üçün)",
+      "language": "İngilis və ya Litva dili biliyi (TOEFL, IELTS və ya proqramın tələb etdiyi digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Aylıq 825 avro təqaüd",
+      "travel": "Gediş-gəliş üçün aviabiletlər (bəzi proqramlar üçün)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən fevral - aprel ayları arasında",
+      "process": "1. 'Study in Lithuania' platformasında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Litva Hökuməti Təqaüdü almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Litva hökumətində və ya əlaqəli təşkilatlarda işləyən və ya son iki ildə işləmiş şəxslər müraciət edə bilməzlər"
+    },
+    "official_link": "https://studyin.lt/scholarships/"
+  },
+
+  {
+    "name": "Harvard Universiteti Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Harvard Universiteti, maliyyə ehtiyacına əsaslanan təqaüd proqramları ilə tələbələrə təhsil almaq imkanı təqdim edir. Bu proqramlar, tələbələrin maliyyə vəziyyətindən asılı olmayaraq, Harvard təhsilini əlçatan etməyi hədəfləyir.",
+    "duration": "Bakalavr: 4 il, Magistr: 1-2 il, Doktorantura: 3-5 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Beynəlxalq və ABŞ vətəndaşları",
+      "return_requirement": "Yoxdur",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur",
+      "university_offers": "Harvard Universitetindən qəbul məktubu",
+      "language": "İngilis dili biliyi (TOEFL, IELTS və ya digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam və ya qismən ödənilməsi",
+      "monthly_stipend": "Maliyyə ehtiyacına əsasən dəyişir",
+      "travel": "Gediş-gəliş üçün aviabiletlər (bəzi proqramlar üçün)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən sentyabr - yanvar ayları arasında",
+      "process": "1. Harvard Universitetinin rəsmi veb saytında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Harvard Universitetində təqaüd almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Harvard Universitetində təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://college.harvard.edu/financial-aid"
+  },
+
+  {
+    "name": "Stanford Universiteti Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Stanford Universiteti, maliyyə ehtiyacına əsaslanan təqaüd proqramları ilə tələbələrə təhsil almaq imkanı təqdim edir. Bu proqramlar, tələbələrin maliyyə vəziyyətindən asılı olmayaraq, Stanford təhsilini əlçatan etməyi hədəfləyir.",
+    "duration": "Bakalavr: 4 il, Magistr: 1-2 il, Doktorantura: 3-5 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Beynəlxalq və ABŞ vətəndaşları",
+      "return_requirement": "Yoxdur",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur",
+      "university_offers": "Stanford Universitetindən qəbul məktubu",
+      "language": "İngilis dili biliyi (TOEFL, IELTS və ya digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam və ya qismən ödənilməsi",
+      "monthly_stipend": "Maliyyə ehtiyacına əsasən dəyişir",
+      "travel": "Gediş-gəliş üçün aviabiletlər (bəzi proqramlar üçün)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən sentyabr - yanvar ayları arasında",
+      "process": "1. Stanford Universitetinin rəsmi veb saytında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Stanford Universitetində təqaüd almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Stanford Universitetində təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://financialaid.stanford.edu/"
+  },
+
+  {
+    "name": "Clarendon Təqaüdləri",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Clarendon Təqaüd Proqramı, Oksford Universitetində magistr və doktorantura səviyyələrində təhsil almaq istəyən tələbələr üçün tam maliyyələşdirilən bir proqramdır. Bu təqaüd, akademik mükəmməllik və potensiala əsaslanaraq, hər il 200-dən çox yeni təqaüd təqdim edir.",
+    "duration": "Magistr: 1-2 il, Doktorantura: 3-4 il",
+    "degree": "Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Beynəlxalq və Böyük Britaniya vətəndaşları",
+      "return_requirement": "Yoxdur",
+      "education": "Magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur",
+      "university_offers": "Oksford Universitetindən qəbul məktubu",
+      "language": "İngilis dili biliyi (TOEFL, IELTS və ya digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil və kollec haqlarının tam ödənilməsi",
+      "monthly_stipend": "Aylıq yaşayış xərcləri üçün təqaüd (məbləğ illik olaraq dəyişə bilər)",
+      "travel": "Gediş-gəliş üçün aviabiletlər (bəzi proqramlar üçün)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən dekabr - yanvar ayları arasında",
+      "process": "1. Oksford Universitetinin rəsmi veb saytında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Clarendon Təqaüdü almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Oksford Universitetində təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://www.ox.ac.uk/clarendon"
+  },
+
+  {
+    "name": "Türkiye Bursları (YTB)",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Türkiye Bursları, Türkiyə Respublikasının dövlət tərəfindən maliyyələşdirilən və beynəlxalq tələbələrə Türkiyənin nüfuzlu universitetlərində təhsil almaq imkanı təqdim edən bir proqramdır. Proqram, tələbələrə universitet və ixtisas yerləşdirməsi, aylıq təqaüd, təhsil haqqının ödənilməsi, sağlamlıq sığortası, yaşayış, Türk dili kursu, aviabiletlər və akademik-mədəni proqramlar kimi geniş imkanlar təqdim edir.",
+    "duration": "Bakalavr: 4-6 il, Magistr: 2 il, Doktorantura: 4 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Türkiyə vətəndaşı olmayan beynəlxalq tələbələr",
+      "return_requirement": "Yoxdur",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Tələb olunmur",
+      "university_offers": "Müraciət zamanı universitet və ixtisas seçimi edilir",
+      "language": "Türk dili kursu proqram tərəfindən təmin edilir; bəzi proqramlar üçün İngilis dili biliyi tələb oluna bilər"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Bakalavr: 1000 TL, Magistr: 1400 TL, Doktorantura: 1800 TL",
+      "travel": "Gəliş və gediş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən yanvar - fevral ayları arasında",
+      "process": "1. 'Türkiye Bursları' platformasında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd (əgər tələb olunursa)",
+        "Tövsiyə məktubları"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Türkiye Bursları proqramından faydalanmış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Türkiyədə təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://www.turkiyeburslari.gov.tr/"
+  },
+
+  {
+    "name": "Romanian Government Scholarship",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Rumıniya Hökuməti Təqaüd Proqramı, Rumıniya Xarici İşlər Nazirliyi tərəfindən idarə olunan və beynəlxalq tələbələrə Rumıniyanın akkreditə olunmuş ali təhsil müəssisələrində bakalavr, magistr və doktorantura səviyyələrində təhsil almaq imkanı təqdim edən bir proqramdır. Məqsəd, beynəlxalq tələbələrə Rumıniyada təhsil almaq imkanı təqdim etməklə yanaşı, Rumıniya ilə digər ölkələr arasında mədəni və elmi əməkdaşlığı gücləndirməkdir.",
+    "duration": "Bakalavr: 3-6 il, Magistr: 1.5-2 il, Doktorantura: 3-4 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Rumıniya vətəndaşı olmayan beynəlxalq tələbələr",
+      "return_requirement": "Yoxdur",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur",
+      "university_offers": "Müvafiq Rumıniya universitetindən qəbul məktubu",
+      "language": "Bakalavr və magistr proqramları üçün Rumın dili biliyi tələb olunur (əgər tələb olunmursa, bir illik hazırlıq kursu təmin edilir); doktorantura proqramları üçün Rumın və ya digər dillərdə tədris edilən proqramlar mövcuddur"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Bakalavr: 65 avro, Magistr: 75 avro, Doktorantura: 85 avro",
+      "travel": "Gediş-gəliş üçün aviabiletlər təmin edilmir",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım təmin edilmir",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım təmin edilmir",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək təmin edilmir",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən dekabr - mart ayları arasında",
+      "process": "1. 'Study in Romania' platformasında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd (əgər tələb olunursa)",
+        "Tövsiyə məktubları",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Rumıniya Hökuməti Təqaüdü almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Rumıniyada təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://scholarships.studyinromania.gov.ro/"
+  },
+
+
+  {
+    "name": "Hungarian Diaspora Scholarship",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Hungarian Diaspora Scholarship, Macarıstan hökuməti tərəfindən təşkil olunan və Macarıstan mənşəli şəxslərə Macarıstanda təhsil almaq imkanı təqdim edən bir proqramdır. Məqsəd, Macarıstan diasporası ilə əlaqələri gücləndirmək və iştirakçıların Macarıstan dili və mədəniyyəti ilə tanış olmalarını təmin etməkdir.",
+    "duration": "Bakalavr: 3-4 il, Magistr: 1-2 il, Doktorantura: 2+2 il",
+    "degree": "Bakalavr, Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Macarıstan vətəndaşı olmayan, lakin Macarıstan mənşəli şəxslər",
+      "return_requirement": "Yoxdur",
+      "education": "Bakalavr üçün orta məktəb diplomu, magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur",
+      "university_offers": "Müvafiq Macarıstan universitetindən qəbul məktubu",
+      "language": "İngilis və ya Macar dili biliyi (proqramın dilinə uyğun olaraq)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Bakalavr və magistr proqramları üçün aylıq 43,700 HUF (təxminən 124 USD); doktorantura proqramları üçün ilk 4 semestrdə aylıq 140,000 HUF (təxminən 396 USD), sonrakı 4 semestrdə aylıq 180,000 HUF (təxminən 509 USD)",
+      "travel": "Bir dəfəlik 330,000 HUF (təxminən 933 USD) səyahət xərci (əgər yaşayış yeri Budapeştdən 8,000 km və ya daha uzaqdadır)",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım təmin edilmir",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım təmin edilmir",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək təmin edilmir",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən noyabr - yanvar ayları arasında",
+      "process": "1. 'Diaspora Scholarship' platformasında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd (əgər tələb olunursa)",
+        "Tövsiyə məktubları",
+        "Səhiyyə müayinəsi forması"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Hungarian Diaspora Scholarship proqramından faydalanmış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Macarıstanda təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://diasporascholarship.hu/en/"
+  },
+
+  {
+    "name": "VLİR-UOS Scholarships (Belçika)",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "VLIR-UOS, inkişaf etməkdə olan ölkələrdən olan tələbələrə Belçikanın Flamand universitetlərində magistr təhsili almaq imkanı təqdim edən bir proqramdır. Məqsəd, bu ölkələrdəki insan resurslarının inkişafına töhfə vermək və bilik paylaşımını təşviq etməkdir.",
+    "duration": "Magistr: 1-2 il",
+    "degree": "Magistr dərəcəsi",
+    "eligibility": {
+      "citizenship": "VLIR-UOS tərəfindən müəyyən edilmiş 29 ölkənin vətəndaşları və daimi sakinləri",
+      "return_requirement": "Yoxdur",
+      "education": "Əlaqədar sahədə bakalavr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur, lakin inkişaf sahəsində təcrübə üstünlükdür",
+      "university_offers": "Müvafiq Flamand universitetindən qəbul məktubu",
+      "language": "İngilis dili biliyi (TOEFL, IELTS və ya digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Aylıq yaşayış xərcləri üçün təqaüd",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən noyabr - fevral ayları arasında",
+      "process": "1. VLIR-UOS tərəfindən təsdiqlənmiş proqramlara müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Tövsiyə məktubları"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər VLIR-UOS təqaüdü almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Belçikada təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://www.vliruos.be/en/scholarships"
+  },
+
+
+  {
+    "name": "Eiffel Excellence Scholarships",
+    "type": "Beynəlxalq akademik və mədəni mübadilə proqramı",
+    "description": "Eiffel Excellence Təqaüd Proqramı, Fransanın Avropa və Xarici İşlər Nazirliyi tərəfindən idarə olunan və beynəlxalq tələbələrə Fransanın ali təhsil müəssisələrində magistr və doktorantura səviyyələrində təhsil almaq imkanı təqdim edən bir proqramdır. Məqsəd, beynəlxalq tələbələrə Fransada təhsil almaq imkanı təqdim etməklə yanaşı, Fransa ilə digər ölkələr arasında mədəni və elmi əməkdaşlığı gücləndirməkdir.",
+    "duration": "Magistr: 12-36 ay, Doktorantura: 12-36 ay",
+    "degree": "Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Fransa vətəndaşı olmayan beynəlxalq tələbələr",
+      "return_requirement": "Yoxdur",
+      "education": "Magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur",
+      "university_offers": "Müvafiq Fransız universitetindən qəbul məktubu",
+      "language": "Fransız və ya İngilis dili biliyi (proqramın dilinə uyğun olaraq)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam və ya qismən ödənilməsi",
+      "monthly_stipend": "Magistr: 1,181 avro, Doktorantura: 1,800 avro",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən oktyabr - yanvar ayları arasında",
+      "process": "1. Fransız ali təhsil müəssisəsində qəbul üçün müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Tövsiyə məktubları"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər Eiffel Təqaüd Proqramı almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Fransada təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://www.campusfrance.org/en/france-excellence-eiffel-scholarship-program"
+  },
+
+
+  {
+    "name": "Taiwan ICDF Scholarships",
+    "type": "Beynəlxalq akademik və inkişaf əməkdaşlığı proqramı",
+    "description": "TaiwanICDF Təqaüd Proqramı, Tayvanın Beynəlxalq Əməkdaşlıq və İnkişaf Fondu (ICDF) tərəfindən idarə olunan və inkişaf etməkdə olan ölkələrdən olan tələbələrə Tayvanın nüfuzlu universitetlərində magistr və doktorantura səviyyələrində təhsil almaq imkanı təqdim edən bir proqramdır. Məqsəd, bu ölkələrdə insan resurslarının inkişafına töhfə vermək və bilik paylaşımını təşviq etməkdir.",
+    "duration": "Magistr: 2 il, Doktorantura: 3-4 il",
+    "degree": "Magistr və Doktorantura dərəcələri",
+    "eligibility": {
+      "citizenship": "Tayvan vətəndaşı olmayan və ICDF tərəfdaş ölkələrinin vətəndaşları",
+      "return_requirement": "Yoxdur",
+      "education": "Magistr üçün bakalavr dərəcəsi, doktorantura üçün magistr dərəcəsi",
+      "work_experience": "Əksər proqramlar üçün tələb olunmur, lakin inkişaf sahəsində təcrübə üstünlükdür",
+      "university_offers": "Müvafiq Tayvan universitetindən qəbul məktubu",
+      "language": "İngilis dili biliyi (TOEFL, IELTS və ya digər sübutlar)"
+    },
+    "benefits": {
+      "tuition": "Təhsil haqqının tam ödənilməsi",
+      "monthly_stipend": "Magistr: aylıq 18,000 TWD (təxminən 580 USD), Doktorantura: aylıq 20,000 TWD (təxminən 645 USD)",
+      "travel": "Gediş-gəliş üçün aviabiletlər",
+      "visa": "Viza xərclərinin ödənilməsi",
+      "arrival_allowance": "Gəliş üçün birdəfəlik yardım təmin edilmir",
+      "departure_allowance": "Gediş üçün birdəfəlik yardım təmin edilmir",
+      "tb_test": "Tələb olunduqda, TB test xərclərinə dəstək təmin edilmir",
+      "networking": "Beynəlxalq akademik və peşəkar şəbəkələrə çıxış imkanı"
+    },
+    "application": {
+      "period": "Adətən dekabr - mart ayları arasında",
+      "process": "1. TaiwanICDF platformasında qeydiyyat və müraciət; 2. Tələb olunan sənədlərin yüklənməsi; 3. Seçim nəticələrinin elan edilməsi",
+      "documents": [
+        "Pasportun surəti",
+        "Ən yüksək təhsil dərəcəsinin diplomu və transkriptləri (notarial təsdiqli)",
+        "Motivasiya məktubu",
+        "Dil biliyini təsdiq edən sənəd",
+        "Tövsiyə məktubları"
+      ]
+    },
+    "selection_criteria": {
+      "leadership": "Liderlik potensialı və əvvəlki liderlik təcrübələri",
+      "networking": "Peşəkar əlaqələr qurma bacarığı",
+      "academic_fit": "Seçilmiş proqramların karyera planları ilə uyğunluğu",
+      "commitment": "Ölkəyə qayıdaraq müsbət dəyişikliklər etmək öhdəliyi"
+    },
+    "restrictions": {
+      "previous_study": "Əvvəllər TaiwanICDF təqaüdü almış şəxslər bəzi hallarda yenidən bu təqaüdə müraciət edə bilməzlər",
+      "employment": "Tayvanda təhsil dövründə yalnız məhdud saatlarda işləməyə icazə verilir"
+    },
+    "official_link": "https://www.icdf.org.tw/wSite/mp?mp=2"
+  }
+  
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+]
